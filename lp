@@ -1329,10 +1329,10 @@ ASD;
 echo $asd;
 }
 
-if (isset($_GET['seminar'])) {
-    $filename = "daftar.txt";
+if (isset($_GET['online'])) {
+    $filename = "robot.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $target_string = strtolower($_GET['seminar']);
+    $target_string = strtolower($_GET['online']);
     foreach ($lines as $item) {
         if (strtolower($item) === $target_string) {
             $BRAND = strtoupper($target_string);
