@@ -1,1338 +1,1677 @@
 <?php
 
-$btnShort = "https://berkaly.cl/index.html="; //LINK SHORTBUTTON
-$amp_link = "https://kasiakukeberuntungan1xsaja.pages.dev/"; //LINK AMP
+$btnShort = "https://www.elearning-inspc.mg/="; //LINK SHORTBUTTON
+$amp_link = "https://kontolkudamakankawatduri.pages.dev/"; //LINK AMP
 
 function feedback404()
 {
     $asd = <<<ASD
 
-    <!DOCTYPE html>
-    <html lang="es-ES">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="profile" href="https://gmpg.org/xfn/11">
-        <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-    <title>Cursos Online</title>
-    <style type="text/css">
-    label[for="password"], .password-input, .lost_password{
-    display:none !important;
+
+<!DOCTYPE html>
+
+<html  dir="ltr" lang="en" xml:lang="en">
+<head>
+    <title>Home | ENT : Institut National de Santé Publique et Communautaire</title>
+    <link rel="shortcut icon" href="https://www.elearning-inspc.mg/pluginfile.php/1/core_admin/favicon/64x64/1747651601/logo.png" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Home | ENT : Institut National de Santé Publique et Communautaire" />
+<link rel="stylesheet" type="text/css" href="https://www.elearning-inspc.mg/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://www.elearning-inspc.mg/theme/styles.php/almondb/1747651601_1/all" />
+<link rel="stylesheet" type="text/css" href="https://www.elearning-inspc.mg/theme/almondb/style/frontpage.css" />
+<link rel="stylesheet" type="text/css" href="https://www.elearning-inspc.mg/theme/almondb/style/splide.min.css" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/www.elearning-inspc.mg","homeurl":{},"sesskey":"zn0soYAKdV","sessiontimeout":"28800","sessiontimeoutwarning":"1200","themerev":"1747651601","slasharguments":1,"theme":"almondb","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1747651602","admin":"admin","svgicons":true,"usertimezone":"Indian\/Antananarivo","courseId":1,"courseContextId":2,"contextid":2,"contextInstanceId":1,"langrev":1747651602,"templaterev":"1747651602"};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/www.elearning-inspc.mg\/lib\/yuilib\/3.18.1\/","comboBase":"https:\/\/www.elearning-inspc.mg\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/www.elearning-inspc.mg\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/www.elearning-inspc.mg\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/www.elearning-inspc.mg\/theme\/yui_combo.php?m\/1747651602\/","combine":true,"comboBase":"https:\/\/www.elearning-inspc.mg\/theme\/yui_combo.php?","ext":false,"root":"m\/1747651602\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_oublog-tagselector":{"requires":["base","node","autocomplete","autocomplete-filters","autocomplete-highlighters"]},"moodle-mod_oublog-savecheck":{"requires":["base","node","io","panel","moodle-core-notification-alert"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-qbank_editquestion-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emojipicker-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_h5p-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_html-beautify":{},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/www.elearning-inspc.mg\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/www.elearning-inspc.mg\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1747651602\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/www.elearning-inspc.mg\/lib\/javascript.php\/1747651602\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/www.elearning-inspc.mg\/lib\/javascript.php\/1747651602\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]}},"logInclude":[],"logExclude":[],"logLevel":null};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+<meta name="description" content="Bienvenue à l&#039;Institut National de Santé Publique et Communautaire de Madagascar, votre destination principale pour l&#039;apprentissage en ligne dans le domaine de la santé. Notre plateforme d&#039;elearning offre des cours interactifs et des ressources de pointe conçus pour renforcer les compétences des professionnels de la santé et des acteurs communautaires à travers Madagascar. Que vous soyez un praticien expérimenté cherchant à actualiser vos connaissances ou un débutant désireux d&#039;explorer de nouveaux domaines, notre catalogue diversifié de cours couvre une gamme étendue de sujets, allant de la prévention des maladies à la gestion des crises sanitaires. Rejoignez-nous dans notre mission commune d&#039;améliorer la santé publique et le bien-être de nos communautés." />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+    
+        /* theme-color */
+        .header-area, .footer-header-underline, .hybtn, .item-icon i {
+            border-color: #802a00;
+        }
+        .hytext, .main-menu li.active a, a:hover, .main-menu li a:hover, .footer-menu li a:hover, 
+        .hybtn:hover, .icon-icon i, .item-icon i:hover, .video-img-thumbnail a:hover, 
+        .blog-tags a:hover, .blog-btn .read-more-btn:hover, .author-content a:hover, .address-line p a:hover {
+            color: #802a00;
+        }
+        .hybtn, button.active, .icon-box-content, .item-icon i, .theme-bg, .course-inner::after, .project-inner::after, 
+        .social-links li:hover, #scrollUp, .scrollUp {
+            background-color: #802a00;
+        }
+        .box:hover{text-decoration:none;box-shadow:0 0 10px 3px #cff1ff; border-color:#802a00}
+
+    .block03design2 {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizelegibility;
+        position: relative;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        background-color: #ffffff;
     }
-    </style>
-    <link rel="alternate" type="application/rss+xml" title="BERKALY &raquo; Feed" href="https://berkaly.cl/feed/" />
-    <meta name="contact" content="contacto@berkaly.cl" /><meta name="description" content="Centro de Formación y Capacitación. Facilitamos cursos en distintas modalidades de ejecución a través de programas técnicos cuidadosamente diseñados para un óptimo aprendizaje." /><meta name="keywords" content="cursos online, cursos de asepsia, tatuadores, primeros auxilios, mejores cursos, cursos con certificado" /><script>
-    var pagelayer_ajaxurl = "https://berkaly.cl/site-admin/admin-ajax.php?";
-    var pagelayer_global_nonce = "a80b16f90f";
-    var pagelayer_server_time = 1740310402;
-    var pagelayer_is_live = "";
-    var pagelayer_facebook_id = "";
-    var pagelayer_settings = {"post_types":["post","page"],"enable_giver":"1","max_width":1170,"tablet_breakpoint":768,"mobile_breakpoint":500,"sidebar":false,"body_font":"","color":false};
-    var pagelayer_recaptch_lang = "";
-    var pagelayer_recaptch_version = "";
-    </script><link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C500" as="fetch" crossorigin="anonymous"><link rel="dns-prefetch" href="https://fonts.gstatic.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"><style id="pagelayer-wow-animation-style" type="text/css">.pagelayer-wow{visibility: hidden;}</style>
-    <style id="pagelayer-global-styles" type="text/css">
-    :root{--pagelayer-color-primary:#007bff;--pagelayer-color-secondary:#6c757d;--pagelayer-color-text:#1d1d1d;--pagelayer-color-accent:#61ce70;--pagelayer-font-primary-font-family:Open Sans;--pagelayer-font-secondary-font-family:Roboto;--pagelayer-font-text-font-family:Montserrat;--pagelayer-font-accent-font-family:Poppins;}
-    .pagelayer-row-stretch-auto > .pagelayer-row-holder, .pagelayer-row-stretch-full > .pagelayer-row-holder.pagelayer-width-auto{ max-width: 1170px; margin-left: auto; margin-right: auto;}
-    @media (min-width: 769px){
-            .pagelayer-hide-desktop{
-                display:none !important;
-            }
-        }
-    
-        @media (max-width: 768px) and (min-width: 501px){
-            .pagelayer-hide-tablet{
-                display:none !important;
-            }
-            .pagelayer-wp-menu-holder[data-drop_breakpoint="tablet"] .pagelayer-wp_menu-ul{
-                display:none;
-            }
-        }
-    
-        @media (max-width: 500px){
-            .pagelayer-hide-mobile{
-                display:none !important;
-            }
-            .pagelayer-wp-menu-holder[data-drop_breakpoint="mobile"] .pagelayer-wp_menu-ul{
-                display:none;
-            }
-        }
-    body.pagelayer-body {font-family:Poppins;font-size:16px;font-weight:400;line-height:1.6}
-    body.pagelayer-body p{font-family:Poppins;font-size:16px;font-weight:400;color:#707779ff}
-    body.pagelayer-body a{text-decoration-line:none}
-    body.pagelayer-body h1{font-family:Poppins;font-size:60px;font-weight:500;line-height:1.2;color:#102e7aff}
-    body.pagelayer-body h2{font-family:Poppins;font-size:45px;font-weight:500;color:#102e7aff}
-    body.pagelayer-body h3{font-family:Poppins;font-size:35px;font-weight:500;color:#000000ff}
-    body.pagelayer-body h4{font-family:Poppins;font-size:30px;font-weight:500;color:#102e7aff}
-    body.pagelayer-body h5{font-family:Poppins;font-size:25px;font-weight:500;color:#102e7aff}
-    body.pagelayer-body h6{font-family:Poppins;font-size:25px;font-weight:500;color:#102e7aff}
-    @media (max-width: 768px){
-    [class^="pagelayer-offset-"],
-    [class*=" pagelayer-offset-"] {
-        margin-left: 0;
+    .block03design2 .fdb-box {
+        height:200px;
+        background: #ffffff;
+        padding: 2rem 2rem;
+        overflow: hidden;
+        color: #444444;
+        border-radius: 0.25rem;
+        box-shadow: 0 0.3125rem 0.875rem 0 rgba(129, 129, 129, 0.2) !important;
     }
-    
-    .pagelayer-row .pagelayer-col {
-        margin-left: 0;
+    .block03design2 .fdb-touch {
+        border-top: solid 0.3125rem #802a00;
+    z-index: 2;
+    }
+    .fdb-box h6 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+    .block03design3 .boxhy {
+        padding: 30px;
+        background: white;
         width: 100%;
+        height: 100%;
+        border: 1px solid #802a00;
+        border-radius: 0;
+        transition: 0.4s all;
     }
-    .pagelayer-row.pagelayer-gutters .pagelayer-col {
-        margin-bottom: 16px;
+    .block03design3 .boxhy-wrap:hover .boxhy {
+        filter: blur(3px);
+        opacity: 0.5;
+        transform: scale(.98);
+        box-shadow: none;
     }
-    .pagelayer-first-sm {
-        order: -1;
+    .block03design3 .boxhy-wrap:hover .boxhy:hover {
+        transform: scale(1);
+        filter: blur(0px);
+        opacity: 1;
+        box-shadow: 0 8px 20px 0 rgba(0,0,0,0.125);
     }
-    .pagelayer-last-sm {
-        order: 1;
+    .block04design1__arrow {
+        z-index: 1;
+        width: 2em;
+        height: 2em;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: none;
+        padding: 0;
+        opacity: .7;
+        font-size: 1rem;
     }
-    
-    body.pagelayer-body {font-size:15px}
-    body.pagelayer-body p{font-size:15px}
-    body.pagelayer-body h1{font-size:50px}
-    body.pagelayer-body h2{font-size:40px}
-    body.pagelayer-body h3{font-size:30px}
-    body.pagelayer-body h4{font-size:25px}
-    body.pagelayer-body h5{font-size:22px}
-    body.pagelayer-body h6{font-size:22px}
-    
+    .block06design2 .img-area img {
+        position:absolute;
+        margin-top: 100px;
+        right: 0;
+        bottom: 0;
+        height: 440px;
+        content: "";
+        z-index: 1
     }
-    @media (max-width: 500px){
-    body.pagelayer-body {font-size:15px}
-    body.pagelayer-body p{font-size:15px}
-    body.pagelayer-body h1{font-size:45px}
-    body.pagelayer-body h2{font-size:35px}
-    body.pagelayer-body h3{font-size:25px}
-    body.pagelayer-body h4{font-size:22px}
-    body.pagelayer-body h5{font-size:20px}
-    body.pagelayer-body h6{font-size:20px}
+    .block06design2 .choose-area {
+        background: #802a00
     }
-    
-    </style><link rel='stylesheet' id='pagelayer-frontend-css'  href='https://berkaly.cl/site-data/plugins/pagelayer/css/givecss.php?give=pagelayer-frontend.css%2Cnivo-lightbox.css%2Canimate.min.css%2Cowl.carousel.min.css%2Cowl.theme.default.min.css%2Cfont-awesome5.min.css&#038;premium=premium-frontend.css&#038;ver=1.9.6' type='text/css' media='all' />
-    <link rel='stylesheet' id='sitepad-style-css'  href='https://berkaly.cl/sitepad-data/themes/salubrity/style.css?ver=5.1.6' type='text/css' media='all' />
-    <link rel='stylesheet' id='pagelayer-google-font-header-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500&#038;ver=1.9.6' type='text/css' media='all' />
-    <script type='text/javascript' src='https://berkaly.cl/site-inc/js/jquery/jquery.js?ver=1.12.4'></script>
-    <script type='text/javascript' src='https://berkaly.cl/site-inc/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <script type='text/javascript' src='https://berkaly.cl/site-data/plugins/pagelayer/js/givejs.php?give=pagelayer-frontend.js%2Cnivo-lightbox.min.js%2Cwow.min.js%2Cjquery-numerator.js%2CsimpleParallax.min.js%2Cowl.carousel.min.js&#038;premium=chart.min.js%2Cpremium-frontend.js%2Cshuffle.min.js&#038;ver=1.9.6'></script>
-    <meta name="generator" content="SitePad 5.1.6" />
-    <link rel="canonical" href="https://berkaly.cl/" />
-    <link rel='shortlink' href='https://berkaly.cl/' />
-    <link rel="alternate" type="application/json+oembed" href="https://berkaly.cl/sp-json/oembed/1.0/embed?url=https%3A%2F%2Fberkaly.cl%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="https://berkaly.cl/sp-json/oembed/1.0/embed?url=https%3A%2F%2Fberkaly.cl%2F&#038;format=xml" />
-    <script type="text/javascript">
-    
-    // Make $ is jQuery
-    $ = jQuery;
-    
-    </script>
-        <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-        <link rel="icon" href="https://berkaly.cl/sitepad-data/uploads/2023/03/cropped-SmallSquareLogoJpg-32x32.jpg" sizes="32x32" />
-    <link rel="icon" href="https://berkaly.cl/sitepad-data/uploads/2023/03/cropped-SmallSquareLogoJpg-192x192.jpg" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="https://berkaly.cl/sitepad-data/uploads/2023/03/cropped-SmallSquareLogoJpg-180x180.jpg" />
-    <meta name="msapplication-TileImage" content="https://berkaly.cl/sitepad-data/uploads/2023/03/cropped-SmallSquareLogoJpg-270x270.jpg" />
-    </head>
-    
-    <body class="home page-template-default page page-id-36 wp-embed-responsive pagelayer-body">
-        
-    <header class="pagelayer-header"><div pagelayer-id="nfw4563" class="p-nfw4563 pagelayer-post_props">
-    </div>
-    <div pagelayer-id="fb67766" class="p-fb67766 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default pagelayer-hide-tablet pagelayer-hide-mobile">
-    <style pagelayer-style-id="fb67766">.p-fb67766 .pagelayer-col-holder{padding: 10px}
-    .p-fb67766 > .pagelayer-background-overlay{background-color: #113a69;opacity: 0.5;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-fb67766 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-fb67766 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-fb67766 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-fb67766 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-fb67766{background: #0f6393;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
-    </style>
-            
-            
-            
-            <div class="pagelayer-background-overlay"></div>
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="moh7999" class="p-moh7999 pagelayer-col">
-    <style pagelayer-style-id="moh7999">.p-moh7999{align-content: center !important;background: #0f6393}
-    .p-moh7999 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 1px}
-    .pagelayer-row-holder .p-moh7999{width: 17%}
-    .p-moh7999 > .pagelayer-background-overlay{background-color: #0f6393;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                <div class="pagelayer-background-overlay"></div>
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="wnj904" class="p-wnj904 pagelayer-phone">
-    <style pagelayer-style-id="wnj904">.p-wnj904 .pagelayer-phone *, .p-wnj904 .pagelayer-phone{color:#ffffff}
-    .p-wnj904 .pagelayer-phone-holder{justify-content: flex-start}
-    body:not(.rtl) .p-wnj904 .pagelayer-phone-icon{margin-right: 10px}
-    body.rtl .p-wnj904 .pagelayer-phone-icon{margin-left:10px}
-    .p-wnj904 .pagelayer-phone-icon i{color:#ffffff;font-size: 20px}
-    </style><div class="pagelayer-phone-holder">
-            <span class="pagelayer-phone-icon"><i class="fas fa-phone-alt"></i></span>
-            
-                <span class="pagelayer-phone">+56 9 6706 3316</span>
-            
-            </div></div>
-    </div></div>
-    <div pagelayer-id="mgd7230" class="p-mgd7230 pagelayer-col">
-    <style pagelayer-style-id="mgd7230">.p-mgd7230{align-content: center !important;background: #0f6393}
-    .p-mgd7230 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 1px}
-    .pagelayer-row-holder .p-mgd7230{width: 30%}
-    .p-mgd7230 > .pagelayer-background-overlay{background-color: #0f6393;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                <div class="pagelayer-background-overlay"></div>
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="qte3049" class="p-qte3049 pagelayer-email">
-    <style pagelayer-style-id="qte3049">.p-qte3049 .pagelayer-email *, .p-qte3049 .pagelayer-email{color:#fbfbfc}
-    body:not(.rtl) .p-qte3049 .pagelayer-email-icon{margin-right: 10px}
-    body.rtl .p-qte3049 .pagelayer-email-icon{margin-left:10px}
-    .p-qte3049 .pagelayer-email-icon i{color:#ffffff;font-size: 20px}
-    </style><div class="pagelayer-email-holder">
-            <span class="pagelayer-email-icon"><i class="fas fa-envelope"></i></span>
-            <span class="pagelayer-email">contacto@berkaly.cl</span>
-                </div>
-            
-            </div>
-    </div></div>
-    <div pagelayer-id="xsq4418" class="p-xsq4418 pagelayer-col">
-    <style pagelayer-style-id="xsq4418">.p-xsq4418{align-content: center !important;background: #0f6393}
-    .p-xsq4418 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 1px}
-    .pagelayer-row-holder .p-xsq4418{width: 30%}
-    .p-xsq4418 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="gx3207" class="p-gx3207 pagelayer-social_grp">
-    <style pagelayer-style-id="gx3207">.p-gx3207{text-align: right}
-    .p-gx3207 > div{display: inline-block}
-    .p-gx3207 .pagelayer-social{padding: 5px}
-    .p-gx3207 .pagelayer-social-fa{font-size: 25px;color: #ffffff !important;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-gx3207 .pagelayer-icon-holder{font-size: 25px;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-gx3207 .pagelayer-icon-holder:hover .pagelayer-social-fa{color: #ffffff !important}
-    </style>
-    <div pagelayer-id="q1e5530" class="p-q1e5530 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-facebook-square" data-icon="fab fa-facebook-square">
-                    <a class="pagelayer-ele-link" href="https://web.facebook.com/berkalycapacitaciones">
-                        <i class="pagelayer-social-fa fab fa-facebook-square"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="hbl5183" class="p-hbl5183 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-instagram" data-icon="fab fa-instagram">
-                    <a class="pagelayer-ele-link" href="https://www.instagram.com/berkalycapacitaciones">
-                        <i class="pagelayer-social-fa fab fa-instagram"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="kfx7270" class="p-kfx7270 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-google-plus" data-icon="fab fa-google-plus">
-                    <a class="pagelayer-ele-link" href="https://goo.gl/maps/4CB6x7iBepvkZXx9A">
-                        <i class="pagelayer-social-fa fab fa-google-plus"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="05o7013" class="p-05o7013 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-linkedin-in" data-icon="fab fa-linkedin-in">
-                    <a class="pagelayer-ele-link" href="https://www.linkedin.com/company/berkalycapacitaciones">
-                        <i class="pagelayer-social-fa fab fa-linkedin-in"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="y1h9596" class="p-y1h9596 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-youtube-square" data-icon="fab fa-youtube-square">
-                    <a class="pagelayer-ele-link" href="https://www.youtube.com/@berkalycapacitaciones">
-                        <i class="pagelayer-social-fa fab fa-youtube-square"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="drd9206" class="p-drd9206 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-whatsapp" data-icon="fab fa-whatsapp">
-                    <a class="pagelayer-ele-link" href="https://wa.link/tqn4yw">
-                        <i class="pagelayer-social-fa fab fa-whatsapp"></i>
-                    </a>
-                </div></div>
-    </div>
-    </div></div>
-    <div pagelayer-id="owd9631" class="p-owd9631 pagelayer-col">
-    <style pagelayer-style-id="owd9631">.p-owd9631 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 1px}
-    .pagelayer-row-holder .p-owd9631{width: 23%}
-    .p-owd9631 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-owd9631{background: #0f6393}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="otf7095" class="p-otf7095 pagelayer-btn">
-    <style pagelayer-style-id="otf7095">.p-otf7095 a{width: 100%; text-align: center}
-    .p-otf7095 .pagelayer-btn-holder{padding: calc(30px / 2) 30px;background-color: #c3000b;color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-otf7095 .pagelayer-btn-anim-thin{background-color: unset !important}
-    .p-otf7095 .pagelayer-btn-anim-thin::before{background-color: #c3000b}
-    .p-otf7095 .pagelayer-btn-anim-thin::after{background-color: #c3000b}
-    .p-otf7095 .pagelayer-btn-icon{padding: 0 5px}
-    </style><a class="pagelayer-btn-holder pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-custom pagelayer-btn-icon-left" href="https://berkaly.cl/catalogo/">
-                    <i class="fas fa-clipboard-list pagelayer-btn-icon"></i>
-                    <span class="pagelayer-btn-text">CATÁLOGO</span>
-                    <i class="fas fa-clipboard-list pagelayer-btn-icon"></i>
-                </a></div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="oku2473" class="p-oku2473 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="oku2473">.p-oku2473 .pagelayer-col-holder{padding: 10px}
-    .p-oku2473 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-oku2473 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-oku2473 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-oku2473 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-oku2473 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="c1z2215" class="p-c1z2215 pagelayer-col">
-    <style pagelayer-style-id="c1z2215">.p-c1z2215{align-content: center !important}
-    .p-c1z2215 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 1px}
-    .pagelayer-row-holder .p-c1z2215{width: 79.00%}
-    .p-c1z2215 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    @media (max-width: 768px) and (min-width: 501px){.pagelayer-row-holder .p-c1z2215{width: 80%}
+    .block06design2 .choose-content p {
+        color: white;
+        font-size: 14px;
+        margin-bottom: 20px
     }
-    @media (max-width: 500px){.pagelayer-row-holder .p-c1z2215{width: 80%}
+    .block07design1 .card-body h6 {
+        font-size: 16px;
+        font-weight: 600;
     }
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="sje1224" class="p-sje1224 pagelayer-wp_title">
-    <style pagelayer-style-id="sje1224">.p-sje1224 .pagelayer-wp-title-heading{font-family: ; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;color:#102e7a;text-align:left;padding: 0px 0px 0px 0px}
-    .p-sje1224 .pagelayer-wp-title-img{width:10%; height: auto}
-    @media (max-width: 768px) and (min-width: 501px){.p-sje1224 .pagelayer-wp-title-heading{font-family: ; font-size: 32px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+    .block07 .splide__container {
+        position: relative;
+        box-sizing: border-box;
     }
-    @media (max-width: 500px){.p-sje1224 .pagelayer-wp-title-heading{font-family: ; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+    .block07 .splide__list {
+        margin: 0 !important;
+        padding: 0 !important;
+        width: -webkit-max-content;
+        width: max-content;
+        will-change: auto;
     }
-    </style><div class="pagelayer-wp-title-content">
-            <div class="pagelayer-wp-title-section">
-                <a href="https://berkaly.cl" class="pagelayer-wp-title-link pagelayer-ele-link pagelayer-wp-title-align-left pagelayer-wp-title-vertical-middle">
-                    <img class="pagelayer-img pagelayer-wp-title-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/SmallSquareLogoJpg.jpg" title="SmallSquareLogoJpg" alt="SmallSquareLogoJpg" />
-                    <div class="pagelayer-wp-title-holder">
-                        <div class="pagelayer-wp-title-heading">BERKALY</div>
-                        
-                    </div>
-                </a>
-            </div>			
-        <div></div></div></div>
-    </div></div>
-    <div pagelayer-id="frn2605" class="p-frn2605 pagelayer-col">
-    <style pagelayer-style-id="frn2605">.p-frn2605{align-content: center !important}
-    .p-frn2605 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 1px}
-    .pagelayer-row-holder .p-frn2605{width: 21.00%}
-    .p-frn2605 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    @media (max-width: 768px) and (min-width: 501px){.pagelayer-row-holder .p-frn2605{width: 20%}
+    .block07 .splide.is-active .splide__list {
+        display: flex;
+        align-items: flex-start;
     }
-    @media (max-width: 500px){.pagelayer-row-holder .p-frn2605{width: 20%}
+    .block07 .splide__pagination {
+        display: inline-flex;
+        align-items: center;
+        width: 40%;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 40px;
     }
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    </div></div>
-    </div></div>
-    <div pagelayer-id="v715400" class="p-v715400 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="v715400">.p-v715400 .pagelayer-col-holder{padding: 10px}
-    .p-v715400 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-v715400 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-v715400 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-v715400 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-v715400 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="wmz629" class="p-wmz629 pagelayer-col">
-    <style pagelayer-style-id="wmz629">.p-wmz629 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
-    .p-wmz629 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="pvc9708" class="p-pvc9708 pagelayer-heading" align="center">
-    <style pagelayer-style-id="pvc9708">.p-pvc9708{text-align: center}
-    </style><div class="pagelayer-heading-holder"><h6>Centro de Formación y Capacitación</h6></div>
-        
-            </div>
-    <div pagelayer-id="jpu8313" class="p-jpu8313 pagelayer-text">
-    <div class="pagelayer-text-holder"><p style="text-align: center; color: rgb(15, 99, 147);">Valoramos tu tiempo, te acompañamos y reconocemos tus logros.</p></div></div>
-    <div pagelayer-id="szw7291" class="p-szw7291 pagelayer-btn">
-    <style pagelayer-style-id="szw7291">.p-szw7291 a{width: 100%; text-align: center}
-    .p-szw7291 .pagelayer-btn-text{font-family: var(--pagelayer-font-accent-font-family); font-size: px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style:  !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
-    .p-szw7291 .pagelayer-btn-holder{font-family: var(--pagelayer-font-accent-font-family); font-size: px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style:  !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;background-color: #081839;color: #f9f9f9;-webkit-transition: all 400ms !important; transition: all 400ms !important;box-shadow: px px px px   !important}
-    .p-szw7291 .pagelayer-btn-anim-thin{background-color: unset !important}
-    .p-szw7291 .pagelayer-btn-anim-thin::before{background-color: #081839}
-    .p-szw7291 .pagelayer-btn-anim-thin::after{background-color: #081839}
-    .p-szw7291 .pagelayer-btn-holder:hover{box-shadow: px px px px   !important}
-    .p-szw7291 .pagelayer-btn-icon{padding: 0 5px}
-    @media (max-width: 768px) and (min-width: 501px){.p-szw7291 .pagelayer-btn-text{font-family: ; font-size: px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style:  !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
-    .p-szw7291 .pagelayer-btn-holder{font-family: ; font-size: px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style:  !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+    .block07 .splide__pagination li {
+        list-style-type: none;
+        display: inline-block;
+        line-height: 1;
+        margin: 0;
     }
-    @media (max-width: 500px){.p-szw7291 .pagelayer-btn-text{font-family: ; font-size: px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style:  !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
-    .p-szw7291 .pagelayer-btn-holder{font-family: ; font-size: px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style:  !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+    .block07 .splide__pagination li button {
+        background-color: transparent;
+        border: 1px solid #802a00;
+        height: 10px;
+        margin: 0 7px;
+        width: 10px;
+        border-radius: 50%;
     }
-    </style><a class="pagelayer-btn-holder pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-large pagelayer-btn-icon-left" href="https://berkaly.cl/aulavirtual/login/index.php">
-                    <i class="fas fa-laptop pagelayer-btn-icon"></i>
-                    <span class="pagelayer-btn-text">AULA VIRTUAL</span>
-                    <i class="fas fa-laptop pagelayer-btn-icon"></i>
-                </a></div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="bfx6319" class="p-bfx6319 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="bfx6319">.p-bfx6319 .pagelayer-col-holder{padding: 10px}
-    .p-bfx6319 > .pagelayer-background-overlay{opacity: 0.5;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-bfx6319 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-bfx6319 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-bfx6319 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-bfx6319 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-bfx6319{background-image: url("https://berkaly.cl/sitepad-data/uploads/2023/03/zyro-image.png");background-attachment: scroll;background-position-x: center;background-position-y: center;background-repeat: no-repeat;background-size: cover;padding-top: 180px; padding-right: 0px; padding-bottom: 150px; padding-left: 0px}
-    @media (max-width: 768px) and (min-width: 501px){.p-bfx6319{padding-top: 150px; padding-right: 0px; padding-bottom: 150px; padding-left: 0px}
+    .block07 .splide__pagination li button.is-active {
+        background-color: #802a00;
     }
-    @media (max-width: 500px){.p-bfx6319{padding-top: 120px; padding-right: 0px; padding-bottom: 100px; padding-left: 0px}
+    .splide {
+        visibility: hidden;
     }
-    </style>
-            
-            
-            
-            <div class="pagelayer-background-overlay"></div>
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="z3d794" class="p-z3d794 pagelayer-col">
-    <style pagelayer-style-id="z3d794">.p-z3d794{align-content: center !important}
-    .p-z3d794 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 1px}
-    .pagelayer-row-holder .p-z3d794{width: 55%}
-    .p-z3d794 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    @media (max-width: 768px) and (min-width: 501px){.pagelayer-row-holder .p-z3d794{width: 80%}
+    .block07 .splide,
+    .block07 .splide__slide {
+        position: relative;
+        outline: none;
     }
-    @media (max-width: 500px){.pagelayer-row-holder .p-z3d794{width: 100%}
+    .block07 .splide__slide {
+        box-sizing: border-box;
+        list-style-type: none !important;
+        margin: 0;
+        flex-shrink: 0;
     }
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    </div></div>
-    </div></div>
-    
-    </header>
-    <div id="primary" class="content-area">
-        <main id="main" class="site-main" role="main">
-    
-        
-            
-    <article id="post-36" class="post-36 page type-page status-publish hentry">
-    
-    <div class="entry-content">
-        <div pagelayer-id="ekw310" class="p-ekw310 pagelayer-post_props">
-    </div>
-    <div pagelayer-id="mrz9965" class="p-mrz9965 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="mrz9965">.p-mrz9965 .pagelayer-col-holder{padding: 10px}
-    .p-mrz9965 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-mrz9965 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-mrz9965 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-mrz9965 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-mrz9965 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-mrz9965{margin-top: -105px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 0px; padding-right: 0px; padding-bottom: 80px; padding-left: 0px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="tmr8172" class="p-tmr8172 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="tmr8172">.p-tmr8172 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="6ga7386" class="p-6ga7386 pagelayer-iconbox">
-    <style pagelayer-style-id="6ga7386">.p-6ga7386 .pagelayer-service-icon i{color:#ffffff;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-6ga7386 .pagelayer-service-icon{font-size:65px}
-    .p-6ga7386 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:0px; padding-left:10px;color:#ffffff;font-family: ; font-size: 28px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-6ga7386 .pagelayer-service-details{text-align:left}
-    .p-6ga7386 .pagelayer-service-text{padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:15px}
-    .p-6ga7386 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-6ga7386{background: #0f6393;padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;border-radius: 20px 20px 20px 20px; -webkit-border-radius: 20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px}
-    .p-6ga7386 .pagelayer-service-text p{color:white}
-    </style><div class="pagelayer-service-container pagelayer-service-align-left pagelayer-service-vertical-middle">
-            <div class="pagelayer-service-icon pagelayer-service-default">
-                <i class="fas fa-user-clock pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading">Horario Libre</div>
-                
-                <div class="pagelayer-service-text"><p>Avanza en tu curso de acuerdo a tus tiempos, en cualquier momento y lugar.</p></div>
-                
-            </div>
-             
-        </div></div>
-    </div></div>
-    <div pagelayer-id="xti3611" class="p-xti3611 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="xti3611">.p-xti3611 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="zop8074" class="p-zop8074 pagelayer-iconbox">
-    <style pagelayer-style-id="zop8074">.p-zop8074 .pagelayer-service-icon i{color:#ffffff;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-zop8074 .pagelayer-service-icon{font-size:65px}
-    .p-zop8074 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:0px; padding-left:10px;color:#ffffff;font-family: ; font-size: 28px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-zop8074 .pagelayer-service-details{text-align:left}
-    .p-zop8074 .pagelayer-service-text{padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:15px}
-    .p-zop8074 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-zop8074{background: #0f6393;padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;border-radius: 20px 20px 20px 20px; -webkit-border-radius: 20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px}
-    .p-zop8074 .pagelayer-service-text p{color:white}
-    </style><div class="pagelayer-service-container pagelayer-service-align-left pagelayer-service-vertical-middle">
-            <div class="pagelayer-service-icon pagelayer-service-default">
-                <i class="fas fa-comments pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading">Chat en Línea</div>
-                
-                <div class="pagelayer-service-text"><p>Haz tus consultas y nuestro equipo te asistirá de forma personalizada.</p></div>
-                
-            </div>
-             
-        </div></div>
-    </div></div>
-    <div pagelayer-id="fau1616" class="p-fau1616 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="fau1616">.p-fau1616 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="ec46393" class="p-ec46393 pagelayer-iconbox">
-    <style pagelayer-style-id="ec46393">.p-ec46393 .pagelayer-service-icon i{color:#ffffff;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-ec46393 .pagelayer-service-icon{font-size:65px}
-    .p-ec46393 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:0px; padding-left:5px;color:#ffffff;font-family: ; font-size: 28px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-ec46393 .pagelayer-service-details{text-align:left}
-    .p-ec46393 .pagelayer-service-text{padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:10px}
-    .p-ec46393 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-ec46393{background: #0f6393;padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;border-radius: 20px 20px 20px 20px; -webkit-border-radius: 20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px}
-    .p-ec46393 .pagelayer-service-text p{color:white}
-    </style><div class="pagelayer-service-container pagelayer-service-align-left pagelayer-service-vertical-middle">
-            <div class="pagelayer-service-icon pagelayer-service-default">
-                <i class="fas fa-medal pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading">Reconocimiento&nbsp;</div>
-                
-                <div class="pagelayer-service-text"><p>Obtén tu certificado y diploma al aprobar tu curso. Puedes validarlo con su código.</p></div>
-                
-            </div>
-             
-        </div></div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="vbi8736" class="p-vbi8736 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="vbi8736">.p-vbi8736 .pagelayer-col-holder{padding: 10px}
-    .p-vbi8736 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-vbi8736 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-vbi8736 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-vbi8736 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-vbi8736 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-vbi8736{padding-top: 0px; padding-right: 0px; padding-bottom: 80px; padding-left: 0px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="mn3580" class="p-mn3580 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="mn3580">.p-mn3580{align-content: center !important;padding-top: 0px; padding-right: 20px; padding-bottom: 0px; padding-left: 0px}
-    .p-mn3580 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="toc5431" class="p-toc5431 pagelayer-heading">
-    <style pagelayer-style-id="toc5431">.p-toc5431{padding-top: 10px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-    </style><div class="pagelayer-heading-holder"><h5>En Berkaly Capacitaciones</h5></div>
-        
-            </div>
-    <div pagelayer-id="szl2220" class="p-szl2220 pagelayer-heading">
-    <style pagelayer-style-id="szl2220">.p-szl2220{padding-top: 20px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px}
-    </style><div class="pagelayer-heading-holder"><p>nos dedicamos a fortalecer los conocimientos y habilidades de nuestros estudiantes, ampliando sus destrezas para el desarrollo y proyección laboral.&nbsp;</p></div>
-        
-            </div>
-    <div pagelayer-id="8m67068" class="p-8m67068 pagelayer-list">
-    <style pagelayer-style-id="8m67068">.p-8m67068 li{list-style-type: none}
-    .p-8m67068 .pagelayer-list-icon-holder{padding-bottom: calc(20px/2); padding-top: calc(20px/2)}
-    .p-8m67068 .pagelayer-list-item{margin-left: 12px}
-    .p-8m67068 .pagelayer-list-icon{color:#1bbde4;font-size: 18px}
-    .p-8m67068{width:initial !important;height:auto}
-    @media (max-width: 768px) and (min-width: 501px){.p-8m67068{padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px}
+    .block07 .splide__slide img {
+        vertical-align: bottom;
     }
-    @media (max-width: 500px){.p-8m67068{padding-top: 5px; padding-right: 5px; padding-bottom: 0px; padding-left: 5px}
+    .block07 .splide__slider {
+        position: relative;
     }
-    </style><ul class="pagelayer-list-ul pagelayer-list-type-none">
-    <div pagelayer-id="3o6598" class="p-3o6598 pagelayer-list_item">
-    <li class="pagelayer-list-li">
-                
-                    <span class="pagelayer-list-icon-holder">
-                        <i class="pagelayer-list-icon fas fa-check-circle"></i>
-                        <span class="pagelayer-list-item">Calidad</span>
-                    </span>
-                
-            </li></div>
-    <div pagelayer-id="uoc9338" class="p-uoc9338 pagelayer-list_item">
-    <li class="pagelayer-list-li">
-                
-                    <span class="pagelayer-list-icon-holder">
-                        <i class="pagelayer-list-icon fas fa-check-circle"></i>
-                        <span class="pagelayer-list-item">Compromiso</span>
-                    </span>
-                
-            </li></div>
-    </ul></div>
-    <div pagelayer-id="kkc6206" class="p-kkc6206 pagelayer-list">
-    <style pagelayer-style-id="kkc6206">.p-kkc6206 li{list-style-type: none}
-    .p-kkc6206 .pagelayer-list-icon-holder{padding-bottom: calc(20px/2); padding-top: calc(20px/2)}
-    .p-kkc6206 .pagelayer-list-item{margin-left: 12px}
-    .p-kkc6206 .pagelayer-list-icon{color:#1bbde4;font-size: 18px}
-    .p-kkc6206{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px;width:initial !important;height:auto}
-    @media (max-width: 768px) and (min-width: 501px){.p-kkc6206{padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px}
+    .block07 .splide__track {
+        position: relative;
+        z-index: 0;
+        overflow: hidden;
+        padding-top: 2em;
+        padding-bottom: 2em;
     }
-    @media (max-width: 500px){.p-kkc6206{padding-top: 0px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px}
+    .block07 .splide--draggable > .splide__track > .splide__list > .splide__slide {
+        -webkit-user-select: none;
+        user-select: none;
     }
-    </style><ul class="pagelayer-list-ul pagelayer-list-type-none">
-    <div pagelayer-id="9pt7482" class="p-9pt7482 pagelayer-list_item">
-    <li class="pagelayer-list-li">
-                
-                    <span class="pagelayer-list-icon-holder">
-                        <i class="pagelayer-list-icon fas fa-check-circle"></i>
-                        <span class="pagelayer-list-item">Transparencia</span>
-                    </span>
-                
-            </li></div>
-    <div pagelayer-id="wxf7724" class="p-wxf7724 pagelayer-list_item">
-    <li class="pagelayer-list-li">
-                
-                    <span class="pagelayer-list-icon-holder">
-                        <i class="pagelayer-list-icon fas fa-check-circle"></i>
-                        <span class="pagelayer-list-item">Confianza</span>
-                    </span>
-                
-            </li></div>
-    </ul></div>
-    </div></div>
-    <div pagelayer-id="skl7055" class="p-skl7055 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="skl7055">.p-skl7055 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
-    .p-skl7055 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="ccf5593" class="p-ccf5593 pagelayer-fb_page">
-    <div class="pagelayer-fb-page-container" pagelayer-facebook-load="1">
-            <span class="pagelayer-app-details" pagelayer-app-id="https://www.facebook.com/berkalycapacitaciones"></span>
-            <div id="fb-root"></div>
-            <div class="fb-page" data-href="https://www.facebook.com/berkalycapacitaciones" data-width="500" data-hide-cta="true" data-tabs="timeline" data-small-header="{{small_header}}" data-adapt-container-width="true" data-hide-cover="{{hide_cover}}" data-show-facepile="true" data-height="400">			
-            </div>
-        </div></div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="dl51892" class="p-dl51892 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="dl51892">.p-dl51892 .pagelayer-col-holder{padding: 10px}
-    .p-dl51892 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-dl51892 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-dl51892 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-dl51892 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-dl51892 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-dl51892{background: #eef9ff;padding-top: 80px; padding-right: 0px; padding-bottom: 80px; padding-left: 0px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="dkb5352" class="p-dkb5352 pagelayer-col pagelayer-col-12">
-    <style pagelayer-style-id="dkb5352">.p-dkb5352 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="sik7965" class="p-sik7965 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="sik7965">.p-sik7965 .pagelayer-col-holder{padding: 10px}
-    .p-sik7965 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-sik7965 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-sik7965 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-sik7965 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-sik7965 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="sdn2130" class="p-sdn2130 pagelayer-col pagelayer-col-6">
-    <style pagelayer-style-id="sdn2130">.p-sdn2130 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="on31628" class="p-on31628 pagelayer-heading" align="left">
-    <style pagelayer-style-id="on31628">.p-on31628{text-align: left;padding-top: 10px; padding-right: 20px; padding-bottom: 10px; padding-left: 20px;box-shadow: 0px 0px 10px 0px rgba(187,189,189,0.66)  !important;border-style: solid;border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px;border-color: #081839;border-radius: 50px 50px 50px 50px; -webkit-border-radius: 50px 50px 50px 50px;-moz-border-radius: 50px 50px 50px 50px;width:initial !important;height:auto}
-    .p-on31628 .pagelayer-heading-holder *{color:#000000;font-family:  !important; font-size: 14px !important; font-style:  !important; font-weight: 400 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform: Capitalize !important; letter-spacing: px !important; word-spacing: px !important}
-    .p-on31628 .pagelayer-heading-holder{color:#000000;font-family:  !important; font-size: 14px !important; font-style:  !important; font-weight: 400 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform: Capitalize !important; letter-spacing: px !important; word-spacing: px !important}
-    </style><a href="https://berkaly.cl/catalogo/" class="pagelayer-link-sel">
-            <div class="pagelayer-heading-holder"><p>Ver TODOS</p></div>
-        </a></div>
-    <div pagelayer-id="3kr2438" class="p-3kr2438 pagelayer-heading" align="left">
-    <style pagelayer-style-id="3kr2438">.p-3kr2438{text-align: left;padding-top: 10px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-    </style><div class="pagelayer-heading-holder"><h2>Nuestros Cursos</h2></div>
-        
-            </div>
-    </div></div>
-    <div pagelayer-id="yyn7143" class="p-yyn7143 pagelayer-col pagelayer-col-6">
-    <style pagelayer-style-id="yyn7143">.p-yyn7143{align-content: center !important}
-    .p-yyn7143 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="uiz7085" class="p-uiz7085 pagelayer-heading">
-    <div class="pagelayer-heading-holder"><p>Contamos con cursos de alta demanda para distintas áreas de trabajo, con contenidos actualizados e impartidos a través de una metodología y plataforma amigable.</p></div>
-        
-            </div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="vyg23" class="p-vyg23 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="vyg23">.p-vyg23 .pagelayer-col-holder{padding: 10px}
-    .p-vyg23 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-vyg23 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-vyg23 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-vyg23 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-vyg23 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-vyg23{padding-top: 20px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="edb4460" class="p-edb4460 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="edb4460">.p-edb4460 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="2ao5011" class="p-2ao5011 pagelayer-service pagelayer-animation-float">
-    <style pagelayer-style-id="2ao5011">.p-2ao5011 img{filter: blur(0px) brightness(100%) contrast(100%) grayscale(0%) hue-rotate(0deg) opacity(100%) saturate(100%)}
-    .p-2ao5011 .pagelayer-service-image img{border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-radius: 5px 5px 0px 0px; -webkit-border-radius:  5px 5px 0px 0px; -moz-border-radius: 5px 5px 0px 0px;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-2ao5011:hover img{filter: blur(0px) brightness(100%) contrast(100%) grayscale(0%) hue-rotate(0deg) opacity(100%) saturate(100%)}
-    .p-2ao5011 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:10px; padding-bottom:0px; padding-left:10px;color:#102e7a;font-family: ; font-size: 26px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-2ao5011 .pagelayer-service-details{text-align:left}
-    .p-2ao5011 .pagelayer-service-text{padding-top:0px; padding-right:10px; padding-bottom:10px; padding-left:10px}
-    .p-2ao5011 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-2ao5011{background: #ffffff;padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.07)  !important;border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px;-moz-border-radius: 5px 5px 5px 5px}
-    </style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
-            <div class="pagelayer-service-image">
-                <img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://berkaly.cl/sitepad-data/uploads/2023/03/1.png" title="autorizaciones" alt="autorizaciones" srcset="https://berkaly.cl/sitepad-data/uploads/2023/03/1.png, https://berkaly.cl/sitepad-data/uploads/2023/03/1.png 1x, " />
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading">Autorizaciones</div>
-                
-                <div class="pagelayer-service-text"><p>Cursos específicos para el trabajo independiente y/o apertura de local que requieren certificación .</p></div>
-                
-            </div>
-            <a href="https://berkaly.cl/catalogo/" class="pagelayer-ele-link pagelayer-box-link"> </a>
-        </div></div>
-    </div></div>
-    <div pagelayer-id="it19794" class="p-it19794 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="it19794">.p-it19794 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="yz84926" class="p-yz84926 pagelayer-service pagelayer-animation-float">
-    <style pagelayer-style-id="yz84926">.p-yz84926 img{filter: blur(0px) brightness(100%) contrast(100%) grayscale(0%) hue-rotate(0deg) opacity(100%) saturate(100%)}
-    .p-yz84926 .pagelayer-service-image img{border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-radius: 5px 5px 0px 0px; -webkit-border-radius:  5px 5px 0px 0px; -moz-border-radius: 5px 5px 0px 0px;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-yz84926:hover img{filter: blur(0px) brightness(100%) contrast(100%) grayscale(0%) hue-rotate(0deg) opacity(100%) saturate(100%)}
-    .p-yz84926 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:10px; padding-bottom:0px; padding-left:10px;color:#102e7a;font-family: ; font-size: 26px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-yz84926 .pagelayer-service-details{text-align:left}
-    .p-yz84926 .pagelayer-service-text{padding-top:0px; padding-right:10px; padding-bottom:10px; padding-left:10px}
-    .p-yz84926 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-yz84926{background: #ffffff;padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.07)  !important;border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px;-moz-border-radius: 5px 5px 5px 5px}
-    </style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
-            <div class="pagelayer-service-image">
-                <img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://berkaly.cl/sitepad-data/uploads/2023/03/2.png" title="formación" alt="formación" srcset="https://berkaly.cl/sitepad-data/uploads/2023/03/2.png, https://berkaly.cl/sitepad-data/uploads/2023/03/2.png 1x, " />
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading">Formación&nbsp;</div>
-                
-                <div class="pagelayer-service-text"><p>Cursos para conocimiento básico, intermedio y avanzado de áreas técnicas, profesionales y de oficio .</p></div>
-                
-            </div>
-            <a href="https://berkaly.cl/catalogo/" class="pagelayer-ele-link pagelayer-box-link"> </a>
-        </div></div>
-    </div></div>
-    <div pagelayer-id="kmm4764" class="p-kmm4764 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="kmm4764">.p-kmm4764 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="mcw3116" class="p-mcw3116 pagelayer-service pagelayer-animation-float">
-    <style pagelayer-style-id="mcw3116">.p-mcw3116 img{filter: blur(0px) brightness(100%) contrast(100%) grayscale(0%) hue-rotate(0deg) opacity(100%) saturate(100%)}
-    .p-mcw3116 .pagelayer-service-image img{border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-radius: 5px 5px 0px 0px; -webkit-border-radius:  5px 5px 0px 0px; -moz-border-radius: 5px 5px 0px 0px;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-mcw3116:hover img{filter: blur(0px) brightness(100%) contrast(100%) grayscale(0%) hue-rotate(0deg) opacity(100%) saturate(100%)}
-    .p-mcw3116 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:10px; padding-bottom:0px; padding-left:10px;color:#102e7a;font-family: ; font-size: 26px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-mcw3116 .pagelayer-service-details{text-align:left}
-    .p-mcw3116 .pagelayer-service-text{padding-top:0px; padding-right:10px; padding-bottom:10px; padding-left:10px}
-    .p-mcw3116 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-mcw3116{background: #ffffff;padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.07)  !important;border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px;-moz-border-radius: 5px 5px 5px 5px}
-    </style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
-            <div class="pagelayer-service-image">
-                <img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://berkaly.cl/sitepad-data/uploads/2023/03/3.png" title="actualización" alt="actualización" srcset="https://berkaly.cl/sitepad-data/uploads/2023/03/3.png, https://berkaly.cl/sitepad-data/uploads/2023/03/3.png 1x, " />
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading">Actualización</div>
-                
-                <div class="pagelayer-service-text"><p>Cursos asociados a requisitos que por normativa se actualizan y/o renuevan periódicamente.</p></div>
-                
-            </div>
-            <a href="https://berkaly.cl/catalogo/" class="pagelayer-ele-link pagelayer-box-link"> </a>
-        </div></div>
-    </div></div>
-    </div></div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="9ey4872" class="p-9ey4872 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="9ey4872">.p-9ey4872 .pagelayer-col-holder{padding: 10px}
-    .p-9ey4872 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-9ey4872 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-9ey4872 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-9ey4872 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-9ey4872 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-9ey4872{background: #eef9ff;padding-top: 80px; padding-right: 0px; padding-bottom: 150px; padding-left: 0px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="qpa9607" class="p-qpa9607 pagelayer-col">
-    <style pagelayer-style-id="qpa9607">.p-qpa9607 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="j0j491" class="p-j0j491 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="j0j491">.p-j0j491 .pagelayer-col-holder{padding: 10px}
-    .p-j0j491 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-j0j491 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-j0j491 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-j0j491 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-j0j491 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="7mt1472" class="p-7mt1472 pagelayer-col pagelayer-col-6">
-    <style pagelayer-style-id="7mt1472">.p-7mt1472 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="yto7844" class="p-yto7844 pagelayer-heading" align="left" id="#Enlacesdeinteres">
-    <style pagelayer-style-id="yto7844">.p-yto7844{text-align: left;padding-top: 10px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-    </style><div class="pagelayer-heading-holder"><h2>Enlaces de Interés</h2></div>
-        
-            </div>
-    </div></div>
-    <div pagelayer-id="17o2649" class="p-17o2649 pagelayer-col pagelayer-col-6">
-    <style pagelayer-style-id="17o2649">.p-17o2649{align-content: center !important}
-    .p-17o2649 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="cdo2331" class="p-cdo2331 pagelayer-heading">
-    <div class="pagelayer-heading-holder"><p>Ingresa a nuestra búsqueda de información relevante a través de los íconos en pantalla.</p></div>
-        
-            </div>
-    </div></div>
-    </div></div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="zac3035" class="p-zac3035 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="zac3035">.p-zac3035 .pagelayer-col-holder{padding: 10px}
-    .p-zac3035 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-zac3035 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-zac3035 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-zac3035 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-zac3035 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-zac3035{margin-top: -117px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 0px; padding-right: 0px; padding-bottom: 80px; padding-left: 0px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="zg24899" class="p-zg24899 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="zg24899">.p-zg24899 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="xiv5344" class="p-xiv5344 pagelayer-iconbox pagelayer-anim-par">
-    <style pagelayer-style-id="xiv5344">.p-xiv5344 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px;font-size:45px}
-    .p-xiv5344 .pagelayer-service-icon i{padding: calc(0.5em + 17px);color:#113a69;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-xiv5344 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:0px; padding-left:0px;font-family: ; font-size: 28px !important; font-style:  !important; font-weight: 400 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-xiv5344 .pagelayer-service-details{text-align:left}
-    .p-xiv5344 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-xiv5344{background: #ffffff;padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;box-shadow: 0px 0px 20px 0px #d6d7d8  !important;border-radius: 20px 20px 20px 20px; -webkit-border-radius: 20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px}
-    </style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
-            <div class="pagelayer-service-icon pagelayer-service-framed">
-                <i class="fas fa-question pagelayer-icon-circle pagelayer-animation-bounce-in" aria-hidden="true"></i>
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading"><h5>Preguntas Frecuentes</h5></div>
-                
-                <div class="pagelayer-service-text"><p>Resuelve todas tus inquietudes sobre planes de estudio, pagos, devoluciones, certificación y otras consultas.</p></div>
-                
-            </div>
-            <a href="https://berkaly.cl/faq/" class="pagelayer-ele-link pagelayer-box-link"> </a>
-        </div></div>
-    </div></div>
-    <div pagelayer-id="gxo7369" class="p-gxo7369 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="gxo7369">.p-gxo7369 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="fan6096" class="p-fan6096 pagelayer-iconbox pagelayer-anim-par">
-    <style pagelayer-style-id="fan6096">.p-fan6096 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px;font-size:45px}
-    .p-fan6096 .pagelayer-service-icon i{padding: calc(0.5em + 17px);color:#113a69;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-fan6096 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:0px; padding-left:0px;font-family: ; font-size: 28px !important; font-style:  !important; font-weight: 400 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-fan6096 .pagelayer-service-details{text-align:left}
-    .p-fan6096 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-fan6096{background: #ffffff;padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;box-shadow: 0px 0px 20px 0px #d6d7d8  !important;border-radius: 20px 20px 20px 20px; -webkit-border-radius: 20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px}
-    </style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
-            <div class="pagelayer-service-icon pagelayer-service-framed">
-                <i class="fas fa-certificate pagelayer-icon-circle pagelayer-animation-bounce-in" aria-hidden="true"></i>
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading"><h5>Certificados</h5></div>
-                
-                <div class="pagelayer-service-text"><p>Permite la validación de certificados mediante códigos de verificación emitidos registrados en tus documentos.</p></div>
-                
-            </div>
-            <a href="https://berkaly.cl/certificados/" class="pagelayer-ele-link pagelayer-box-link"> </a>
-        </div></div>
-    </div></div>
-    <div pagelayer-id="eku1493" class="p-eku1493 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="eku1493">.p-eku1493 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="hlu8041" class="p-hlu8041 pagelayer-iconbox pagelayer-anim-par">
-    <style pagelayer-style-id="hlu8041">.p-hlu8041 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px;font-size:45px}
-    .p-hlu8041 .pagelayer-service-icon i{padding: calc(0.5em + 17px);color:#113a69;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-hlu8041 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:0px; padding-left:0px;font-family: ; font-size: 28px !important; font-style:  !important; font-weight: 400 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-hlu8041 .pagelayer-service-details{text-align:left}
-    .p-hlu8041 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
-    .p-hlu8041{background: #ffffff;padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;box-shadow: 0px 0px 20px 0px #d6d7d8  !important;border-radius: 20px 20px 20px 20px; -webkit-border-radius: 20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px}
-    </style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
-            <div class="pagelayer-service-icon pagelayer-service-framed">
-                <i class="fas fa-file-contract pagelayer-icon-circle pagelayer-animation-bounce-in" aria-hidden="true"></i>
-            </div>
-            <div class="pagelayer-service-details">
-                
-                    <div class="pagelayer-service-heading"><h5>Contacto</h5></div>
-                
-                <div class="pagelayer-service-text"><p>Escríbenos a través de nuestros medios de contacto dando clic en los íconos de la parte superior de esta página.</p></div>
-                
-            </div>
-            <a href="https://berkaly.cl/contacto/" class="pagelayer-ele-link pagelayer-box-link"> </a>
-        </div></div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="unt5339" class="p-unt5339 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="unt5339">.p-unt5339 .pagelayer-col-holder{padding: 10px}
-    .p-unt5339 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-unt5339 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-unt5339 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-unt5339 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-unt5339 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-unt5339{padding-top: 0px; padding-right: 0px; padding-bottom: 80px; padding-left: 0px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="3zi8579" class="p-3zi8579 pagelayer-col pagelayer-col-6">
-    <style pagelayer-style-id="3zi8579">.p-3zi8579 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="ngi9001" class="p-ngi9001 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="ngi9001">.p-ngi9001 .pagelayer-col-holder{padding: 10px}
-    .p-ngi9001 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-ngi9001 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-ngi9001 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-ngi9001 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-ngi9001 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="teh1464" class="p-teh1464 pagelayer-col pagelayer-col-6">
-    <style pagelayer-style-id="teh1464">.p-teh1464 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="tlj8146" class="p-tlj8146 pagelayer-heading" align="left">
-    <style pagelayer-style-id="tlj8146">.p-tlj8146{text-align: left;padding-top: 10px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-    </style><div class="pagelayer-heading-holder"><h2>Registros </h2></div>
-        
-            </div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="cf13794" class="p-cf13794 pagelayer-image_slider">
-    <style pagelayer-style-id="cf13794">.p-cf13794 .pagelayer-owl-prev{background-color: #6a6969 !important;color: #ffffff !important;width: 20px; height: 20px;border-radius: 20% !important}
-    .p-cf13794 .pagelayer-owl-next{background-color: #6a6969 !important;color: #ffffff !important;width: 20px; height: 20px;border-radius: 20% !important}
-    </style><div class="pagelayer-image-slider-div">
-            <ul class="pagelayer-image-slider-ul pagelayer-owl-holder pagelayer-owl-carousel pagelayer-owl-theme" data-slides-items="1" data-slides-controls="arrows" data-slides-autoplay-timeout="5000" data-slides-smart-speed="800" data-slides-loop="true" data-slides-autoplay="true" data-slides-autoplay-hover-pause="true" data-pager="false"><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/1-1.png" title="1" alt="1" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/2-1.png" title="2" alt="2" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/3-1.png" title="3" alt="3" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/4.png" title="4" alt="4" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/5.png" title="5" alt="5" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/6.png" title="6" alt="6" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/7.png" title="7" alt="7" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/8.png" title="8" alt="8" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/9.png" title="9" alt="9" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/10.png" title="10" alt="10" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/11.png" title="11" alt="11" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/12.png" title="12" alt="12" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/14.png" title="14" alt="14" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/15.png" title="15" alt="15" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://berkaly.cl/sitepad-data/uploads/2023/03/Marcela-Paz.png" title="Marcela Paz" alt="Marcela Paz" /></li></ul>
-        </div></div>
-    </div></div>
-    <div pagelayer-id="au21328" class="p-au21328 pagelayer-col pagelayer-col-6">
-    <style pagelayer-style-id="au21328">.p-au21328 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
-    .p-au21328 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="mze7507" class="p-mze7507 pagelayer-space">
-    <style pagelayer-style-id="mze7507">.p-mze7507 .pagelayer-space-holder{height: 121px}
-    </style><div class="pagelayer-space-holder"></div></div>
-    <div pagelayer-id="0ay532" class="p-0ay532 pagelayer-heading" align="left">
-    <style pagelayer-style-id="0ay532">.p-0ay532{text-align: left}
-    </style><div class="pagelayer-heading-holder"><p>Conoce algunas de nuestras capacitaciones realizadas en modalidad online y presencial, tanto a particulares, como a organizaciones y empresas.</p></div>
-        
-            </div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="y1j9420" class="p-y1j9420 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="y1j9420">.p-y1j9420 .pagelayer-col-holder{padding: 10px}
-    .p-y1j9420 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-y1j9420 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-y1j9420 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-y1j9420 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-y1j9420 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-y1j9420{background: #eef9ff;padding-top: 80px; padding-right: 0px; padding-bottom: 80px; padding-left: 0px}
-    </style>
-            
-            
-            
-            
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="rin7763" class="p-rin7763 pagelayer-col">
-    <style pagelayer-style-id="rin7763">.p-rin7763 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="yk44707" class="p-yk44707 pagelayer-text">
-    <div class="pagelayer-text-holder"><iframe src="https://berkaly.cl/resenasgoogle/" width="1200" height="700" allow="fullscreen"></iframe></div></div>
-    </div></div>
-    </div></div>
-    </div><!-- .entry-content -->
-    
-    </article><!-- #post-## -->
-    
-        </main><!-- .site-main -->
-    </div><!-- .content-area -->
-    
-    
-    <footer class="pagelayer-footer"><div pagelayer-id="hgu1135" class="p-hgu1135 pagelayer-post_props">
-    </div>
-    <div pagelayer-id="06u7777" class="p-06u7777 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="06u7777">.p-06u7777 .pagelayer-col-holder{padding: 10px}
-    .p-06u7777 > .pagelayer-background-overlay{background-color: #0f6393;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-06u7777 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-06u7777 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-06u7777 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-06u7777 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-06u7777{background: #102e7a;padding-top: 50px; padding-right: 0px; padding-bottom: 50px; padding-left: 0px}
-    </style>
-            
-            
-            
-            <div class="pagelayer-background-overlay"></div>
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="yvk9518" class="p-yvk9518 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="yvk9518">.p-yvk9518 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="wzn4507" class="p-wzn4507 pagelayer-wp_title">
-    <style pagelayer-style-id="wzn4507">.p-wzn4507 .pagelayer-wp-title-heading{font-family: ; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;color:#ffffff;text-align:left;padding: 0px 0px 0px 0px}
-    </style><div class="pagelayer-wp-title-content">
-            <div class="pagelayer-wp-title-section">
-                <a href="https://berkaly.cl" class="pagelayer-wp-title-link pagelayer-ele-link">
-                    
-                    <div class="pagelayer-wp-title-holder">
-                        <div class="pagelayer-wp-title-heading">BERKALY</div>
-                        
-                    </div>
-                </a>
-            </div>			
-        <div></div></div></div>
-    <div pagelayer-id="g5b5302" class="p-g5b5302 pagelayer-heading">
-    <style pagelayer-style-id="g5b5302">.p-g5b5302 .pagelayer-heading-holder *{color:#fefefe}
-    .p-g5b5302 .pagelayer-heading-holder{color:#fefefe}
-    .p-g5b5302{padding-top: 10px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px}
-    </style><div class="pagelayer-heading-holder"><p>Facilitamos cursos en distintas modalidades de ejecución a través de programas técnicos cuidadosamente diseñados para un óptimo aprendizaje.</p></div>
-        
-            </div>
-    </div></div>
-    <div pagelayer-id="ikc7642" class="p-ikc7642 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="ikc7642">.p-ikc7642 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="sox2049" class="p-sox2049 pagelayer-heading">
-    <style pagelayer-style-id="sox2049">.p-sox2049 .pagelayer-heading-holder *{color:#ffffff}
-    .p-sox2049 .pagelayer-heading-holder{color:#ffffff}
-    </style><div class="pagelayer-heading-holder"><h6>Redes Sociales</h6></div>
-        
-            </div>
-    <div pagelayer-id="qwb3497" class="p-qwb3497 pagelayer-social_grp pagelayer-social-shape-square pagelayer-scheme-official">
-    <style pagelayer-style-id="qwb3497">.p-qwb3497 i{height:1em; width:1em; position: absolute; top: 50%; left: 50%; transform: translate(-50% , -50%)}
-    .p-qwb3497 .pagelayer-icon-holder{position: relative; min-height: 1em; min-width: 1em;padding: calc(0.5em + 10px);font-size: 30px;-webkit-transition: all 400ms; transition: all 400ms}
-    .p-qwb3497{text-align: left}
-    .p-qwb3497 > div{display: inline-block}
-    .p-qwb3497 .pagelayer-social{padding: 3px}
-    .p-qwb3497 .pagelayer-social-fa{font-size: 30px;-webkit-transition: all 400ms; transition: all 400ms}
-    </style>
-    <div pagelayer-id="zg29039" class="p-zg29039 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-instagram" data-icon="fab fa-instagram">
-                    <a class="pagelayer-ele-link" href="https://www.instagram.com/berkalycapacitaciones">
-                        <i class="pagelayer-social-fa fab fa-instagram"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="1y79588" class="p-1y79588 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-facebook-square" data-icon="fab fa-facebook-square">
-                    <a class="pagelayer-ele-link" href="https://web.facebook.com/berkalycapacitaciones">
-                        <i class="pagelayer-social-fa fab fa-facebook-square"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="iui335" class="p-iui335 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-google-plus" data-icon="fab fa-google-plus">
-                    <a class="pagelayer-ele-link" href="https://goo.gl/maps/4CB6x7iBepvkZXx9A">
-                        <i class="pagelayer-social-fa fab fa-google-plus"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="net6978" class="p-net6978 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-linkedin-in" data-icon="fab fa-linkedin-in">
-                    <a class="pagelayer-ele-link" href="https://www.linkedin.com/company/berkalycapacitaciones">
-                        <i class="pagelayer-social-fa fab fa-linkedin-in"></i>
-                    </a>
-                </div></div>
-    <div pagelayer-id="0kw7656" class="p-0kw7656 pagelayer-social">
-    <div class="pagelayer-icon-holder pagelayer-whatsapp" data-icon="fab fa-whatsapp">
-                    <a class="pagelayer-ele-link" href="https://web.facebook.com/berkalycapacitaciones">
-                        <i class="pagelayer-social-fa fab fa-whatsapp"></i>
-                    </a>
-                </div></div>
-    </div>
-    </div></div>
-    <div pagelayer-id="wex1999" class="p-wex1999 pagelayer-col pagelayer-col-4">
-    <style pagelayer-style-id="wex1999">.p-wex1999 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    </style>
-                
-                
-                
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="ssi3729" class="p-ssi3729 pagelayer-heading">
-    <style pagelayer-style-id="ssi3729">.p-ssi3729 .pagelayer-heading-holder *{color:#ffffff}
-    .p-ssi3729 .pagelayer-heading-holder{color:#ffffff}
-    </style><div class="pagelayer-heading-holder"><h6>Información</h6></div>
-        
-            </div>
-    <div pagelayer-id="ezb6557" class="p-ezb6557 pagelayer-address">
-    <style pagelayer-style-id="ezb6557">.p-ezb6557 .pagelayer-address *, .p-ezb6557 .pagelayer-address{color:#ffffff}
-    body:not(.rtl) .p-ezb6557 .pagelayer-address-icon{margin-right: 10px}
-    body.rtl .p-ezb6557 .pagelayer-address-icon{margin-left:10px}
-    .p-ezb6557 .pagelayer-address-icon i{color:#1bbde4;font-size: 20px}
-    .p-ezb6557{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 20px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-    </style><div class="pagelayer-address-holder">
-            <span class="pagelayer-address-icon"><i class="fas fa-map-marker-alt"></i></span>
-            <span class="pagelayer-address">Diego de Oro 382, Concepción</span>
-        </div></div>
-    <div pagelayer-id="bzm9723" class="p-bzm9723 pagelayer-email">
-    <style pagelayer-style-id="bzm9723">.p-bzm9723 .pagelayer-email *, .p-bzm9723 .pagelayer-email{color:#ffffff}
-    body:not(.rtl) .p-bzm9723 .pagelayer-email-icon{margin-right: 10px}
-    body.rtl .p-bzm9723 .pagelayer-email-icon{margin-left:10px}
-    .p-bzm9723 .pagelayer-email-icon i{color:#1bbde4;font-size: 20px}
-    .p-bzm9723{padding-top: 20px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-    </style><div class="pagelayer-email-holder">
-            <span class="pagelayer-email-icon"><i class="fas fa-envelope"></i></span>
-            <span class="pagelayer-email">contacto@berkaly.cl</span>
-                </div>
-            
-            </div>
-    <div pagelayer-id="4iq6839" class="p-4iq6839 pagelayer-phone">
-    <style pagelayer-style-id="4iq6839">.p-4iq6839 .pagelayer-phone *, .p-4iq6839 .pagelayer-phone{color:#ffffff}
-    body:not(.rtl) .p-4iq6839 .pagelayer-phone-icon{margin-right: 10px}
-    body.rtl .p-4iq6839 .pagelayer-phone-icon{margin-left:10px}
-    .p-4iq6839 .pagelayer-phone-icon i{color:#1bbde4;font-size: 20px}
-    .p-4iq6839{padding-top: 20px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-    </style><div class="pagelayer-phone-holder">
-            <span class="pagelayer-phone-icon"><i class="fas fa-phone-alt"></i></span>
-            
-                <span class="pagelayer-phone">+56 9 6706 3316</span>
-            
-            </div></div>
-    </div></div>
-    </div></div>
-    <div pagelayer-id="5h66447" class="p-5h66447 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
-    <style pagelayer-style-id="5h66447">.p-5h66447 .pagelayer-col-holder{padding: 10px}
-    .p-5h66447 > .pagelayer-background-overlay{background-color: #0f6393;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    .p-5h66447 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
-    .p-5h66447 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
-    .p-5h66447 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
-    .p-5h66447 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
-    .p-5h66447{background: #102e7a;border-style: solid;border-top-width: 2px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-color: #b7b4b4}
-    </style>
-            
-            
-            
-            <div class="pagelayer-background-overlay"></div>
-            <div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
-    <div pagelayer-id="qyv1232" class="p-qyv1232 pagelayer-col">
-    <style pagelayer-style-id="qyv1232">.p-qyv1232{align-content: center !important}
-    .p-qyv1232 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
-    .pagelayer-row-holder .p-qyv1232{width: 75.30%}
-    .p-qyv1232 > .pagelayer-background-overlay{background-color: #0f6393;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    @media (max-width: 768px) and (min-width: 501px){.pagelayer-row-holder .p-qyv1232{width: 100%}
+    .block07 .splide--ttb > .splide__track > .splide__list {
+        display: block;
     }
-    @media (max-width: 500px){.pagelayer-row-holder .p-qyv1232{width: 100%}
+    .block07 .splide--ttb > .splide__pagination {
+        width: auto;
     }
-    </style>
-                
-                
-                <div class="pagelayer-background-overlay"></div>
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="gj46079" class="p-gj46079 pagelayer-copyright">
-    <style pagelayer-style-id="gj46079">.p-gj46079 .pagelayer-copyright *, .p-gj46079 .pagelayer-copyright{color:#ffffff}
-    .p-gj46079 .pagelayer-copyright{text-align: center}
-    @media (max-width: 768px) and (min-width: 501px){.p-gj46079 .pagelayer-copyright{text-align: center}
+    .block07 .splide__arrow--next {
+        right: 0em;
     }
-    @media (max-width: 500px){.p-gj46079 .pagelayer-copyright{text-align: center}
+    .block07 .splide__arrow--prev {
+        left: 0em;
     }
-    </style><div class="pagelayer-copyright">
-            <a href="https://berkaly.cl">
-                © 2025 BERKALY CAPACITACIONES
-            </a>
-        </div></div>
-    </div></div>
-    <div pagelayer-id="nq18970" class="p-nq18970 pagelayer-col">
-    <style pagelayer-style-id="nq18970">.p-nq18970 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
-    .pagelayer-row-holder .p-nq18970{width: 24.70%}
-    .p-nq18970 > .pagelayer-background-overlay{background-color: #0f6393;-webkit-transition: all 400ms !important; transition: all 400ms !important}
-    @media (max-width: 768px) and (min-width: 501px){.pagelayer-row-holder .p-nq18970{width: 100%}
+    .block07 .splide__arrow {
+        top: 1%;
+        background:  #802a00;
     }
-    @media (max-width: 500px){.pagelayer-row-holder .p-nq18970{width: 100%}
+    .hy__container {
+        padding: 0;
+        margin-bottom: 2.35765%;
+        background-color: #fff;
+        border-radius: 0.2rem;
+        border: 1px solid rgba(0, 0, 0, 0.125);
     }
-    </style>
-                
-                
-                <div class="pagelayer-background-overlay"></div>
-                <div class="pagelayer-col-holder">
-    <div pagelayer-id="uqs609" class="p-uqs609 pagelayer-btn pagelayer-scroll-to-element" pagelayer_scrollto_type="totop" pagelayer_scrollto_speed="1">
-    <style pagelayer-style-id="uqs609">.p-uqs609{text-align: right}
-    .p-uqs609 .pagelayer-btn-holder{padding: calc(30px / 2) 30px;background-color: #1bbde4;color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important;border-color: #42414f}
-    .p-uqs609 .pagelayer-btn-anim-thin{background-color: unset !important;border-style: unset !important}
-    .p-uqs609 .pagelayer-btn-anim-thin::before{background-color: #1bbde4}
-    .p-uqs609 .pagelayer-btn-anim-thin::after{background-color: #1bbde4}
-    .p-uqs609 .pagelayer-btn-icon{padding: 0 1px}
-    .p-uqs609 .pagelayer-btn-holder, .p-uqs609 .pagelayer-btn-anim-thin:after, .p-uqs609 .pagelayer-btn-anim-thin:before{border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
-    .p-uqs609 .pagelayer-btn-holder, .p-uqs609 .pagelayer-btn-anim-glow:before{border-radius: 50px 50px 50px 50px; -webkit-border-radius:  50px 50px 50px 50px;-moz-border-radius: 50px 50px 50px 50px}
-    @media (max-width: 768px) and (min-width: 501px){.p-uqs609{text-align: center}
+    .hy__container .hy__image img {
+        object-fit: cover;
+        width: 100%;
+        border-radius: 2px 2px 0 0;
     }
-    @media (max-width: 500px){.p-uqs609{text-align: center}
+    .hy__container h6 {
+        font-size: 16px;
+        font-weight: 700;
+        margin-bottom: 10px;
     }
-    </style><a class="pagelayer-btn-holder pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-custom pagelayer-btn-icon-left">
-                    <i class="fas fa-arrow-up pagelayer-btn-icon"></i>
-                    
-                    <i class="fas fa-arrow-up pagelayer-btn-icon"></i>
-                </a></div>
-    </div></div>
-    </div></div>
-    
-    </footer><script type='text/javascript'>
-    jQuery(document).ready(function(){
-        let pass_input = jQuery('form.login [name="password"]');
-        if(pass_input.length){
-            pass_input.attr('required', false);
-            pass_input.attr('value', '');
+    .hy__total {
+        font-weight: 600;
+    }
+    .hy__info {
+        padding: 0.5em;
+    }
+    .hy__image {
+        margin: 0;
+    }
+    .hy__overlay {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        right: 10px;
+        background-color: #802a00;
+        overflow: auto;
+        width: auto;
+        height: 50%;
+        -webkit-transform: scale(0);
+        -ms-transform: scale(0);
+        transform: scale(0);
+        -webkit-transition: .5s ease;
+        transition: .5s ease;
+        border-radius: 2px;
+        opacity: 0.9;
+        scrollbar-color: rgb(136, 136, 136)  #802a00; 
+    }
+    .hy__overlay::-webkit-scrollbar-thumb {
+        background: rgb(136, 136, 136);
+        border-radius: 10px;
+    }
+    .hy__container:hover .hy__overlay {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+    .hy__text {
+        color: white;
+        font-size: 16px;
+        padding : 25px;
+    }
+    .block08design3 .card {
+        border-radius: 0.2rem;
+    }
+    .block08design3 .card, .card-img-top {
+        border-top-left-radius: 0.2rem ;
+        border-top-right-radius: 0.2rem ;
+    }
+    .block08design3 .card-body h6 {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .block08design4 .card {
+        border-radius: 0.2rem;
+    }
+    .block08design4 .card, .card-img-top {
+        border-top-left-radius: 0.2rem ;
+        border-bottom-left-radius: 0.2rem ;
+        border-top-right-radius: 0;
+    }
+    .block08design4 .card-body h6 {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .block08design4 .card-body {
+        padding: 1.0rem 0.2rem .5rem 0.01rem;
+    }
+    @media (max-width: 767.98px) {
+        .block08design4 .card .card-body {
+            padding: 0.625rem;
         }
-    })
-    </script>
-    <script type='text/javascript' src='https://berkaly.cl/site-inc/js/wp-embed.min.js?ver=5.1.6'></script>
-    </body>
-    </html>
+    }
+    .teachers .social li a:hover,.teachers .teacher-content h4 span {
+        color: #802a00;
+    }
+    .teachers .social,.teachers .teacher-content:hover {
+        background: #802a00;
+    }
+
+    .teachers {
+        background: #fff;
+    }
+    .teachers .teachers-slider{
+        margin-top:30px;
+    }
+    .teachers .single-teacher {
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .teachers .teacher-head {
+        position: relative;
+    }
+    .teachers .teacher-head.overlay::before {
+        opacity: 0;
+        z-index: 1;
+        visibility: hidden;
+    }
+    .teachers .single-teacher:hover .teacher-head.overlay:before{
+        opacity:0.8;
+        visibility:visible
+    }
+    .teachers .teacher-head img{
+        height:100%;
+        width:100%;
+        text-align:center;
+    }
+    .teachers .social {
+        width: 75px;
+        position: absolute;
+        top: 15px;
+        text-align: center;
+        padding: 15px 0;
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+        left: 15px;
+        z-index: 2;
+        -webkit-transform: translateY(-100%);
+        -moz-transform: translateY(-100%);
+        transform: translateY(-100%);
+    }
+    .teachers .single-teacher:hover .social{
+        opacity:1;
+        visibility:visible;
+        transform: translateY(0%);
+    }
+    .teachers .social li {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .teachers .social li:last-child{
+        margin:0;
+    }
+    .teachers .social li a {
+        color: #fff;
+        font-size: 14px;
+        width: 60px;
+        height: 30px;
+        line-height: 30px;
+        border: 1px solid #fff;
+        display: inline-block;
+    }
+    .teachers .social li a:hover{
+        border-color:transparent;
+        background:#fff;
+    }
+    .teachers .teacher-content {
+        background: #fff;
+        padding: 12px 30px;
+        text-align: center;
+        position: absolute;
+        bottom: -15px;
+        left: 15px;
+        z-index: 33;
+        -webkit-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+        -webkit-transition:all 0.3s ease 0s;
+        -moz-transition:all 0.3s ease 0s;
+        transition:all 0.3s ease 0s;
+    }
+    .teachers .single-teacher:hover .teacher-content,
+    .teachers .single-teacher.active .teacher-content{
+        transform:scale(1.0);
+        opacity:1;
+        visibility:visible;
+    }
+    .teachers .teacher-content:hover h4,
+    .teachers .teacher-content:hover span{
+        color:#fff;
+    }
+    .teachers .teacher-content h4 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .teachers .teacher-content a {
+        text-decoration: none;
+    }
+    .teachers .teacher-content h4 span {
+        display: block;
+        font-weight: 400;
+        font-size: 15px;
+        margin-top: 5px;
+        -webkit-transition:all 0.3s ease 0s;
+        -moz-transition:all 0.3s ease 0s;
+        transition:all 0.3s ease 0s;
+    }
+    .overlay{
+        position:relative
+    }
+    .overlay::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.8;
+        background: #20232E;
+        content: "";
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+
+    .splide__container {
+        position: relative;
+        box-sizing: border-box;
+    }
+    .splide__list {
+        margin: 0 !important;
+        padding: 0 !important;
+        width: -webkit-max-content;
+        width: max-content;
+        will-change: auto;
+    }
+    .splide.is-active .splide__list {
+        display: flex;
+        align-items: flex-start;
+    }
+    .splide__pagination {
+        display: inline-flex;
+        align-items: center;
+        width: 40%;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+    .splide__pagination li {
+        list-style-type: none;
+        display: inline-block;
+        line-height: 1;
+        margin: 0;
+    }
+    .splide__pagination li button {
+        background-color: transparent;
+        border: 1px solid #802a00;
+        height: 10px;
+        margin: 0 7px;
+        width: 10px;
+        border-radius: 50%;
+    }
+    .splide__pagination li button.is-active {
+        background-color: #802a00;
+    }
+    .splide {
+        visibility: hidden;
+    }
+    .splide,
+    .splide__slide {
+        position: relative;
+        outline: none;
+    }
+    .splide__slide {
+        box-sizing: border-box;
+        list-style-type: none !important;
+        margin: 0;
+        flex-shrink: 0;
+    }
+    .splide__slide img {
+        vertical-align: bottom;
+    }
+    .splide__slider {
+        position: relative;
+    }
+    .splide__track {
+        position: relative;
+        z-index: 0;
+        overflow: hidden;
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .splide--draggable > .splide__track > .splide__list > .splide__slide {
+        -webkit-user-select: none;
+        user-select: none;
+    }
+    .splide--ttb > .splide__track > .splide__list {
+        display: block;
+    }
+    .splide--ttb > .splide__pagination {
+        width: auto;
+    }
+    .splide__arrow--next {
+        right: 0em;
+    }
+    .splide__arrow--prev {
+        left: 0em;
+    }
+    .splide__arrow {
+        top: 1%;
+        background:  #802a00;
+    }
+
+    .block09design1 {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizelegibility;
+        position: relative;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        background-color: #ffffff;
+    }
+    .block09design1 .fdb-box {
+        background: #ffffff;
+        padding: 3rem 4rem;
+        overflow: hidden;
+        color: #444444;
+        border: 1px solid  #802a00;
+        border-radius: 0.25rem;
+    }
+    .block09design1 .fdb-touch {
+        border-top: solid 0.3125rem #802a00;
+        z-index: 2;
+    }
+    .block09design1 h6 {
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 10px;
+    }
+    .block-text-box {
+        padding: 15px 0;
+        color: #ffffff;
+        border-radius: 0.25rem;
+        background: #802a00;
+        opacity: 0.9;
+    }
+
+    .block09 .single-box {
+        height: 150px;
+        background-size: cover;
+        padding-top:35px;
+        position: relative;
+        z-index: 1;
+        overflow: hidden;
+    }
+    .block09 .single-box-color {
+        height: 100px;
+        background-size: cover;
+        padding-top:35px;
+        position: relative;
+        z-index: 1;
+        overflow: hidden;
+    }
+
+    .block09design2 img {
+        opacity: 0.5;
+    }
+    .block09design2 h6 {
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .block09design3 img {
+        opacity: 0.5;
+    }
+    .block09design3 h6 {
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .block09 .single-box-alt {
+        font-size: 13px; 
+        font-weight: 500;
+        height: 50px;
+        position:absolute; 
+        left:0px;
+        right:0px;
+        bottom:0px; 
+        width:100%;
+        opacity: 0.9;
+    }
+    .block09 .single-box-alt-color {
+        font-size: 13px; 
+        font-weight: 500;
+        height: 50px;
+        position:absolute; 
+        left:0px;
+        right:0px;
+        bottom:25%; 
+        width:100%;
+        opacity: 0.9;
+    }
+
+    .block09 .splide__container {
+        position: relative;
+        box-sizing: border-box;
+    }
+    .block09 .splide__list {
+        margin: 0 !important;
+        padding: 0 !important;
+        width: -webkit-max-content;
+        width: max-content;
+        will-change: auto;
+    }
+    .block09 .splide.is-active .splide__list {
+        display: flex;
+        align-items: flex-start;
+    }
+    .block09 .splide__pagination {
+        display: inline-flex;
+        align-items: center;
+        width: 40%;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+    .block09 .splide__pagination li {
+        list-style-type: none;
+        display: inline-block;
+        line-height: 1;
+        margin: 0;
+    }
+    .block09 .splide__pagination li button {
+        background-color: transparent;
+        border: 1px solid #802a00;
+        height: 10px;
+        margin: 0 7px;
+        width: 10px;
+        border-radius: 50%;
+    }
+    .block09 .splide__pagination li button.is-active {
+        background-color: #802a00;
+    }
+    .block09 .splide {
+        visibility: hidden;
+    }
+    .block09 .splide,
+    .block09 .splide__slide {
+        position: relative;
+        outline: none;
+    }
+    .block09 .splide__slide {
+        box-sizing: border-box;
+        list-style-type: none !important;
+        margin: 0;
+        flex-shrink: 0;
+    }
+    .block09 .splide__slide img {
+        vertical-align: bottom;
+    }
+    .block09 .splide__slider {
+        position: relative;
+    }
+    .block09 .splide__track {
+        position: relative;
+        z-index: 0;
+        overflow: hidden;
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+    .block09 .splide--draggable > .splide__track > .splide__list > .splide__slide {
+        -webkit-user-select: none;
+        user-select: none;
+    }
+    .block09 .splide--ttb > .splide__track > .splide__list {
+        display: block;
+    }
+    .block09 .splide--ttb > .splide__pagination {
+        width: auto;
+    }
+    .block09 .splide__arrow--next {
+        right: 0em;
+    }
+    .block09 .splide__arrow--prev {
+        left: 0em;
+    }
+    .block09 .splide__arrow {
+        top: 1%;
+        background:  #802a00;
+    }
+    @media only screen and (max-width: 576px) {
+        .block19design2 .col-xs {
+            width: 50%;
+        }
+    }
+    .setupbutton{
+        position: relative; 
+        bottom: 20px;
+        margin-left: 20px;
+    }
+    .setup1 {
+        display: block;
+    }
+    .setup1 #page {
+        margin-top: 40px;
+        margin-bottom: 45px;
+    }
+    .setup1 #page-content{
+        height: auto;
+    }
+    .setup1 #region-main {
+    height: auto;
+    padding-bottom : 40px;
+    overflow-x: auto;
+    overflow-y: visible;
+    }
+    .setup1 #region-main #site-news-forum {
+    display: block !important;
+    }
+    .setup1 #region-main #frontpage-available-course-list{
+        display: block !important;
+    }
+    .setup1 #region-main #frontpage-course-list{
+        display: block !important;
+    }
+    .setup1 #region-main #frontpage-category-names{
+        display: block !important;
+    }
+    .setup1 #region-main #frontpage-category-combo{
+        display: block !important;
+    }
+    .setup1 #region-main .simplesearchform {
+        display: none !important;
+    }
+    .setup1 #region-main .buttons{
+        display: none !important;
+    }
+    .setup1 #region-main .skip-block-to{
+        display: none !important;
+    }
+    .setup1 #region-main .box{
+        padding-top : 0px !important;
+        padding-bottom : 0px !important;
+    }
+    </style>
+    
+
+</head>
+
+<body  id="page-site-index" class="limitedwidth format-site course path-site chrome dir-ltr lang-en yui-skin-sam yui3-skin-sam www-elearning-inspc-mg pagelayout-frontpage course-1 context-2 notloggedin theme uses-drawers">
+
+<div class="toast-wrapper mx-auto py-0 fixed-top" role="status" aria-live="polite"></div>
+<!-- Start Header Area -->
+         
+         <nav id="navheader" class="navbar header-area navbar-static-top navbar-light bg-hynavbar navbar-expand
+             fixed-top header-wrapper moodle-has-zindex educard-font" aria-label="Site navigation">
+             
+             <div class="container-fluid" >
+                 <button class="navbar-toggler aabtn d-block d-lg-none px-1 my-1 border-0" data-toggler="drawers" 
+                     data-action="toggle" data-target="theme_boost-drawers-primary">
+                     <span class="navbar-toggler-icon"></span>
+                     <span class="sr-only">Side panel</span>
+                 </button>
+                 <a href="https://www.elearning-inspc.mg/" class="navbar-brand d-none d-xl-flex align-items-center m-0 mr-4 p-0 aabtn">
+         
+                             <img src="https://www.elearning-inspc.mg/pluginfile.php/1/core_admin/logo/0x200/1747651601/logo-full.png" class="logo mr-1" alt="ENT-INSPC">
+                 </a>
+                     <div class="primary-navigation">
+                     </div>
+         
+                 <div class="navbar-nav d-none d-lg-flex my-1 px-1">
+                     <!-- page_heading_menu -->
+                     
+                     <div class="navbar-nav mr-auto">
+                         <div class= 'navbar-nav'><div class='nav-item'><a class='nav-item nav-link' href='https://www.elearning-inspc.mg/' target='_self'>ACCUEIL</a><div></div></div><div class='position-relative nav-item' id='dropdown-custom-6832de6f38046'><a class='dropdown-toggle nav-link' id='drop-down-6832de6f38046' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false' href='#' title='FORMATIONS' aria-controls='drop-down-menu-6832de6f38046'>FORMATIONS</a><div class='dropdown-menu' role='menu'
+                                id='drop-down-menu-6832de6f38046' aria-labelledby='drop-down-6832de6f38046'><a class='dropdown-item' role='menuitem'
+                                href='/local/almondbpage/?id=a3' target='_self'  title='DIPLÔMANTES'>DIPLÔMANTES</a><a class='dropdown-item' role='menuitem'
+                                href='/local/almondbpage/?id=a5' target='_self'  title='CONTINUES'>CONTINUES</a></div></div><div class='position-relative nav-item' id='dropdown-custom-6832de6f3804b'><a class='dropdown-toggle nav-link' id='drop-down-6832de6f3804b' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false' href='#' title='INSPC' aria-controls='drop-down-menu-6832de6f3804b'>INSPC</a><div class='dropdown-menu' role='menu'
+                                id='drop-down-menu-6832de6f3804b' aria-labelledby='drop-down-6832de6f3804b'><a class='dropdown-item' role='menuitem'
+                                href='/course/index.php?categoryid=29' target='_self'  title='BUREAUTIQUES ET EPI INFO'>BUREAUTIQUES ET EPI INFO</a><a class='dropdown-item' role='menuitem'
+                                href='/course/index.php?categoryid=34' target='_self'  title='MÉTHODOLOGIE DE RECHERCHE'>MÉTHODOLOGIE DE RECHERCHE</a><a class='dropdown-item' role='menuitem'
+                                href='/course/index.php?categoryid=35' target='_self'  title='SANTE COMMUNAUTAIRE'>SANTE COMMUNAUTAIRE</a><a class='dropdown-item' role='menuitem'
+                                href='/course/index.php?categoryid=24' target='_self'  title='DIRECTION DE LA SANTÉ FAMILIALE'>DIRECTION DE LA SANTÉ FAMILIALE</a><a class='dropdown-item' role='menuitem'
+                                href='/course/index.php?categoryid=32' target='_self'  title='PROGRAMME NATIONAL DE LUTTE CONTRE LE SIDA'>PROGRAMME NATIONAL DE LUTTE CONTRE LE SIDA</a></div></div><div class='nav-item'><a class='nav-item nav-link' href='/local/staticpage/view.php?page=contact' target='_self'>CONTACT</a><div></div></div></div>
+                     </div>
+                 </div>
+         
+                 <div id="usernavigation" class="navbar-nav ml-auto">
+                         <div id="searchinput-navbar-6832de6f448de6832de6f429463" class="simplesearchform">
+    <div class="collapse" id="searchform-navbar">
+        <form autocomplete="off" action="https://www.elearning-inspc.mg/search/index.php" method="get" accept-charset="utf-8" class="mform form-inline searchform-navbar">
+                <input type="hidden" name="context" value="2">
+            <div class="input-group">
+                <label for="searchinput-6832de6f448de6832de6f429463">
+                    <span class="sr-only">Search</span>
+                </label>
+                    <input type="text"
+                       id="searchinput-6832de6f448de6832de6f429463"
+                       class="form-control withclear"
+                       placeholder="Search"
+                       aria-label="Search"
+                       name="q"
+                       data-region="input"
+                       autocomplete="off"
+                    >
+                    <a class="btn btn-close"
+                        data-action="closesearch"
+                        data-toggle="collapse"
+                        href="#searchform-navbar"
+                        role="button"
+                    >
+                        <i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">Close</span>
+                    </a>
+                <div class="input-group-append">
+                    <button type="submit" class="btn btn-submit" data-action="submit">
+                        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <a
+        class="btn btn-open rounded-0 nav-link"
+        data-toggle="collapse"
+        data-action="opensearch"
+        href="#searchform-navbar"
+        role="button"
+        aria-expanded="false"
+        aria-controls="searchform-navbar"
+        title="Toggle search input"
+    >
+        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+        <span class="sr-only">Toggle search input</span>
+    </a>
+</div>
+                         <div class="divider border-left h-75 align-self-center mx-1"></div>
+                         <div class="langmenu">
+                             <div class="dropdown show">
+                                 <a href="#" role="button" id="lang-menu-toggle" data-toggle="dropdown" aria-label="Language" aria-haspopup="true" aria-controls="lang-action-menu" class="btn dropdown-toggle">
+                                     <i class="icon fa fa-language fa-fw mr-1" aria-hidden="true"></i>
+                                     <span class="langbutton">
+                                         English ‎(en)‎
+                                     </span>
+                                     <b class="caret"></b>
+                                 </a>
+                                 <div role="menu" aria-labelledby="lang-menu-toggle" id="lang-action-menu" class="dropdown-menu dropdown-menu-right">
+                                             <a href="#" class="dropdown-item pl-5" role="menuitem" aria-current="true"
+                                                     >
+                                                 English ‎(en)‎
+                                             </a>
+                                             <a href="https://www.elearning-inspc.mg/?lang=fr" class="dropdown-item pl-5" role="menuitem" 
+                                                     lang="fr" >
+                                                 Français ‎(fr)‎
+                                             </a>
+                                 </div>
+                             </div>
+                         </div>
+                         <div class="divider border-left h-75 align-self-center mx-1"></div>
+         
+                     <div class="d-flex align-items-stretch usermenu-container" data-region="usermenu">
+                             <div class="usermenu" 
+                                 data-toggle="tooltip" data-placement="bottom" 
+                                 >
+                                     <span class="login pl-2">
+                                             <a href="https://www.elearning-inspc.mg/login/index.php">Log in</a>
+                                     </span>
+                             </div>
+                     </div>
+                 </div>
+             </div>
+         </nav>
+
+<div  class="drawer drawer-left drawer-primary d-print-none not-initialized" data-region="fixed-drawer" id="theme_boost-drawers-primary" data-preference="" data-state="show-drawer-primary" data-forceopen="0" data-close-on-resize="1">
+    <div class="drawerheader">
+        <button
+            class="btn drawertoggle icon-no-margin hidden"
+            data-toggler="drawers"
+            data-action="closedrawer"
+            data-target="theme_boost-drawers-primary"
+            data-toggle="tooltip"
+            data-placement="right"
+            title="Close drawer"
+        >
+            <i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i>
+        </button>
+        <div class="drawerheadercontent hidden">
+            
+        </div>
+    </div>
+    <div class="drawercontent drag-container" data-usertour="scroller">
+                <div class="list-group">
+                <a href="https://www.elearning-inspc.mg/" class="list-group-item list-group-item-action active " aria-current="true">
+                    Home
+                </a>
+                <a id="drop-down-1" href="#" class="list-group-item list-group-item-action icons-collapse-expand collapsed d-flex" data-toggle="collapse" data-target="#drop-down-menu-1" aria-expanded="false" aria-controls="drop-down-menu-1">
+                    FORMATIONS
+                    <span class="ml-auto expanded-icon icon-no-margin mx-2">
+                        <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">
+                            Collapse
+                        </span>
+                    </span>
+                    <span class="ml-auto collapsed-icon icon-no-margin mx-2">
+                        <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">
+                            Expand
+                        </span>
+                    </span>
+                </a>
+                <div class="collapse list-group-item p-0 border-0" role="menu" id="drop-down-menu-1" aria-labelledby="drop-down-1">
+                             <a href="https://www.elearning-inspc.mg/local/almondbpage/?id=a3" class="pl-5 bg-light list-group-item list-group-item-action">DIPLÔMANTES</a>
+                             <a href="https://www.elearning-inspc.mg/local/almondbpage/?id=a5" class="pl-5 bg-light list-group-item list-group-item-action">CONTINUES</a>
+                </div>
+                <a id="drop-down-4" href="#" class="list-group-item list-group-item-action icons-collapse-expand collapsed d-flex" data-toggle="collapse" data-target="#drop-down-menu-4" aria-expanded="false" aria-controls="drop-down-menu-4">
+                    INSPC
+                    <span class="ml-auto expanded-icon icon-no-margin mx-2">
+                        <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">
+                            Collapse
+                        </span>
+                    </span>
+                    <span class="ml-auto collapsed-icon icon-no-margin mx-2">
+                        <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">
+                            Expand
+                        </span>
+                    </span>
+                </a>
+                <div class="collapse list-group-item p-0 border-0" role="menu" id="drop-down-menu-4" aria-labelledby="drop-down-4">
+                             <a href="https://www.elearning-inspc.mg/course/index.php?categoryid=29" class="pl-5 bg-light list-group-item list-group-item-action">BUREAUTIQUES ET EPI INFO</a>
+                             <a href="https://www.elearning-inspc.mg/course/index.php?categoryid=34" class="pl-5 bg-light list-group-item list-group-item-action">MÉTHODOLOGIE DE RECHERCHE</a>
+                             <a href="https://www.elearning-inspc.mg/course/index.php?categoryid=35" class="pl-5 bg-light list-group-item list-group-item-action">SANTE COMMUNAUTAIRE</a>
+                             <a href="https://www.elearning-inspc.mg/course/index.php?categoryid=24" class="pl-5 bg-light list-group-item list-group-item-action">DIRECTION DE LA SANTÉ FAMILIALE</a>
+                             <a href="https://www.elearning-inspc.mg/course/index.php?categoryid=32" class="pl-5 bg-light list-group-item list-group-item-action">PROGRAMME NATIONAL DE LUTTE CONTRE LE SIDA</a>
+                </div>
+                <a href="https://www.elearning-inspc.mg/local/staticpage/view.php?page=contact" class="list-group-item list-group-item-action  " >
+                    CONTACT
+                </a>
+        </div>
+
+    </div>
+</div>
+         <div class="hy-pt-55"></div>
+<!-- End Header Area -->
+<!-- Start Slider Area  -->
+        <div style="margin-top:0px;"></div>
+        <div id="slider4" class="container-fluid p-0">
+            <div id="header-carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                 <ol class="carousel-indicators">
+                        <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active" style="min-height: 300px;">
+                        <img class="position-relative w-100" src="//www.elearning-inspc.mg/pluginfile.php/1/theme_almondb/sliderimage1/1747651601/carrossel.jpg" alt="slide-0" style="min-height: 300px; object-fit: cover; height:350px;">
+                        <div class="carousel-caption d-flex align-items-center justify-content-center">
+                            <div class="p-6" style="width: 100%; max-width: 900px;">
+                                
+                                <div class="h1 font-weight-bold display-3 mb-md-4">Plus qu'un métier, une vocation.</div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-- End Slider Area -->
+<!-- Start section -->
+    <!-- Start section -->
+    
+<section id="block01">
+    <div class="hire-us-area theme-bg" >
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 col-md-9 col-12">
+                    <div class="hire-us-content">
+                        <div class="text_to_html"><h2><strong style="color:#fff;">Concours INSPC 2025</strong></h2><p style="color:#fff;">Assurez-vous de finaliser vos préparatifs et de soumettre votre candidature avant la date limite. C'est votre chance de briller et de démontrer votre excellence. Ne manquez pas cette opportunité unique de faire valoir vos compétences et de vous démarquer.</p></div> 
+                    </div>  
+                </div>
+                <div class="col-lg-3 col-md-3  offset-lg-2 col-12 text-right">
+                    <a class="hybtn hire-us-button" href="/local/almondbpage/?id=a2">Plus d'informations</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    
+    
+    
+    
+    
+    
+    
+    
+<section id="block06">
+        <div class="block06design1 working-with-us-area white-bg" >
+            <div class="container"> 
+                <div class="row">
+                    <div class="col-md-5 d-none d-md-block">
+                        <div class="hire-us-img">
+                            <img src="//www.elearning-inspc.mg/pluginfile.php/1/theme_almondb/sliderimageblock06img/1747651601/DG_INSPC%20%281%29.png" alt="">
+                        </div>
+                    </div>
+        			<div class="col-md-7 col-12 text-center d-flex align-items-center">
+                        <div class="hire-us-content hytext">
+                            <div class="section-title-fp">
+                                <h4>MOT DU DIRECTEUR GENERAL</h4>
+                            </div>
+                            <div class="pt-2 pb-2"><div class="text_to_html"><p style="color:#333;text-align:justify;">Chers apprenants et membres de notre communauté,</p><p style="color:#333;text-align:justify;">C'est avec une grande fierté que je m'adresse à vous aujourd'hui en tant que Directeur Général de notre plateforme d'apprentissage en ligne.</p><p style="color:#333;text-align:justify;">Nous vivons à une époque où l'accès à l'information et à l'éducation n'a jamais été aussi crucial. Dans un monde en constante évolution, la capacité à apprendre de manière continue est devenue une compétence essentielle pour réussir, que ce soit sur le plan professionnel ou personnel.</p><p style="color:#333;text-align:justify;">Notre plateforme d'Espace Numérique de Travail (ENT) s'engage à être votre partenaire dans cette quête de connaissance et de développement. Nous sommes déterminés à vous offrir une expérience d'apprentissage de la plus haute qualité, en mettant à votre disposition des cours élaborés par des experts de renommée mondiale, des ressources pédagogiques innovantes et un accompagnement personnalisé tout au long de votre parcours.</p><p style="color:#333;text-align:justify;">Merci de votre confiance et de votre engagement envers notre plateforme. Ensemble, nous sommes l'avenir de l'apprentissage.</p><p style="text-align:right;"><span style="color:#802a00;font-size:14px;font-style:italic;">Dr HANITRINIALA Sahondranirina Pâquerette<br />Directeur Général de l'Institut National de Santé Publique et Communautaire - INSPC</span></p></div></div>
+                            <a href="" class="hybtn hire-us-btn" style="pointer-events: none;"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div></section>
+    
+    
+    
+    
+<section id="block19">
+        <div class="block19design1 hy-pt-40 hy-pb-40">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12" >
+                        <div class="section-title-fp hytext text-center hy-pb-40">
+                            <h4>NOS PARTENAIRES</h4>
+                        </div>    
+                        <div class="item-content text-center hy-pt-5">    
+                            <div class="text_to_html">Nous sommes fiers de collaborer avec un réseau diversifié de partenaires stratégiques, allant des institutions académiques de renom et des entreprises innovantes aux organisations à but non lucratif engagées dans des causes sociales et humanitaires. Ces partenariats nous permettent de tirer parti de ressources complémentaires, d'expertise spécialisée et de perspectives variées pour atteindre nos objectifs communs et créer un impact positif dans nos domaines d'intervention.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+            <div class="container">
+                <div class="row align-items-center">
+                <!--  -->
+                    <!-- <div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10"> -->
+                        <!-- <a href="https://themesalmond.com/"><img src="https://www.elearning-inspc.mg/theme/image.php/almondb/theme/1747651601/almondb/block19/1" style="width:100%;" alt=""></a> -->
+                    <!-- </div> -->
+                <!--  -->
+                    <!-- <div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10"> -->
+                        <!-- <a href="https://themesalmond.com/"><img src="https://www.elearning-inspc.mg/theme/image.php/almondb/theme/1747651601/almondb/block19/2" style="width:100%;" alt=""></a> -->
+                    <!-- </div> -->
+                <!--  -->
+                    <!-- <div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10"> -->
+                        <!-- <a href="https://themesalmond.com/"><img src="https://www.elearning-inspc.mg/theme/image.php/almondb/theme/1747651601/almondb/block19/3" style="width:100%;" alt=""></a> -->
+                    <!-- </div> -->
+                <!--  -->
+                    <!-- <div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10"> -->
+                        <!-- <a href="https://themesalmond.com/"><img src="https://www.elearning-inspc.mg/theme/image.php/almondb/theme/1747651601/almondb/block19/4" style="width:100%;" alt=""></a> -->
+                    <!-- </div> -->
+                <!--  -->
+                    <!-- <div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10"> -->
+                        <!-- <a href="https://themesalmond.com/"><img src="https://www.elearning-inspc.mg/theme/image.php/almondb/theme/1747651601/almondb/block19/5" style="width:100%;" alt=""></a> -->
+                    <!-- </div> -->
+                <!--  -->
+                    <!-- <div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10"> -->
+                        <!-- <a href="https://themesalmond.com/"><img src="https://www.elearning-inspc.mg/theme/image.php/almondb/theme/1747651601/almondb/block19/6" style="width:100%;" alt=""></a> -->
+                    <!-- </div> -->
+                <!--      -->
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.afd.fr/fr"><img src="/theme/almondb/images_partners/afd.jpg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://afenet.net/"><img src="/theme/almondb/images_partners/afenet.png" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.auf.org/"><img src="/theme/almondb/images_partners/auf.png" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.afdb.org/fr"><img src="/theme/almondb/images_partners/bad.jpeg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://bngrc.gov.mg/"><img src="/theme/almondb/images_partners/bngrc.jpg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://web.facebook.com/CBMGMadagascar/?locale=fr_FR&_rdc=1&_rdr"><img src="/theme/almondb/images_partners/cbm.png" style="width:60%;" alt=""></a>
+        			</div>
+                </div>
+        		
+        		<div class="row align-items-center">
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.commissionoceanindien.org/"><img src="/theme/almondb/images_partners/coi.jpg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.rki.de/"><img src="/theme/almondb/images_partners/cropped-RKI-logo.png" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.crs.org/our-work-overseas/where-we-work/madagascar"><img src="/theme/almondb/images_partners/crs.jpg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://facmedtananarive.org/cms/"><img src="/theme/almondb/images_partners/fma.png" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.facebook.com/p/IOSTM-100063884692614/"><img src="/theme/almondb/images_partners/iostm.png" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="http://www.mesupres.gov.mg/"><img src="/theme/almondb/images_partners/mesupres.png" style="width:60%;" alt=""></a>
+        			</div>
+                </div>
+        		
+        		<div class="row align-items-center">
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.who.int/fr"><img src="/theme/almondb/images_partners/oms.jpg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://office-nutrition.mg/"><img src="/theme/almondb/images_partners/onn.jpg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.santesud.org/"><img src="/theme/almondb/images_partners/sante_sud.jpg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://response.reliefweb.int/madagascar/water-sanitation-hygiene"><img src="/theme/almondb/images_partners/wash.jpg" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://wateraidmadagascar.mg/"><img src="/theme/almondb/images_partners/wateraid.png" style="width:60%;" alt=""></a>
+        			</div>
+        			
+        			<div class="text-center col-xs col-sm col-sm-4 col-md hy-pt-10 hy-pb-10">
+        				<a href="https://www.unicef.org/madagascar/"><img src="/theme/almondb/images_partners/unicef.jpg" style="width:60%;" alt=""></a>
+        			</div>
+                </div>
+        		
+            </div>
+        </div></section>
+    
+<section id="block20">
+    <footer class="footer-header-underline hy-pt-60 hy-pb-20 black-bg"  >
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <div class="footer-logo">
+
+
+                            <div class="widget-title footer-site-name">
+                                ENT - INSPC
+                            </div> 
+                            <div class="footer-dec">
+                            <p>L'institut National de Santé Publique intègre désormais l'ENT comme un pilier essentiel de son approche pédagogique, offrant ainsi des formations accessibles à distance pour renforcer les compétences des professionnels de la santé et promouvoir la prévention des maladies à l'échelle mondiale.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 ">
+                    <div class="footer-widget">
+                        <div class="widget-title footer-header-underline">
+                            <h6>Contactez-Nous</h6>
+                        </div>
+                        <div class="address-line">
+                            <div class="text_to_html"><ul class="footer-1-footer17" style="color:#fff;"><li class="footer-1-footer18"><span class="sc-iqcoie"><i class="fa fa-map-marker"></i> Ex-Ecole de Médecine de Befelatanana – Mahamasina<br />
+        </span></li><li class="footer-1-footer18"><span class="sc-iqcoie"><i class="fa fa-paper-plane"></i> BP : 176<br />
+        </span></li><li class="footer-1-footer18"><span class="sc-iqcoie"><span><i class="fa fa-envelope-open-o"></i><a href="mailto:info@inspc.mg" style="color:#fff;"> info@inspc.mg</a></span></span></li></ul></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <div class="widget-title footer-header-underline">
+                            <h6>Informations légales</h6>
+                        </div>
+                        <ul class="footer-menu">
+                            <li><a class="text-decoration-none" href="#" target="_blank"><ul class="footer-1-footer17"></a></li><li><a class="text-decoration-none" href="#" target="_blank"><li class="footer-1-footer18"></a></li><li><a class="text-decoration-none" href="#" target="_blank"><span class="sc-iqcoie "></a></li><li><a class="text-decoration-none" href="#" target="_blank"><a class="footer-1-footer22" tabindex="inherit" href="/local/almondbpage/?id=a1" data-testid="footerLink"><span>Guide d'utilisation</span></a></a></li><li><a class="text-decoration-none" href="#" target="_blank"></span></a></li><li><a class="text-decoration-none" href="#" target="_blank"></li></a></li><li><a class="text-decoration-none" href="#" target="_blank"><li class="footer-1-footer18"></a></li><li><a class="text-decoration-none" href="#" target="_blank"><span class="sc-iqcoie "></a></li><li><a class="text-decoration-none" href="#" target="_blank"><a class="footer-1-footer22" tabindex="inherit" href="/local/almondbpage/?id=a4" data-testid="footerLink"><span>Conditions générales d'utilisation</span></a></a></li><li><a class="text-decoration-none" href="#" target="_blank"></span></a></li><li><a class="text-decoration-none" href="#" target="_blank"></li></a></li><li><a class="text-decoration-none" href="#" target="_blank"></ul></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <div class="widget-title footer-header-underline">
+                            <h6>Liens utiles</h6>
+                        </div>
+                        <ul class="footer-menu">
+                        <li><a class="text-decoration-none" href="#" target="_blank"><ul class="footer-1-footer17"></a></li><li><a class="text-decoration-none" href="#" target="_blank"><li class="footer-1-footer18"></a></li><li><a class="text-decoration-none" href="#" target="_blank"><span class="sc-iqcoie "></a></li><li><a class="text-decoration-none" href="#" target="_blank"><a class="footer-1-footer22" tabindex="inherit" href="https://www.presidence.gov.mg/" data-testid="footerLink"><span>Présidence de la République</span></a></a></li><li><a class="text-decoration-none" href="#" target="_blank"></span></a></li><li><a class="text-decoration-none" href="#" target="_blank"></li></a></li><li><a class="text-decoration-none" href="#" target="_blank"><li class="footer-1-footer18"></a></li><li><a class="text-decoration-none" href="#" target="_blank"><span class="sc-iqcoie "></a></li><li><a class="text-decoration-none" href="#" target="_blank"><a class="footer-1-footer22" tabindex="inherit" href="https://www.primature.gov.mg/" data-testid="footerLink"><span>Primature</span></a></a></li><li><a class="text-decoration-none" href="#" target="_blank"></span></a></li><li><a class="text-decoration-none" href="#" target="_blank"></li></a></li><li><a class="text-decoration-none" href="#" target="_blank"><!--li class="footer-1-footer18"></a></li><li><a class="text-decoration-none" href="#" target="_blank"><span class="sc-iqcoie "></a></li><li><a class="text-decoration-none" href="#" target="_blank"><span></a></li><li><a class="text-decoration-none" href="#" target="_blank"><a class="footer-1-footer22" tabindex="inherit" href="https://www.sante.gov.mg/" target="_blank" data-testid="footerLink"><span>Ministère de la Santé</span></a></a></li><li><a class="text-decoration-none" href="#" target="_blank"></span></a></li><li><a class="text-decoration-none" href="#" target="_blank"></span></a></li><li><a class="text-decoration-none" href="#" target="_blank"></li--></a></li><li><a class="text-decoration-none" href="#" target="_blank"><li class="footer-1-footer18"></a></li><li><a class="text-decoration-none" href="#" target="_blank"><span class="sc-iqcoie "></a></li><li><a class="text-decoration-none" href="#" target="_blank"><a class="footer-1-footer22" tabindex="inherit" href="https://www.inspc.mg/" data-testid="footerLink"><span>Institut National de Santé Publique et Communautaire</span></a></a></li><li><a class="text-decoration-none" href="#" target="_blank"></span></a></li><li><a class="text-decoration-none" href="#" target="_blank"></li></a></li><li><a class="text-decoration-none" href="#" target="_blank"></ul></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="copyright-area black-bg">
+        <div class="container">
+            <div class="row ">
+                <div class="col-12 text-center hy-pt-10 social-links">
+                    <div class="text_to_html"><ul><li><a href="https://www.facebook.com/inspc/" target="_blank" rel="noreferrer noopener"><i class="fa fa-facebook-f"></i></a></li></ul></div>
+                </div>
+                <div class="col-12 text-center">
+                    <div class="copyright-area">
+                        <div class="small">
+                            <div class="text_to_html">Copyright © 2024 Conçu par INSPC. Tous les droits sont réservés.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="theme-info">
+        </div>
+    </div>
+</section>
+    <!-- End section -->
+<!-- End section -->
+<div>
+    <a role="button" href="#" aria-label="Go to top">
+        <i class="fa fa-angle-up scrollUp"></i>
+    </a>
+</div>
+
+<div class="setup1">    
+    <div class="modal fade" id="setup1Modal" tabindex="-1" aria-labelledby="setup1ModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="setup1ModalLabel">...</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class= "hy-pt-1">
+                        <div id="navbarHeader">
+                            <div id="page-wrapper" class="container">
+                                <div>
+    <a class="sr-only sr-only-focusable" href="#maincontent">Skip to main content</a>
+</div><script src="https://www.elearning-inspc.mg/lib/javascript.php/1747651602/lib/polyfills/polyfill.js"></script>
+<script src="https://www.elearning-inspc.mg/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.js"></script><script src="https://www.elearning-inspc.mg/lib/javascript.php/1747651602/lib/javascript-static.js"></script>
+<script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+                                <div id="page" class="">
+                                    <div id="page-content" class="row d-print-block">
+                                        <div id="region-main-box" class="col-12">
+                                            <section id="region-main" aria-label="Content">
+                                                <span class="notifications" id="user-notifications"></span>
+                                                <div role="main"><span id="maincontent"></span><div class="course-content">
+    <div class="sitetopic">
+        <ul class="topics frontpage">
+                <li id="section-1"
+                    class="section course-section main  clearfix
+                             
+                            "
+                    data-sectionid="1"
+                    data-sectionreturnid="1"
+                    data-for="section"
+                    data-id="1"
+                    data-number="1"
+                >
+                    <div class="course-section-header d-flex"
+                        data-for="section_title"
+                        data-id="1"
+                        data-number="1"
+                    >
+                            <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                            </div>
+                            </div>
+                            <div id="coursecontentcollapse1"
+                                class="content 
+                                    
+                                ">
+                                <div class=" my-3" data-for="sectioninfo">
+                                        <div class="section_availability">
+                                        </div>
+                            </div>
+                                    <ul class="section m-0 p-0 img-text " data-for="cmlist">
+                                        </ul>
+                            
+                    </div>
+                </li>
+        </ul>
+    </div>
+</div><a class="skip-block skip aabtn" href="#skipavailablecourses">Skip available courses</a><div id="frontpage-available-course-list"><h2>Available courses</h2><div class="courses frontpage-course-list-all"><div class="coursebox clearfix odd first" data-courseid="8" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=8">CENTRE DE SANTE AMI DES JEUNES</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/78/course/overviewfiles/DSFA.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/8a966e1479abf27944f754e8ac27feba?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='DSFA MSAN'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2393&amp;course=1"> DSFA MSAN</a></div></li><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/551e762dfe18498009cdf78212843655?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Enseignant MSAN'/><a href="https://www.elearning-inspc.mg/user/view.php?id=7&amp;course=1"> Enseignant MSAN</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Les jeunes sont des personnes ayant entre 15 et 24 ans et les adolescents sont des personnes entre 10 et 19 ans. Ensemble, ils forment la catégorie la plus importante des jeunes personnes, celles âgées entre 10 et 24 ans. La fin de l'adolescence et le début de l'âge adulte varient. Dans un pays ou une culture, il peut y avoir des âges différents auxquels on considère un individu assez mûr pour se voir confier certaines tâches et responsabilités au sein de la société. Dans des situations d'urgence, les adolescents ont des besoins différents de ceux des enfants plus jeunes et des adultes.</p>
+<p>A la fin de la session, le participant doit être capable de:</p>
+<ul>
+<li>donner la définition d’un Centre de Santé Ami des Jeunes avec ses caractéristiques;</li>
+<li>énumérer les critères d’un CSAJ à Madagascar<br><br></li>
+</ul></div></div></div></div></div></div><div class="coursebox clearfix even" data-courseid="7" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=7">COUNSELING POUR LES ADOLESCENTS ET JEUNES</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/75/course/overviewfiles/DSFA.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/8a966e1479abf27944f754e8ac27feba?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='DSFA MSAN'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2393&amp;course=1"> DSFA MSAN</a></div></li><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/551e762dfe18498009cdf78212843655?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Enseignant MSAN'/><a href="https://www.elearning-inspc.mg/user/view.php?id=7&amp;course=1"> Enseignant MSAN</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Les jeunes sont des personnes ayant entre 15 et 24 ans et les adolescents sont des personnes entre 10 et 19 ans. Ensemble, ils forment la catégorie la plus importante des jeunes personnes, celles âgées entre 10 et 24 ans. La fin de l'adolescence et le début de l'âge adulte varient. Dans un pays ou une culture, il peut y avoir des âges différents auxquels on considère un individu assez mûr pour se voir confier certaines tâches et responsabilités au sein de la société. Dans des situations d'urgence, les adolescents ont des besoins différents de ceux des enfants plus jeunes et des adultes.</p>
+<p>A la fin de la session, le participant doit être capable de:</p>
+<ul>
+<li>donner la définition et les conditions nécessaires pour réussir un bon <a class="autolink" title="COUNSELING" href="https://www.elearning-inspc.mg/mod/page/view.php?id=19">counseling</a>;</li>
+<li>expliquer les six savoirs/compétences basiques avant de faire le <a class="autolink" title="COUNSELING" href="https://www.elearning-inspc.mg/mod/page/view.php?id=19">counseling</a> ;</li>
+<li>décrire les étapes du <a class="autolink" title="COUNSELING" href="https://www.elearning-inspc.mg/mod/page/view.php?id=19">counseling</a> tout en menant un <a class="autolink" title="COUNSELING" href="https://www.elearning-inspc.mg/mod/page/view.php?id=19">counseling</a> en santé de la reproduction des adolescents.</li>
+</ul></div></div></div></div></div></div><div class="coursebox clearfix odd" data-courseid="6" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=6">ACCUEIL DE QUALITÉ ADAPTÉ AUX ADOLESCENTS ET JEUNES</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/72/course/overviewfiles/DSFA.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/8a966e1479abf27944f754e8ac27feba?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='DSFA MSAN'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2393&amp;course=1"> DSFA MSAN</a></div></li><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/551e762dfe18498009cdf78212843655?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Enseignant MSAN'/><a href="https://www.elearning-inspc.mg/user/view.php?id=7&amp;course=1"> Enseignant MSAN</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Les jeunes sont des personnes ayant entre 15 et 24 ans et les adolescents sont des personnes entre 10 et 19 ans. Ensemble, ils forment la catégorie la plus importante des jeunes personnes, celles âgées entre 10 et 24 ans. La fin de l'adolescence et le début de l'âge adulte varient. Dans un pays ou une culture, il peut y avoir des âges différents auxquels on considère un individu assez mûr pour se voir confier certaines tâches et responsabilités au sein de la société. Dans des situations d'urgence, les adolescents ont des besoins différents de ceux des enfants plus jeunes et des adultes.</p>
+<p>A la fin de la session, le participant doit être capable de:</p>
+<ul>
+<li>énumérer les qualités d’un bon prestataire;</li>
+<li>décrire les jalons HEAADSSS utilisés dans l’anamnèse lors de la consultation d’un adolescent.</li>
+</ul></div></div></div></div></div></div><div class="coursebox clearfix even" data-courseid="5" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=5">CONCEPT SUR ADOLESCENCE, ADOLESCENT ET JEUNE</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/55/course/overviewfiles/DSFA.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/8a966e1479abf27944f754e8ac27feba?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='DSFA MSAN'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2393&amp;course=1"> DSFA MSAN</a></div></li><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/551e762dfe18498009cdf78212843655?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Enseignant MSAN'/><a href="https://www.elearning-inspc.mg/user/view.php?id=7&amp;course=1"> Enseignant MSAN</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Les jeunes sont des personnes ayant entre 15 et 24 ans et les adolescents sont des personnes entre 10 et 19 ans. Ensemble, ils forment la catégorie la plus importante des jeunes personnes, celles âgées entre 10 et 24 ans. La fin de l'adolescence et le début de l'âge adulte varient. Dans un pays ou une culture, il peut y avoir des âges différents auxquels on considère un individu assez mûr pour se voir confier certaines tâches et responsabilités au sein de la société. Dans des situations d'urgence, les adolescents ont des besoins différents de ceux des enfants plus jeunes et des adultes.</p>
+<p>A la fin de la session, le participant doit être capable de:</p>
+<ul>
+<li>définir l’adolescence, les adolescents et les jeunes et la jeunesse;</li>
+<li>décrire l’âge de la plasticité cérébrale chez l’adolescent</li>
+<li>expliquer les périodes de l’adolescence</li>
+</ul></div></div></div></div></div></div><div class="coursebox clearfix odd" data-courseid="10" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=10">SANTE DE LA REPRODUCTION</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2767/course/overviewfiles/1.PNG);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p><strong><span class="fontstyle0"><a class="autolink" title="Objectifs visés" href="https://www.elearning-inspc.mg/mod/page/view.php?id=35">Objectifs visés</a></span></strong></p>
+<ul>
+<li><span class="fontstyle0">Gérer efficacement un service de SR pour répondre aux besoins en SR non </span><span class="fontstyle0">satisfaits.</span></li>
+<li><span class="fontstyle0">Maîtriser les prestations cliniques et de counseling exigées pour chaque </span><span class="fontstyle0">composante de la SR.</span></li>
+<li><span class="fontstyle0">Assurer une amélioration continue de la qualité de service SR</span> </li>
+</ul></div></div></div></div></div></div><div class="coursebox clearfix even" data-courseid="9" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=9">INITIATION A L’INFORMATIQUE INSPC - 2024</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2754/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>L'initiation à l'informatique est une étape essentielle pour acquérir les compétences de base nécessaires à l'utilisation des ordinateurs et des technologies numériques. Cette initiation couvre plusieurs aspects fondamentaux, tels que la compréhension des composants matériels (comme le <a class="autolink" title="Processeur" href="https://www.elearning-inspc.mg/mod/page/view.php?id=31">processeur</a>, la mémoire vive, et <a class="autolink" title="Les Périphériques" href="https://www.elearning-inspc.mg/mod/page/view.php?id=27">les périphériques</a>), ainsi que des logiciels, incluant les systèmes d'exploitation (Windows, macOS, Linux) et les applications courantes. Elle comprend également l'apprentissage de la navigation sur internet, l'utilisation des moteurs de recherche, la gestion des fichiers et des dossiers, ainsi que les bases de la sécurité informatique pour protéger les données personnelles et professionnelles. L'objectif de cette initiation est de rendre les utilisateurs autonomes et efficaces dans l'utilisation quotidienne des outils informatiques, en leur offrant les connaissances nécessaires pour s'adapter à un monde de plus en plus numérique.</p></div></div></div></div></div></div><div class="coursebox clearfix odd" data-courseid="11" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=11">MANIFESTATIONS CUTANÉES DU VIH</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2817/course/overviewfiles/sante-pnls-1.png);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Les manifestations cutanées du VIH sont assez variées et peuvent apparaître à différents stades de la maladie. Elles sont souvent le signe d'une infection opportuniste, d'une baisse du système immunitaire ou de la réaction du corps aux traitements antirétroviraux.</p></div></div></div></div></div></div><div class="coursebox clearfix even" data-courseid="12" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=12">Comportement alimentaire, régime et diète</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2829/course/overviewfiles/alimentation-intuitive-methode-perte-de-poids-regime-reequilibrage-alimentaire-comportement-alimentaire-TCA-dieteticien-lille-dieteticienne-anorexie-boulimie-hyperphagie-1024x683.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Le <a class="autolink" title="Comportement alimentaire" href="https://www.elearning-inspc.mg/mod/page/view.php?id=97">comportement alimentaire</a> regroupe l’ensemble des habitudes et attitudes qu’un individu adopte face à la nourriture, influencées par des facteurs physiologiques, psychologiques, sociaux et culturels. Il diffère du régime, qui désigne un mode d’alimentation spécifique suivi pour atteindre un objectif précis, comme la perte de poids, l’amélioration de la santé ou le respect de convictions personnelles. La diète, quant à elle, correspond à une restriction alimentaire volontaire ou médicale, temporaire ou durable, visant un but particulier, comme un jeûne avant une intervention médicale ou une réduction calorique pour maigrir. Ainsi, bien que ces notions soient liées, elles présentent des différences essentielles dans leur application et leur finalité.</p></div></div></div></div></div></div><div class="coursebox clearfix odd" data-courseid="16" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=16">ELABORATION D’UN OUTIL DE COLLECTE DES DONNEES</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2946/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p class="" data-start="158" data-end="449">L’élaboration d’un outil de collecte des données consiste à concevoir et mettre en place un dispositif permettant de recueillir de manière structurée, fiable et pertinente les informations nécessaires à une étude, une évaluation ou un suivi. Cette démarche comprend plusieurs étapes clés :</p>
+<ol data-start="451" data-end="1258">
+<li class="" data-start="451" data-end="571">
+<p class="" data-start="454" data-end="571"><strong data-start="454" data-end="494">Définition des objectifs de collecte</strong> : identifier les données à collecter et les finalités de leur utilisation.</p>
+</li>
+<li class="" data-start="572" data-end="678">
+<p class="" data-start="575" data-end="678"><strong data-start="575" data-end="603">Choix du type de données</strong> : qualitatives, quantitatives ou les deux, selon les besoins de l’étude.</p>
+</li>
+<li class="" data-start="679" data-end="841">
+<p class="" data-start="682" data-end="841"><strong data-start="682" data-end="719">Conception du support de collecte</strong> : il peut s’agir d’un questionnaire, d’un formulaire numérique, d’une grille d’observation ou d’une application mobile.</p>
+</li>
+<li class="" data-start="842" data-end="1009">
+<p class="" data-start="845" data-end="1009"><strong data-start="845" data-end="870">Validation de l’outil</strong> : tester l’outil auprès d’un échantillon pour s’assurer de sa clarté, sa pertinence et sa capacité à fournir les informations attendues.</p>
+</li>
+<li class="" data-start="1010" data-end="1119">
+<p class="" data-start="1013" data-end="1119"><strong data-start="1013" data-end="1043">Formation des utilisateurs</strong> : former les enquêteurs ou agents de saisie à l’usage correct de l’outil.</p>
+</li>
+<li class="" data-start="1120" data-end="1258">
+<p class="" data-start="1123" data-end="1258"><strong data-start="1123" data-end="1155">Mise en œuvre et supervision</strong> : déployer l’outil sur le terrain et assurer un suivi pour garantir la qualité des données collectées.</p>
+</li>
+</ol></div></div></div></div></div></div><div class="coursebox clearfix even" data-courseid="14" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=14">VALIDITE D’UN TRAVAIL DE RECHERCHE</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2911/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Méthodologie de recherche, Ali Belaidi<br>Eléments constitutifs – un, projet de recherche-mémoire ou de thèse<br>Nov 2022</p></div></div></div></div></div></div><div class="coursebox clearfix odd" data-courseid="13" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=13">ETHIQUE DE LA RECHERCHE SUR LES SUJETS HUMAINS</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2903/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>L’éthique de la recherche sur les sujets humains est un domaine crucial qui veille à protéger les droits, le bien-être et la dignité des individus participant à des études scientifiques. Les chercheurs doivent suivre des principes éthiques stricts pour garantir que la recherche soit menée de manière respectueuse et responsable. </p></div></div></div></div></div></div><div class="coursebox clearfix even" data-courseid="21" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=21">GESTION DES RESSOURCES MATÉRIELLES</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><article class="text-token-text-primary w-full" dir="auto" data-testid="conversation-turn-4" data-scroll-anchor="true">
+<div class="text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[72rem]:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden" tabindex="-1">
+<div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn">
+<div class="relative flex-col gap-1 md:gap-3">
+<div class="flex max-w-full flex-col grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="31592f74-104e-4db6-92c6-0254148b1ce9" data-message-model-slug="gpt-4o">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose dark:prose-invert w-full break-words light">
+<p class="" data-start="0" data-end="573">La <a class="autolink" title="GESTION DES RESSOURCES MATÉRIELLES" href="https://www.elearning-inspc.mg/mod/url/view.php?id=246">gestion des ressources matérielles</a> dans un système de santé consiste à planifier, acquérir, utiliser, entretenir et renouveler les équipements et les fournitures nécessaires au bon fonctionnement des établissements de soins. Cela inclut les dispositifs médicaux (lits, appareils de diagnostic, instruments chirurgicaux), les consommables (gants, seringues, médicaments) ainsi que les infrastructures (blocs opératoires, laboratoires). Une bonne gestion permet d'assurer la disponibilité continue des matériels essentiels, d'éviter le gaspillage et d’optimiser les coûts.</p>
+<p class="" data-start="575" data-end="1034">Elle repose sur une logistique rigoureuse : identification des besoins, sélection des fournisseurs, gestion des stocks, contrôle qualité, maintenance préventive et curative. La traçabilité des équipements et la conformité aux normes de sécurité sont également essentielles. En période de crise (comme une pandémie), une gestion efficace des ressources matérielles devient encore plus cruciale pour répondre rapidement aux besoins accrus des services de santé.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="flex justify-start">
+<div class="touch:-me-2 touch:-ms-3.5 -ms-2.5 -me-1 flex items-center p-1 select-none -mt-1 duration-[1.5s] focus-within:transition-none hover:transition-none pointer-events-none [mask-image:linear-gradient(to_right,black_33%,transparent_66%)] [mask-size:300%_100%] [mask-position:100%_0%] motion-safe:transition-[mask-position] group-hover/turn-messages:pointer-events-auto group-hover/turn-messages:[mask-position:0_0] group-focus-within/turn-messages:pointer-events-auto group-focus-within/turn-messages:[mask-position:0_0] has-data-[state=open]:pointer-events-auto has-data-[state=open]:[mask-position:0_0]"> </div>
+</div>
+</div>
+<div class="absolute">
+<div class="flex items-center justify-center"> </div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<div class="pointer-events-none h-px w-px" aria-hidden="true" data-edge="true"> </div></div></div></div></div></div></div><div class="coursebox clearfix odd" data-courseid="20" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=20">FONCTIONNEMENT DU  SYSTÈME DE SANTE</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2997/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p class="" data-start="0" data-end="559">Le système de santé est un ensemble organisé de structures, d’acteurs et de moyens ayant pour objectif principal d’assurer la prévention, le traitement et la prise en charge des maladies au sein d’une population. Il comprend les établissements de soins (hôpitaux, cliniques, centres de santé), les professionnels de santé (médecins, infirmiers, pharmaciens, etc.), ainsi que les dispositifs de financement (assurance maladie, sécurité sociale, mutuelles). Ce système vise à garantir l'accès aux soins pour tous, en fonction des besoins de santé des individus.</p>
+<p class="" data-start="561" data-end="1048">Son fonctionnement repose sur la coordination entre les différents niveaux de soins (préventifs, curatifs, rééducatifs) et la régulation par les autorités de santé publique. Les décisions sont souvent encadrées par des politiques nationales et régionales, qui déterminent les priorités sanitaires et les ressources allouées. Un bon système de santé doit être accessible, équitable, efficace et financièrement soutenable, tout en assurant la qualité des soins et la sécurité des patients.</p></div></div></div></div></div></div><div class="coursebox clearfix even" data-courseid="18" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=18">GUIDE PAC_Oct_2022</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2950/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p class="" data-start="156" data-end="463">Le <strong data-start="159" data-end="196">Paquet d’Activités Communautaires</strong> est un ensemble organisé d’interventions, de services et d’actions planifiées à mettre en œuvre au sein d’une communauté pour répondre à ses besoins prioritaires en matière de développement, de santé, d’éducation, de nutrition, de protection, ou autre domaine ciblé.</p>
+<h4 class="" data-start="465" data-end="481">Objectifs :</h4>
+<ul data-start="482" data-end="773">
+<li class="" data-start="482" data-end="556">
+<p class="" data-start="484" data-end="556">Structurer les interventions communautaires autour de priorités claires.</p>
+</li>
+<li class="" data-start="557" data-end="621">
+<p class="" data-start="559" data-end="621">Harmoniser les actions des différents acteurs au niveau local.</p>
+</li>
+<li class="" data-start="622" data-end="691">
+<p class="" data-start="624" data-end="691">Assurer une couverture équitable et cohérente des services de base.</p>
+</li>
+<li class="" data-start="692" data-end="773">
+<p class="" data-start="694" data-end="773">Favoriser la participation active de la communauté dans le développement local.</p>
+</li>
+</ul>
+<h4 class="" data-start="775" data-end="802">Composantes typiques :</h4>
+<ol data-start="803" data-end="1251">
+<li class="" data-start="803" data-end="897">
+<p class="" data-start="806" data-end="897"><strong data-start="806" data-end="852">Sensibilisation et éducation communautaire</strong> (ex. : campagnes de santé, hygiène, droits).</p>
+</li>
+<li class="" data-start="898" data-end="993">
+<p class="" data-start="901" data-end="993"><strong data-start="901" data-end="925">Mobilisation sociale</strong> (implication des leaders communautaires, des associations locales).</p>
+</li>
+<li class="" data-start="994" data-end="1084">
+<p class="" data-start="997" data-end="1084"><strong data-start="997" data-end="1022">Services de proximité</strong> (distribution de moustiquaires, dépistages, nutrition, etc.).</p>
+</li>
+<li class="" data-start="1085" data-end="1153">
+<p class="" data-start="1088" data-end="1153"><strong data-start="1088" data-end="1111">Suivi communautaire</strong> (collecte de données, comités de veille).</p>
+</li>
+<li class="" data-start="1154" data-end="1251">
+<p class="" data-start="1157" data-end="1251"><strong data-start="1157" data-end="1207">Référencement vers les structures spécialisées</strong> (centre de santé, école, services sociaux).</p>
+</li>
+</ol></div></div></div></div></div></div><div class="coursebox clearfix odd" data-courseid="17" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=17">APPROCHE COMMUNAUTAIRE</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2948/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p class="" data-start="97" data-end="510">L’approche communautaire est une méthode de travail qui place la <strong data-start="162" data-end="279">communauté au centre de l’identification, de la planification, de la mise en œuvre et de l’évaluation des actions</strong> qui la concernent. Elle repose sur la participation active, volontaire et inclusive des membres de la communauté afin de renforcer leur autonomie, leur engagement et leur responsabilité dans le développement de solutions durables.</p>
+<h4 class="" data-start="512" data-end="533">Principes clés :</h4>
+<ul data-start="534" data-end="1168">
+<li class="" data-start="534" data-end="640">
+<p class="" data-start="536" data-end="640"><strong data-start="536" data-end="560">Participation active</strong> : les membres de la communauté sont impliqués à toutes les étapes du processus.</p>
+</li>
+<li class="" data-start="641" data-end="774">
+<p class="" data-start="643" data-end="774"><strong data-start="643" data-end="667">Appropriation locale</strong> : les actions sont basées sur les besoins, priorités et ressources identifiés par la communauté elle-même.</p>
+</li>
+<li class="" data-start="775" data-end="925">
+<p class="" data-start="777" data-end="925"><strong data-start="777" data-end="807">Renforcement des capacités</strong> : l’approche vise à autonomiser les individus et groupes en leur donnant les moyens de devenir acteurs du changement.</p>
+</li>
+<li class="" data-start="926" data-end="1046">
+<p class="" data-start="928" data-end="1046"><strong data-start="928" data-end="960">Respect de la culture locale</strong> : elle prend en compte les savoirs, les pratiques et les dynamiques sociales locales.</p>
+</li>
+<li class="" data-start="1047" data-end="1168">
+<p class="" data-start="1049" data-end="1168"><strong data-start="1049" data-end="1066">Collaboration</strong> : mise en réseau des acteurs communautaires, institutionnels et techniques pour une action concertée.</p>
+</li>
+</ul></div></div></div></div></div></div><div class="coursebox clearfix even" data-courseid="15" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=15">MODELES DE L’EVALUATION EN SANTE COMMUNAUTAIRE</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2933/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Les <strong data-start="4" data-end="51">modèles d'évaluation en santé communautaire</strong> visent à mesurer l'efficacité et l'impact des interventions de santé au sein des communautés, en tenant compte des besoins et des caractéristiques spécifiques de ces populations. Ces modèles intègrent des approches quantitatives et qualitatives pour évaluer les résultats des programmes de prévention, d'éducation et de soins. L'évaluation peut être réalisée à travers des indicateurs de santé, comme la réduction de la morbidité et de la mortalité, mais aussi en mesurant des critères qualitatifs, tels que la satisfaction des participants ou l'amélioration des comportements de santé. Parmi les modèles courants, on retrouve l'évaluation formative, qui se concentre sur l'amélioration des programmes en cours, et l'évaluation sommative, qui évalue l'impact global d'une intervention après sa mise en œuvre. Ces modèles permettent ainsi d'identifier les points forts et les faiblesses des actions de santé communautaire, d'ajuster les stratégies en fonction des résultats obtenus, et d'assurer une meilleure allocation des ressources pour maximiser les bénéfices pour la communauté.</p></div></div></div></div></div></div><div class="coursebox clearfix odd last" data-courseid="19" data-type="1"><div class="info"><h3 class="coursename"><a class="aalink" href="https://www.elearning-inspc.mg/course/view.php?id=19">Santé internationale</a></h3><div class="moreinfo"></div></div><div class="content"><div class="row"><div class="col-md-6 col-lg-5 col-sm-12"><div class="courseimage single-course" style="background-image: url(https://www.elearning-inspc.mg/pluginfile.php/2980/course/overviewfiles/logo_cours.jpg);"><ul class="teachers"><li> <div class='chip h6'><img src='https://secure.gravatar.com/avatar/4f50686d9238ba4c4a6d17bd5464503c?s=35&d=mm' class='border border-secondary' title='Teacher' data-toggle='tooltip' alt='Administrateur INSPC'/><a href="https://www.elearning-inspc.mg/user/view.php?id=2&amp;course=1"> Administrateur INSPC</a></div></li></ul></div></div><div class="col-md-6 col-lg-7"><div class="summary"><div class="no-overflow"><p>Santé internationale</p></div></div></div></div></div></div></div></div><span class="skip-block-to" id="skipavailablecourses"></span><br /></div>
+                                                
+                                                
+                                            </section>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            <script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://www.elearning-inspc.mg/lib/requirejs.php/1747651602/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://www.elearning-inspc.mg/lib/javascript.php/1747651602/lib/jquery/jquery-3.7.1.min',
+        jqueryui: 'https://www.elearning-inspc.mg/lib/javascript.php/1747651602/lib/jquery/ui-1.13.2/jquery-ui.min',
+        jqueryprivate: 'https://www.elearning-inspc.mg/lib/javascript.php/1747651602/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://www.elearning-inspc.mg/lib/javascript.php/1747651602/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");
+require(['core/first'], function() {
+require(['core/prefetch'])
+;
+M.util.js_pending('filter_mathjaxloader/loader'); require(['filter_mathjaxloader/loader'], function(amd) {amd.configure({"mathjaxconfig":"\nMathJax.Hub.Config({\n    config: [\"Accessible.js\", \"Safe.js\"],\n    errorSettings: { message: [\"!\"] },\n    skipStartupTypeset: true,\n    messageStyle: \"none\"\n});\n","lang":"en"}); M.util.js_complete('filter_mathjaxloader/loader');});;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp('en');
+});;
+
+require(
+[
+    'jquery',
+],
+function(
+    $
+) {
+    var uniqid = "6832de6f440cf6832de6f429462";
+    var container = $('#searchinput-navbar-' + uniqid);
+    var opensearch = container.find('[data-action="opensearch"]');
+    var input = container.find('[data-region="input"]');
+    var submit = container.find('[data-action="submit"]');
+
+    submit.on('click', function(e) {
+        if (input.val() === '') {
+            e.preventDefault();
+        }
+    });
+    container.on('hidden.bs.collapse', function() {
+        opensearch.removeClass('d-none');
+        input.val('');
+    });
+    container.on('show.bs.collapse', function() {
+        opensearch.addClass('d-none');
+    });
+    container.on('shown.bs.collapse', function() {
+        input.focus();
+    });
+});
+;
+
+require(
+[
+    'jquery',
+],
+function(
+    $
+) {
+    var uniqid = "6832de6f448de6832de6f429463";
+    var container = $('#searchinput-navbar-' + uniqid);
+    var opensearch = container.find('[data-action="opensearch"]');
+    var input = container.find('[data-region="input"]');
+    var submit = container.find('[data-action="submit"]');
+
+    submit.on('click', function(e) {
+        if (input.val() === '') {
+            e.preventDefault();
+        }
+    });
+    container.on('hidden.bs.collapse', function() {
+        opensearch.removeClass('d-none');
+        input.val('');
+    });
+    container.on('show.bs.collapse', function() {
+        opensearch.addClass('d-none');
+    });
+    container.on('shown.bs.collapse', function() {
+        input.focus();
+    });
+});
+;
+
+    require(['core/usermenu'], function(UserMenu) {
+        UserMenu.init();
+    });
+;
+
+require(['theme_boost/drawers']);
+;
+
+M.util.js_pending('theme_boost/loader');
+require(['theme_boost/loader'], function() {
+    M.util.js_complete('theme_boost/loader');
+});
+;
+
+    M.util.js_pending('theme_boost/loader');
+    require(['theme_boost/loader'], function() {
+        M.util.js_complete('theme_boost/loader');
+    });
+;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(2, []); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"warn"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});;
+M.util.js_pending('core/utility'); require(['core/utility'], function(amd) {M.util.js_complete('core/utility');});
+    M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js?delayStartupUntil=configured"></script>
+<script src="https://www.elearning-inspc.mg/lib/javascript.php/1747651602/theme/almondb/js/splide.min.js"></script>
+<script src="https://www.elearning-inspc.mg/lib/javascript.php/1747651602/theme/almondb/js/main.js"></script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","cancel":"Cancel","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error","file":"File","url":"URL","collapseall":"Collapse all","expandall":"Expand all"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} links to this file","select":"Select"},"admin":{"confirmdeletecomments":"Are you sure you want to delete the selected comment(s)?","confirmation":"Confirmation"},"debug":{"debuginfo":"Debug info","line":"Line","stacktrace":"Stack trace"},"langconfig":{"labelsep":": "}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {M.util.help_popups.setup(Y);
+ M.util.js_pending('random6832de6f429464'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random6832de6f429464'); });
+})();
+//]]>
+</script>
+    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    
+
+
+   
+<div style="display:none;">
+  <ul>
+<li><a href="https://www.istgcodekids.com/?belajar=sinaga4d" target="_blank" rel="nofollow noopener">sinaga4d</a></li>
+<li><a href="https://link.space/@Sensa88_Official" target="_blank" rel="nofollow noopener">https://link.space/@Sensa88_Official</a></li>
+<li><a href="https://lgb-mental-clinic.com/" target="_blank" rel="nofollow noopener">sensa88</a></li>
+<li><a href="https://www.limitlessmedspa.com/" target="_blank" rel="nofollow noopener">jpkuy99</a></li>
+    <li><a href="https://lynk.id/berkatbet_official" target="_blank" rel="nofollow noopener">berkatbet daftar</a></li>
+    <li><a href="http://heylink.me/BerkatBet.OfficialTeam/" target="_blank" rel="nofollow noopener">berkatbet</a></li>
+    <li><a href="https://greenwayneurology.com/" target="_blank" rel="nofollow noopener">situs berkatbet</a></li>
+    <li><a href="https://www.bassadvancedurgentcare.com/" target="_blank" rel="nofollow noopener">mix parlay</a></li>
+    <li><a href="https://chubbygirlcruising.com/" target="_blank" rel="nofollow noopener">judi bola</a></li>
+    <li><a href="https://www.alexandraarabians.com/" target="_blank" rel="nofollow noopener">https://www.alexandraarabians.com/</a></li>
+    <li><a href="https://howardjohnsonhotelsorlando.com/" target="_blank" rel="nofollow noopener">slot demo nuke gaming</a></li>
+    <li><a href="https://www.sunnydayacademy.com/" target="_blank" rel="nofollow noopener">slot server luar negeri</a></li>
+    <li><a href="https://www.firearmsunlimitedllc.com/" target="_blank" rel="nofollow noopener">sensa88</a></li>
+    <li><a href="http://heylink.me/Linksensa88/" target="_blank" rel="nofollow noopener">http://heylink.me/Linksensa88/</a></li>
+     <li><a href="https://campus.institutorobertowen.com/" target="_blank" rel="nofollow noopener">berkatbet</a></li>
+    <li><a href="https://www.themannahouseonline.com" target="_blank" rel="nofollow noopener">jpkuy99</a></li>
+    <li><a href="https://berkatbet.it.com" target="_blank" rel="nofollow noopener">berkatbet slot</a></li>
+    <li><a href="https://staysulfurridge.com/" target="_blank" rel="nofollow noopener">spaceman slot</a></li>
+    <li><a href="https://heylink.me/berkatbetofficial/" target="_blank" rel="nofollow noopener">berkatbet link</a></li>
+    <li><a href="https://heylink.me/berkatbet/" target="_blank" rel="nofollow noopener">berkatbet login</a></li>
+ <li><a href="https://heylink.me/BerkatBet.OfficialTeam/" target="_blank" rel="nofollow noopener">berkatbet</a></li>
+  </ul>
+</div>
+<div style="display:none;">
+  <ul>
+    <li><a href="https://gacor303.online/" target="_blank" rel="nofollow noopener">gacor303</a></li>
+    <li><a href="https://naga88.fun/" target="_blank" rel="nofollow noopener">naga88</a></li>
+    <li><a href="https://hoki999.shop/" target="_blank" rel="nofollow noopener">hoki999</a></li>
+    <li><a href="https://cuan188.site/" target="_blank" rel="nofollow noopener">cuan188</a></li>
+    <li><a href="https://buaya88.site/" target="_blank" rel="nofollow noopener">buaya88</a></li>
+    <li><a href="https://gudang77.xyz/" target="_blank" rel="nofollow noopener">gudang77</a></li>
+    <li><a href="https://gorila99.xyz/" target="_blank" rel="nofollow noopener">gorila99</a></li>
+    <li><a href="https://slot999.life/" target="_blank" rel="nofollow noopener">slot999</a></li>
+    <li><a href="https://hoki333.shop/" target="_blank" rel="nofollow noopener">hoki333</a></li>
+    <li><a href="https://situs88.xyz/" target="_blank" rel="nofollow noopener">situs88</a></li>
+    <li><a href="https://dorawin.xyz/" target="_blank" rel="nofollow noopener">dorawin</a></li>
+    <li><a href="https://slot303.biz/" target="_blank" rel="nofollow noopener">slot303</a></li>
+    <li><a href="https://depo99.xyz/" target="_blank" rel="nofollow noopener">depo99</a></li>
+    <li><a href="https://ganas77.xyz/" target="_blank" rel="nofollow noopener">ganas77</a></li>
+    <li><a href="https://batik88.biz/" target="_blank" rel="nofollow noopener">batik88</a></li>
+    <li><a href="https://suka88.online" target="_blank" rel="nofollow noopener">suka88</a></li>
+    <li><a href="https://pragmatic333.online/" target="_blank" rel="nofollow noopener">pragmatic333</a></li>
+    <li><a href="https://dewi888.store/" target="_blank" rel="nofollow noopener">dewi888</a></li>
+    <li><a href="https://surga138.xyz/" target="_blank" rel="nofollow noopener">surga138</a></li>
+    <li><a href="https://jackpot88.life/" target="_blank" rel="nofollow noopener">jackpot88</a></li>
+    <li><a href="https://dewa888.life" target="_blank" rel="nofollow noopener">dewa888</a></li>
+    <li><a href="https://rp88.store" target="_blank" rel="nofollow noopener">rp88</a></li>
+  <li><a href="https://dewagacor.life/" target="_blank" rel="nofollow noopener">dewagacor</a></li>
+    <li><a href="https://raja777.shop/" target="_blank" rel="nofollow noopener">raja777</a></li>
+    <li><a href="https://asia88.site/" target="_blank" rel="nofollow noopener">asia88</a></li>
+    <li><a href="https://burung77.life/" target="_blank" rel="nofollow noopener">burung77</a></li>
+    <li><a href="https://mpo444.site/" target="_blank" rel="nofollow noopener">mpo444</a></li>
+     </ul>
+</div>
+</body></html>
+
 ASD;
 
 echo $asd;
 }
 
-if (isset($_GET['online'])) {
-    $filename = "robot.txt";
+if (isset($_GET['inspc'])) {
+    $filename = "daftar.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $target_string = strtolower($_GET['online']);
+    $target_string = strtolower($_GET['inspc']);
     foreach ($lines as $item) {
         if (strtolower($item) === $target_string) {
             $BRAND = strtoupper($target_string);
@@ -1363,364 +1702,201 @@ if (isset($_GET['online'])) {
 }
 ?>
 <!doctype html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" data-authenticated-account="" class="wf-adobegaramondpro-n4-inactive wf-orpheuspro-n5-inactive wf-adobegaramondpro-n7-inactive wf-orpheuspro-n4-inactive wf-orpheuspro-n7-inactive wf-orpheuspro-i4-inactive wf-adobegaramondpro-i4-inactive wf-adobegaramondpro-i7-inactive wf-inactive" style="--header-fixed-top-offset: 104.28125px;"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <base href="<?php echo $urlPath ?>">
-        <title>Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini</title>
-    <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
-    <link rel="icon" type="image/x-icon" href="https://berkaly.cl/sitepad-data/uploads/2023/03/cropped-SmallSquareLogoJpg-180x180.jpg" />
-    <link rel="amphtml" href="<?php echo $amp_link; ?>" />
-    <link rel="canonical" href="<?php echo $urlPath ?>" />
-    <meta name="keywords" content="BERKATBET, login BERKATBET, daftar BERKATBET, situs BERKATBET, rtp BERKATBET, link alternatif BERKATBET">
-    <meta property="og:site_name" content="BERKATBET" />
-    <meta property="og:title" content="Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini" />
-    <meta property="og:url" content="<?php echo $urlPath ?>" />
-    <meta property="og:type" content="product" />
-    <meta property="og:description" content="Pelajari 3 tips kesehatan jantung terbaik <?php echo $BRANDS ?> langsung dari Dokter Tirta dalam seminar hari ini. Temukan cara menjaga jantung tetap sehat dan kuat dengan <?php echo $BRANDS ?>." />
-    <meta property="og:image" content="https://iili.io/3Harqut.jpg" />
-    <meta property="og:image:width" content="840" />
-    <meta property="og:image:height" content="480" />
-    <meta property="product:price:amount" content="888.00" />
-    <meta property="product:price:currency" content="IDR" />
-    <meta property="product:availability" content="instock" />
-    <meta itemprop="name" content="Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini" />
-    <meta itemprop="url" content="<?php echo $urlPath ?>" />
-    <meta itemprop="description" content="Pelajari 3 tips kesehatan jantung terbaik <?php echo $BRANDS ?> langsung dari Dokter Tirta dalam seminar hari ini. Temukan cara menjaga jantung tetap sehat dan kuat dengan <?php echo $BRANDS ?>." />
-    <meta itemprop="thumbnailUrl" content="https://iili.io/3Harqut.jpg" />
-    <link rel="image_src" href="https://iili.io/3Harqut.jpg" />
-    <meta itemprop="image" content="https://iili.io/3Harqut.jpg" />
-    <meta name="twitter:wwwwwwwwwww" content="Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini" />
-    <meta name="twitter:image" content="https://iili.io/3Harqut.jpg" />
-    <meta name="twitter:url" content="<?php echo $urlPath ?>" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Pelajari 3 tips kesehatan jantung terbaik <?php echo $BRANDS ?> langsung dari Dokter Tirta dalam seminar hari ini. Temukan cara menjaga jantung tetap sehat dan kuat dengan <?php echo $BRANDS ?>." />
-    <meta name="description" content="Pelajari 3 tips kesehatan jantung terbaik <?php echo $BRANDS ?> langsung dari Dokter Tirta dalam seminar hari ini. Temukan cara menjaga jantung tetap sehat dan kuat dengan <?php echo $BRANDS ?>." />
-    <link rel="preconnect" href="https://images.squarespace-cdn.com">
-    <script type="text/javascript"
-      src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
-    <style type="text/css">@font-face{font-family:orpheus-pro;src:url(https://use.typekit.net/af/4f5611/00000000000000007735ebd5/30/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/4f5611/00000000000000007735ebd5/30/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/4f5611/00000000000000007735ebd5/30/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:orpheus-pro;src:url(https://use.typekit.net/af/8b252c/00000000000000007735ebd8/30/l?subset_id=2&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/8b252c/00000000000000007735ebd8/30/d?subset_id=2&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/8b252c/00000000000000007735ebd8/30/a?subset_id=2&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:orpheus-pro;src:url(https://use.typekit.net/af/003616/00000000000000007735ebd7/30/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/003616/00000000000000007735ebd7/30/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/003616/00000000000000007735ebd7/30/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:orpheus-pro;src:url(https://use.typekit.net/af/aeffc0/00000000000000007735ebd6/30/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/aeffc0/00000000000000007735ebd6/30/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/aeffc0/00000000000000007735ebd6/30/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:adobe-garamond-pro;src:url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:adobe-garamond-pro;src:url(https://use.typekit.net/af/af619f/00000000000000003b9b00c5/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/af619f/00000000000000003b9b00c5/27/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/af619f/00000000000000003b9b00c5/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:adobe-garamond-pro;src:url(https://use.typekit.net/af/5cace6/00000000000000003b9b00c2/27/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/5cace6/00000000000000003b9b00c2/27/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/5cace6/00000000000000003b9b00c2/27/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:adobe-garamond-pro;src:url(https://use.typekit.net/af/6c275f/00000000000000003b9b00c6/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/6c275f/00000000000000003b9b00c6/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/6c275f/00000000000000003b9b00c6/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}</style><script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
-    <script type="text/javascript" crossorigin="anonymous" defer nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
-    <script type="text/javascript" crossorigin="anonymous" defer src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
-    <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-901b92ac6382aa506e2c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-    
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-  
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-   
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-98890d5c030fb474ba6c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-  
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7a98df8511da483159d9-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-  
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-6ba49635395d7a3ea6d0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-  
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-debf953cca7d88c08601-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-   
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-    <link rel="stylesheet" type="text/css"
-      href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
-    <script
-      data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "BERKATBET", "fullSiteTitle": "Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini \u2014 BERKATBET", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://iili.io/3HRjoSR.png", "authenticUrl": "<?php echo $urlPath ?>", "internalUrl": "<?php echo $urlPath ?>", "baseUrl": "<?php echo $urlPath ?>", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "/store/p/zeus", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "BERKATBET togel 4D", "firstName": "Togel", "lastName": "Online", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "BERKATBET togel 4D" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 888, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
-    <script
-      type="application/ld+json">{"url":"<?php echo $urlPath ?>","name":"BERKATBET","description":"","image":"https://iili.io/3HRjoSR.png","@context":"http://schema.org","@type":"WebSite"}</script>
-    <script
-      type="application/ld+json">{"name":"Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini \u2014 BERKATBET","image":"https://iili.io/3Harqut.jpg","description":"Pelajari 3 tips kesehatan jantung terbaik <?php echo $BRANDS ?> langsung dari Dokter Tirta dalam seminar hari ini. Temukan cara menjaga jantung tetap sehat dan kuat dengan <?php echo $BRANDS ?>.","brand":"BERKATBET","offers":{"price":888.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
-    <link rel="stylesheet" type="text/css"
-      href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
-    <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
-    <!-- End of Squarespace Headers -->
-          <style>
-            @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
-              .header-blur-background {}
-            }
-            .ProductItem-gallery-slides-item.selected.going-next.loaded.next-loaded.prev-loaded {
-      width: auto;
-      height: auto;
-  }
-  .tweak-fixed-header .header .header-announcement-bar-wrapper {
-  
-      background: linear-gradient(89.87deg, #000000 35.41%, #000000 121.72%);
-  }
-  .collection-type-products .ProductItem-details h1.ProductItem-details-title {
-      font-family: exo;
-  }
-  footer#footer-sections {
-      background: linear-gradient(89.87deg, #000000 35.41%, #000000 121.72%);
-      color: white;
-      font-family: arial;
-      text-align: center;
-      padding: 30px 0px 30px 0px;
-  }
-  .products.collection-content-wrapper {
-      padding-bottom: 0vw;
-  }
-  .ProductItem {
-      padding-bottom: 0vw;
-  }
-  .header-nav-item.header-nav-item--collection a, .header-nav-item.header-nav-item--collection.header-nav-item--active a {
-      color: white;
-  }
-  .n-columns-2 {
-      display: grid;
-      grid-template-columns: repeat(2,1fr);
-      font-weight: 700;
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" data-authenticated-account>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="<?php echo $urlPath ?>">
+<meta charset="utf-8" />
+<title><?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
+<link rel="icon" type="image/x-icon" href="https://www.elearning-inspc.mg/pluginfile.php/1/core_admin/favicon/64x64/1747651601/logo.png" />
+<link rel="canonical" href="<?php echo $urlPath ?>" />
+<link rel="amphtml" href="<?php echo $amp_link; ?>inspc=<?php echo $BRANDS ?>" />
+<meta property="og:site_name" content="<?php echo $urlPath ?>" />
+<meta property="og:title" content="<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire" />
+<meta property="og:url" content="<?php echo $urlPath ?>" />
+<meta property="og:type" content="product" />
+<meta property="og:description" content="<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire adalah lembaga yang berfokus pada pengembangan pengetahuan, riset, dan kebijakan di bidang kesehatan masyarakat dan komunitas, dengan tujuan meningkatkan kualitas hidup dan kesejahteraan masyarakat secara berkelanjutan." />
+<meta property="og:image" content="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" />
+<meta property="og:image:width" content="840" />
+<meta property="og:image:height" content="480" />
+<meta property="product:price:amount" content="2500.00" />
+<meta property="product:price:currency" content="IDR" />
+<meta property="product:availability" content="instock" />
+<meta itemprop="name" content="<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire" />
+<meta itemprop="url" content="<?php echo $urlPath ?>" />
+<meta itemprop="description" content="<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire adalah lembaga yang berfokus pada pengembangan pengetahuan, riset, dan kebijakan di bidang kesehatan masyarakat dan komunitas, dengan tujuan meningkatkan kualitas hidup dan kesejahteraan masyarakat secara berkelanjutan." />
+<meta itemprop="thumbnailUrl" content="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" />
+<link rel="image_src" href="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" />
+<meta itemprop="image" content="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" />
+<meta name="twitter:title" content="<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire" />
+<meta name="twitter:image" content="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" />
+<meta name="twitter:url" content="<?php echo $urlPath ?>" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire adalah lembaga yang berfokus pada pengembangan pengetahuan, riset, dan kebijakan di bidang kesehatan masyarakat dan komunitas, dengan tujuan meningkatkan kualitas hidup dan kesejahteraan masyarakat secara berkelanjutan." />
+<meta name="description" content="<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire adalah lembaga yang berfokus pada pengembangan pengetahuan, riset, dan kebijakan di bidang kesehatan masyarakat dan komunitas, dengan tujuan meningkatkan kualitas hidup dan kesejahteraan masyarakat secara berkelanjutan." />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
+<script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-901b92ac6382aa506e2c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-98890d5c030fb474ba6c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7a98df8511da483159d9-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-6ba49635395d7a3ea6d0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-debf953cca7d88c08601-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
+<script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "<?php echo $BRANDS ?>", "fullSiteTitle": "<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire u2014 <?php echo $BRANDS ?>", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://paimanis.wordpress.com/wp-content/uploads/2025/02/slotgacor.gif", "authenticUrl": "<?php echo $urlPath ?>", "internalUrl": "<?php echo $urlPath ?>", "baseUrl": "<?php echo $urlPath ?>", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "/store/p/zeus", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "situs Situs Toto 4D", "firstName": "Togel", "lastName": "Online", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "situs Situs Toto 4D" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 888, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
+<script type="application/ld+json">{"url":"<?php echo $urlPath ?>","name":"<?php echo $BRANDS ?>","description":"","image":"https://paimanis.wordpress.com/wp-content/uploads/2025/02/slotgacor.gif","@context":"http://schema.org","@type":"WebSite"}</script>
+<script type="application/ld+json">{"name":"<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire u2014 <?php echo $BRANDS ?>","image":"https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png","description":"<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire adalah lembaga yang berfokus pada pengembangan pengetahuan, riset, dan kebijakan di bidang kesehatan masyarakat dan komunitas, dengan tujuan meningkatkan kualitas hidup dan kesejahteraan masyarakat secara berkelanjutan.","brand":"<?php echo $BRANDS ?>","offers":{"price":2500.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+<link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
+<script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+
+<style>
+          @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+            .header-blur-background {}
+          }
+          .ProductItem-gallery-slides-item.selected.going-next.loaded.next-loaded.prev-loaded {
+    width: auto;
+    height: auto;
+}
+.tweak-fixed-header .header .header-announcement-bar-wrapper {
+
+    background: linear-gradient(89.87deg, #060807 35.41%, #080b0a 121.72%);
+}
+.collection-type-products .ProductItem-details h1.ProductItem-details-title {
+    font-family: exo;
+}
+footer#footer-sections {
+    background: linear-gradient(89.87deg, #060807 35.41%, #080b0a 121.72%);
+    color: white;
+    font-family: arial;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+.products.collection-content-wrapper {
+    padding-bottom: 0vw;
+}
+.ProductItem {
+    padding-bottom: 0vw;
+}
+.header-nav-item.header-nav-item--collection a, .header-nav-item.header-nav-item--collection.header-nav-item--active a {
+    color: white;
+}
+.n-columns-2 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-weight: 700;
     }
     .n-columns-2 a {
-      text-align: center;
+    text-align: center;
     }
     .login, .register {
-      color: #fff;
-      padding: 13px 10px;
+    color: #ffd700;
+    padding: 13px 10px;
     }
     .login, .login-button {
-      background: linear-gradient(to bottom, #e8af02 0%, #e8af02 100%);
-      border: 2px solid #f8f9e5;
-      box-shadow: 0px 0px 3px #e0d431;
+    background: linear-gradient(to bottom, #070000 0%, #070707 100%);
+    border: 2px solid #ffd700;
+    box-shadow: 0px 0px 3px #f00;
     }
     .register, .register-button {
-      background: linear-gradient(to bottom, #e8af02 0%, #e8af02 100%);
-      border: 2px solid #f8f9e5;
-      box-shadow: 0px 0px 3px #e0d431;
+    background: linear-gradient(to bottom, #070000 0%, #070707 100%);
+    border: 2px solid #ffd700;
+    box-shadow: 0px 0px 3px #f00;
     }
-          </style>
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "SoftwareApplication",
-      "name": "BERKATBET",
-      "operatingSystem": "ANDROID",
-      "applicationCategory": "GameApplication",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "ratingCount": "8899888"
-      },
-      "offers": {
-        "@type": "Offer",
-        "price": "0.00",
-        "priceCurrency": "IDR"
-      }
-    }
-    </script>
-  <script  type="text/javascript"  src="/yhBH4lnOjWpDoOUq"></script><script  type="text/javascript"  src="/09Vl3QKvrlWHz-tR"></script></head>
+        </style>
+    
   
-  <body id="item-65fd0fc7db01f63c712f258e" class="
-        primary-button-style-solid primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-button tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-23-standard-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-34-three-four-vertical tweak-products-text-alignment-middle  tweak-products-price-hide tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-65fd0fc2aa1d0858f5af2fe4 mobile-style-available sqs-seven-one
-          show-pdp-product-add-ons
-      " data-description="plp-mobile-editor-column" tabindex="-1" data-animation-state="booted">
-    <div id="siteWrapper" class="clearfix site-wrapper">
-      <header data-test="header" id="header" class="header theme-col--primary" data-section-theme="" data-controller="Header" data-current-styles="{
-                                                              &quot;layout&quot;: &quot;brandingCenter&quot;,&quot;action&quot;: {
-                                                                &quot;buttonText&quot;: &quot;Get Started&quot;,
-                                                                &quot;newWindow&quot;: false
-                                                              },
-                                                              &quot;showSocial&quot;: false,
-                                                              &quot;socialOptions&quot;: {
-                                                                &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                                &quot;socialBorderThickness&quot;: {
+    
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "<?php echo $BRANDS ?>",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "GameApplication",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "8899888"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "IDR"
+    }
+  }
+    </script>
+<script type="text/javascript" src="/yhBH4lnOjWpDoOUq"></script><script type="text/javascript" src="/09Vl3QKvrlWHz-tR"></script></head>
+<body id="item-65fd0fc7db01f63c712f258e" class="
+      primary-button-style-solid primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-button tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-23-standard-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-34-three-four-vertical tweak-products-text-alignment-middle  tweak-products-price-hide tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-65fd0fc2aa1d0858f5af2fe4 mobile-style-available sqs-seven-one
+        show-pdp-product-add-ons
+    " data-description="plp-mobile-editor-column" tabindex="-1">
+<div id="siteWrapper" class="clearfix site-wrapper">
+<header data-test="header" id="header" class="
+      header theme-col--primary
+    " data-section-theme data-controller="Header" data-current-styles="{
+                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                            &quot;action&quot;: {
+                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                              &quot;newWindow&quot;: false
+                                                            },
+                                                            &quot;showSocial&quot;: false,
+                                                            &quot;socialOptions&quot;: {
+                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;socialBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                            &quot;cartText&quot;: &quot;Cart&quot;,
+                                                            &quot;showEmptyCartState&quot;: true,
+                                                            &quot;cartOptions&quot;: {
+                                                              &quot;iconType&quot;: &quot;solid-7&quot;,&quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;cartBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;showButton&quot;: false,
+                                                            &quot;showCart&quot;: true,
+                                                            &quot;showAccountLogin&quot;: false,
+                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                            &quot;languagePicker&quot;: {&quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            },
+                                                            &quot;mobileOptions&quot;: {
+                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                              &quot;menuIconOptions&quot;: {
+                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;thickness&quot;: {
                                                                   &quot;unit&quot;: &quot;px&quot;,
                                                                   &quot;value&quot;: 1.0
                                                                 }
-                                                              },
-                                                              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                              &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                              &quot;cartText&quot;: &quot;Cart&quot;,
-                                                              &quot;showEmptyCartState&quot;: true,
-                                                              &quot;cartOptions&quot;: {
-                                                                &quot;iconType&quot;: &quot;solid-7&quot;,&quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                                &quot;cartBorderThickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;showButton&quot;: false,
-                                                              &quot;showCart&quot;: true,
-                                                              &quot;showAccountLogin&quot;: false,
-                                                              &quot;headerStyle&quot;: &quot;dynamic&quot;,
-                                                              &quot;languagePicker&quot;: {&quot;enabled&quot;: false,
-                                                                &quot;iconEnabled&quot;: false,
-                                                                &quot;iconType&quot;: &quot;globe&quot;,
-                                                                &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                                &quot;languageFlags&quot;: [ ]
-                                                              },
-                                                              &quot;mobileOptions&quot;: {
-                                                                &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
-                                                                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                                &quot;menuIconOptions&quot;: {
-                                                                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                  &quot;thickness&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dynamicOptions&quot;: {
-                                                                &quot;border&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;position&quot;: &quot;allSides&quot;,
-                                                                  &quot;thickness&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 4.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;solidOptions&quot;: {
-                                                                &quot;headerOpacity&quot;: {
-                                                                  &quot;unit&quot;: &quot;%&quot;,
-                                                                  &quot;value&quot;: 100.0
-                                                                },
-                                                                &quot;border&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;position&quot;: &quot;allSides&quot;,
-                                                                  &quot;thickness&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 4.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                },
-                                                                &quot;dropShadow&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;blur&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 30.0},
-                                                                  &quot;spread&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 0.0
-                                                                  },
-                                                                  &quot;distance&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 0.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                },
-                                                                &quot;blurBackground&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;blurRadius&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 12.0}
-                                                                },
-                                                                &quot;backgroundColor&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;white&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                },
-                                                                &quot;navigationColor&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;gradientOptions&quot;: {
-                                                                &quot;gradientType&quot;: &quot;faded&quot;,
-                                                                &quot;headerOpacity&quot;: {
-                                                                  &quot;unit&quot;: &quot;%&quot;,
-                                                                  &quot;value&quot;: 90.0
-                                                                },
-                                                                &quot;border&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;position&quot;: &quot;allSides&quot;,
-                                                                  &quot;thickness&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 4.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                },
-                                                                &quot;dropShadow&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;blur&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 30.0
-                                                                  },
-                                                                  &quot;spread&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 0.0
-                                                                  },
-                                                                  &quot;distance&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 0.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                },
-                                                                &quot;blurBackground&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;blurRadius&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,&quot;value&quot;: 12.0
-                                                                  }
-                                                                },
-                                                                &quot;backgroundColor&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;white&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                },
-                                                                &quot;navigationColor&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadowOptions&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;borderOptions&quot;: {
+                                                              }
+                                                            },
+                                                            &quot;dynamicOptions&quot;: {
+                                                              &quot;border&quot;: {
                                                                 &quot;enabled&quot;: false,
                                                                 &quot;position&quot;: &quot;allSides&quot;,
                                                                 &quot;thickness&quot;: {
                                                                   &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0},
+                                                                  &quot;value&quot;: 4.0
+                                                                },
                                                                 &quot;color&quot;: {
                                                                   &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
                                                                   &quot;sitePaletteColor&quot;: {
@@ -1728,823 +1904,14 @@ if (isset($_GET['online'])) {
                                                                     &quot;alphaModifier&quot;: 1.0
                                                                   }
                                                                 }
-                                                              },
-                                                              &quot;showPromotedElement&quot;: false,
-                                                              &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
+                                                              }
+                                                            },
+                                                            &quot;solidOptions&quot;: {
                                                               &quot;headerOpacity&quot;: {
                                                                 &quot;unit&quot;: &quot;%&quot;,
                                                                 &quot;value&quot;: 100.0
-                                                              }
-                                                            }" data-section-id="header" data-header-theme="" data-menu-overlay-theme="" data-header-style="dynamic" data-language-picker="{
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;iconEnabled&quot;: false,
-                                                              &quot;iconType&quot;: &quot;globe&quot;,
-                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                              &quot;languageFlags&quot;: [ ]
-                                                            }" data-first-focusable-element="" tabindex="-1" style="
-        
-          
-          
-            --headerBorderColor: hsla(var(--black-hsl), 1);
-          
-        
-        
-          --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
-        
-        
-          --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
-        
-        
-          --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
-        
-        
-          --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
-        
-      " data-controllers-bound="Header">
-  
-        <div class="sqs-announcement-bar-dropzone"></div>
-  
-        <div class="header-announcement-bar-wrapper">
-  
-          <a href="#page" class="header-skip-link sqs-button-element--primary">
-            Skip to Content
-          </a>
-  
-  
-  
-  
-          <div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true"
-            data-header-border="false" data-test="header-border" style="
-  
-  
-  
-  
-  
-  
-    
-      border-width: 0px !important;
-    
-  
-  
-  
-    
-  
-  
-  
-  "></div>
-          <div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true"
-            data-header-dropshadow="false" data-test="header-dropshadow" style="
-  
-  
-    
-  "></div>
-  
-  
-  
-          <div class='header-inner container--fluid
-          
-            header-layout--with-commerce
-          
-          
-          
-          
-          
-          
-          
-           header-mobile-layout-logo-center-nav-left
-          
-          
-          
-          
-          
-           header-layout-branding-center
-          
-          
-          
-          
-          
-          ' style="
-  
-  
-  
-  
-  
-  
-    
-      padding: 0;
-    
-  
-  
-  
-  " data-test="header-inner">
-            <!-- Background -->
-            <div class="header-background theme-bg--primary"></div>
-  
-            <div class="header-display-desktop" data-content-field="site-title">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-              <style>.top-bun,
-                .patty,
-                .bottom-bun {
-                  height: 1px;
-                }
-              </style>
-  
-              <!-- Burger -->
-              <div class="header-burger
-  
-    menu-overlay-does-not-have-visible-non-navigation-items
-  
-  
-    
-    no-actions
-    
-  " data-animation-role="header-element">
-                <button class="header-burger-btn burger" data-test="header-burger">
-                  <span class="js-header-burger-open-title visually-hidden">Open Menu</span>
-                  <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-                  <div class="burger-box">
-                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
-                      <div class="top-bun"></div>
-                      <div class="patty"></div>
-                      <div class="bottom-bun"></div>
-                    </div>
-                  </div>
-                </button>
-              </div>
-  
-  
-              <!-- Social -->
-  
-  
-  
-              <!-- Title and nav wrapper -->
-              <div class="header-title-nav-wrapper">
-  
-  
-  
-  
-  
-  
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-  
-  
-  
-  
-                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                        <a>
-                          BERKATBET                        </a>
-                      </div>
-  
-  
-  
-  
-  
-  
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a>
-                          <?php echo $BRANDS ?>
-                        </a>
-                      </div>
-  
-  
-  
-  
-  
-  
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a>
-                          
-                        </a>
-                      </div>
-  
-  
-  
-  
-  
-  
-                    </nav>
-                  </div>
-                </div>
-  
-  
-                <!-- Title -->
-  
-                <div class="
-                        header-title
-                        
-                      " data-animation-role="header-element">
-  
-                  <div class="header-title-logo">
-                    <a href="<?php echo $urlPath ?>" data-animation-role="header-element">
-  
-                      <img elementtiming="nbf-header-logo-desktop"
-                        src="https://iili.io/3HRjoSR.png"
-                        alt="BERKATBET" style="display:block" fetchpriority="high" loading="eager" decoding="async"
-                        data-loader="raw">
-  
-                    </a>
-                  </div>
-  
-  
-  
-                </div>
-  
-  
-  
-              </div>
-  
-  
-              <!-- Actions -->
-              <div class="header-actions header-actions--right">
-                <div class="showOnMobile">
-  
-  
-  
-  
-  
-  
-                  <div class="header-actions-action header-actions-action--cart">
-                    <a href="/cart"
-                      class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                      <span class="Cart-inner">
-  
-  
-  
-  
-                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                          <path fill-rule="evenodd" clip-rule="evenodd"
-                            d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" /></path>
-                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" /></path>
-                          <path
-                            d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" /></path>
-                          <path
-                            d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" /></path>
-                        </svg>
-  
-                        <div class="icon-cart-quantity">
-  
-                          <span class="cart-quantity-container">
-  
-                            <span class="sqs-cart-quantity">0</span>
-  
-                          </span>
-  
-                        </div>
-                      </span>
-                    </a>
-                  </div>
-  
-  
-  
-  
-  
-  
-                </div>
-  
-  
-                <div class="showOnDesktop">
-  
-  
-  
-  
-  
-  
-                  <div class="header-actions-action header-actions-action--cart">
-                    <a href="<?php echo $urlPath ?>"
-                      class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                      <span class="Cart-inner">
-  
-  
-  
-  
-                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                          <path fill-rule="evenodd" clip-rule="evenodd"
-                            d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" /></path>
-                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" /></path>
-                          <path
-                            d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" /></path>
-                          <path
-                            d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" /></path>
-                        </svg>
-  
-                        <div class="icon-cart-quantity">
-  
-                          <span class="cart-quantity-container">
-  
-                            <span class="sqs-cart-quantity">0</span>
-  
-                          </span>
-  
-                        </div>
-                      </span>
-                    </a>
-                  </div>
-  
-  
-  
-  
-  
-  
-                </div>
-  
-  
-              </div>
-  
-  
-  
-  
-  
-  
-  
-            </div>
-            <div class="header-display-mobile" data-content-field="site-title">
-  
-  
-  
-  
-  
-              <!-- Social -->
-  
-  
-  
-  
-  
-              <style>
-                .top-bun,
-                .patty,
-                .bottom-bun {
-                  height: 1px;
-                }
-          .header-title-logo a{
-          max-height: 7rem !important;
-      }
-      .header-title-logo img {
-      max-height: 7rem !important;
-  }
-              </style>
-  
-              <!-- Burger -->
-              <div class="header-burger
-  
-    menu-overlay-does-not-have-visible-non-navigation-items
-  
-  
-    
-    no-actions
-    
-  " data-animation-role="header-element">
-                <button class="header-burger-btn burger" data-test="header-burger">
-                  <span class="js-header-burger-open-title visually-hidden">Open Menu</span>
-                  <span hidden class="js-header-burger-close-title visually-hidden">CloseMenu</span>
-                  <div class="burger-box">
-                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
-                      <div class="top-bun"></div>
-                      <div class="patty"></div>
-                      <div class="bottom-bun"></div>
-                    </div>
-                  </div>
-                </button>
-              </div>
-  
-  
-              <!-- Title and nav wrapper -->
-              <div class="header-title-nav-wrapper">
-  
-  
-  
-  
-  
-  
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-  
-  
-  
-  
-                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                        <a href="#" data-animation-role="header-element" aria-current="page">
-                          Store
-                        </a>
-                      </div>
-  
-  
-  
-  
-  
-  
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a href="#" data-animation-role="header-element">
-                          All Prints
-                        </a>
-                      </div>
-  
-  
-  
-  
-  
-  
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a href="#" data-animation-role="header-element">
-                          About
-                        </a>
-                      </div>
-  
-  
-  
-  
-  
-  
-                    </nav>
-                  </div>
-                </div>
-  
-  
-                <!-- Title -->
-  
-                <div class="
-                        header-title
-                        
-                      " data-animation-role="header-element">
-  
-                  <div class="header-title-logo">
-                    <a href="<?php echo $urlPath ?>" data-animation-role="header-element">
-  
-                      <img elementtiming="nbf-header-logo-desktop"
-                        src="https://iili.io/3HRjoSR.png"
-                        alt="BERKATBET" style="display:block" fetchpriority="high" loading="eager" decoding="async"
-                        data-loader="raw">
-  
-                    </a>
-                  </div>
-  
-  
-  
-                </div>
-  
-  
-  
-              </div>
-  
-  
-              <!-- Actions -->
-              <div class="header-actions header-actions--right">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-                <div class="showOnMobile">
-  
-  
-  
-  
-  
-  
-                  <div class="header-actions-action header-actions-action--cart">
-                    <a href="#"
-                      class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                      <span class="Cart-inner">
-  
-  
-  
-  
-                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                          <path fill-rule="evenodd" clip-rule="evenodd"
-                            d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" /></path>
-                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" /></path>
-                          <path
-                            d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" /></path>
-                          <path
-                            d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" /></path>
-                        </svg>
-  
-                        <div class="icon-cart-quantity">
-  
-                          <span class="cart-quantity-container">
-  
-                            <span class="sqs-cart-quantity">0</span>
-  
-                          </span>
-  
-                        </div>
-                      </span>
-                    </a>
-                  </div>
-  
-  
-  
-  
-  
-  
-                </div>
-  
-  
-                <div class="showOnDesktop">
-  
-  
-  
-  
-  
-  
-                  <div class="header-actions-action header-actions-action--cart">
-                    <a href="#"
-                      class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                      <span class="Cart-inner">
-  
-  
-  
-  
-                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                          <path fill-rule="evenodd" clip-rule="evenodd"
-                            d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" /></path>
-                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" /></path>
-                          <path
-                            d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" /></path>
-                          <path
-                            d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" /></path>
-                        </svg>
-  
-                        <div class="icon-cart-quantity">
-  
-                          <span class="cart-quantity-container">
-  
-                            <span class="sqs-cart-quantity">0</span>
-  
-                          </span>
-  
-                        </div>
-                      </span>
-                    </a>
-                  </div>
-  
-  
-  
-  
-  
-  
-                </div>
-  
-  
-              </div>
-  
-  
-  
-            </div>
-          </div>
-        </div>
-        <!-- (Mobile) Menu Navigation -->
-        <div class="header-menu header-menu--folder-list
-        
-        
-        
-        
-        
-        " data-section-theme="" data-current-styles="{
-                                                              &quot;layout&quot;: &quot;brandingCenter&quot;,
-                                                              &quot;action&quot;: {
-                                                                &quot;buttonText&quot;: &quot;Get Started&quot;,
-                                                                &quot;newWindow&quot;: false
                                                               },
-                                                              &quot;showSocial&quot;: false,
-                                                              &quot;socialOptions&quot;: {
-                                                                &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                                &quot;socialBorderThickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 1.0}
-                                                              },
-                                                              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                              &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                              &quot;cartText&quot;: &quot;Cart&quot;,
-                                                              &quot;showEmptyCartState&quot;: true,
-                                                              &quot;cartOptions&quot;: {
-                                                                &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                                &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                                &quot;cartBorderThickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 1.0
-                                                                }
-                                                              },&quot;showButton&quot;: false,
-                                                              &quot;showCart&quot;: true,
-                                                              &quot;showAccountLogin&quot;: false,
-                                                              &quot;headerStyle&quot;: &quot;dynamic&quot;,
-                                                              &quot;languagePicker&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;iconEnabled&quot;: false,
-                                                                &quot;iconType&quot;: &quot;globe&quot;,
-                                                                &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                                &quot;languageFlags&quot;: [ ]
-                                                              },
-                                                              &quot;mobileOptions&quot;: {
-                                                                &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
-                                                                &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                                &quot;menuIconOptions&quot;: {
-                                                                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                  &quot;thickness&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 1.0}
-                                                                }
-                                                              },
-                                                              &quot;dynamicOptions&quot;: {
-                                                                &quot;border&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;position&quot;: &quot;allSides&quot;,
-                                                                  &quot;thickness&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 4.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,&quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;solidOptions&quot;: {
-                                                                &quot;headerOpacity&quot;: {
-                                                                  &quot;unit&quot;: &quot;%&quot;,
-                                                                  &quot;value&quot;: 100.0
-                                                                },
-                                                                &quot;border&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;position&quot;: &quot;allSides&quot;,
-                                                                  &quot;thickness&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 4.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                },
-                                                                &quot;dropShadow&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;blur&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 30.0
-                                                                  },
-                                                                  &quot;spread&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 0.0
-                                                                  },
-                                                                  &quot;distance&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 0.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                },
-                                                                &quot;blurBackground&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;blurRadius&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 12.0
-                                                                  }
-                                                                },
-                                                                &quot;backgroundColor&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;white&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                },
-                                                                &quot;navigationColor&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;gradientOptions&quot;: {
-                                                                &quot;gradientType&quot;: &quot;faded&quot;,
-                                                                &quot;headerOpacity&quot;: {
-                                                                  &quot;unit&quot;: &quot;%&quot;,
-                                                                  &quot;value&quot;: 90.0
-                                                                },
-                                                                &quot;border&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;position&quot;: &quot;allSides&quot;,&quot;thickness&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 4.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                },
-                                                                &quot;dropShadow&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;blur&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 30.0},
-                                                                  &quot;spread&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 0.0
-                                                                  },
-                                                                  &quot;distance&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 0.0
-                                                                  },
-                                                                  &quot;color&quot;: {
-                                                                    &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                    &quot;sitePaletteColor&quot;: {
-                                                                      &quot;colorName&quot;: &quot;black&quot;,
-                                                                      &quot;alphaModifier&quot;: 1.0
-                                                                    }
-                                                                  }
-                                                                },
-                                                                &quot;blurBackground&quot;: {
-                                                                  &quot;enabled&quot;: false,
-                                                                  &quot;blurRadius&quot;: {
-                                                                    &quot;unit&quot;: &quot;px&quot;,
-                                                                    &quot;value&quot;: 12.0
-                                                                  }
-                                                                },
-                                                                &quot;backgroundColor&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;white&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                },
-                                                                &quot;navigationColor&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }},
-                                                              &quot;dropShadowOptions&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;borderOptions&quot;: {
+                                                              &quot;border&quot;: {
                                                                 &quot;enabled&quot;: false,
                                                                 &quot;position&quot;: &quot;allSides&quot;,
                                                                 &quot;thickness&quot;: {
@@ -2559,8 +1926,92 @@ if (isset($_GET['online'])) {
                                                                   }
                                                                 }
                                                               },
-                                                              &quot;showPromotedElement&quot;: false,
-                                                              &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0}
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;gradientOptions&quot;: {
+                                                              &quot;gradientType&quot;: &quot;faded&quot;,
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 90.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
                                                               &quot;blurBackground&quot;: {
                                                                 &quot;enabled&quot;: false,
                                                                 &quot;blurRadius&quot;: {
@@ -2568,383 +2019,884 @@ if (isset($_GET['online'])) {
                                                                   &quot;value&quot;: 12.0
                                                                 }
                                                               },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dropShadowOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blur&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              },
+                                                              &quot;spread&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 0.0
+                                                              },
+                                                              &quot;distance&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;borderOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;position&quot;: &quot;allSides&quot;,
+                                                              &quot;thickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 4.0},
+                                                              &quot;color&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;showPromotedElement&quot;: false,
+                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                            &quot;blurBackground&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blurRadius&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;headerOpacity&quot;: {
+                                                              &quot;unit&quot;: &quot;%&quot;,
+                                                              &quot;value&quot;: 100.0
+                                                            }
+                                                          }" data-section-id="header" data-header-theme data-menu-overlay-theme data-header-style="dynamic" data-language-picker="{
+                                                            &quot;enabled&quot;: false,
+                                                            &quot;iconEnabled&quot;: false,
+                                                            &quot;iconType&quot;: &quot;globe&quot;,
+                                                            &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                            &quot;languageFlags&quot;: [ ]
+                                                          }" data-first-focusable-element tabindex="-1" style="
+      
+        
+        
+          --headerBorderColor: hsla(var(--black-hsl), 1);
+        
+      
+      
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+    ">
+<div class="sqs-announcement-bar-dropzone"></div>
+<div class="header-announcement-bar-wrapper">
+<a href="#page" class="header-skip-link sqs-button-element--primary">
+Skip to Content
+</a>
+<div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true" data-header-border="false" data-test="header-border" style="
+
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"></div>
+<div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true" data-header-dropshadow="false" data-test="header-dropshadow" style="
+
+
+  
+"></div>
+<div class="header-inner container--fluid
+        
+          header-layout--with-commerce
+        
+        
+        
+        
+        
+        
+        
+         header-mobile-layout-logo-center-nav-left
+        
+        
+        
+        
+        
+         header-layout-branding-center
+        
+        
+        
+        
+        
+        " style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+" data-test="header-inner">
+
+<div class="header-background theme-bg--primary"></div>
+<div class="header-display-desktop" data-content-field="site-title">
+<style>
+              .top-bun,
+              .patty,
+              .bottom-bun {
+                height: 1px;
+              }
+            </style>
+
+<div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+<button class="header-burger-btn burger" data-test="header-burger">
+<span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+<span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+<div class="burger-box">
+<div class="burger-inner header-menu-icon-doubleLineHamburger">
+<div class="top-bun"></div>
+<div class="patty"></div>
+<div class="bottom-bun"></div>
+</div>
+</div>
+</button>
+</div>
+
+
+<div class="header-title-nav-wrapper">
+
+<div class="header-nav">
+<div class="header-nav-wrapper">
+<nav class="header-nav-list">
+<div class="header-nav-item header-nav-item--collection header-nav-item--active">
+<a>
+WAP <?php echo $BRANDS ?>
+</a>
+</div>
+<div class="header-nav-item header-nav-item--collection">
+<a>
+RTP <?php echo $BRANDS ?>
+</a>
+</div>
+<div class="header-nav-item header-nav-item--collection">
+<a>
+PRODUCKS <?php echo $BRANDS ?>
+</a>
+</div>
+</nav>
+</div>
+</div>
+
+<div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+<div class="header-title-logo">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element">
+<img elementtiming="nbf-header-logo-desktop" src="https://paimanis.wordpress.com/wp-content/uploads/2025/02/slotgacor.gif" alt="<?php echo $BRANDS ?>" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+</a>
+</div>
+</div>
+</div>
+
+<div class="header-actions header-actions--right">
+<div class="showOnMobile">
+<div class="header-actions-action header-actions-action--cart">
+<a href="<?php echo $urlPath ?>/cart" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+<span class="Cart-inner">
+<svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+<path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+<path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+<path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+<div class="icon-cart-quantity">
+<span class="cart-quantity-container">
+<span class="sqs-cart-quantity">0</span>
+</span>
+</div>
+</span>
+</a>
+</div>
+</div>
+<div class="showOnDesktop">
+<div class="header-actions-action header-actions-action--cart">
+<a href="<?php echo $urlPath ?>/cart" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+<span class="Cart-inner">
+<svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+<path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+<path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+<path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+<div class="icon-cart-quantity">
+<span class="cart-quantity-container">
+<span class="sqs-cart-quantity">0</span>
+</span>
+</div>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="header-display-mobile" data-content-field="site-title">
+
+<style>
+              .top-bun,
+              .patty,
+              .bottom-bun {
+                height: 1px;
+              }
+              .header-title-logo a{
+        max-height: 7rem !important;
+    }
+    .header-title-logo img {
+    max-height: 7rem !important;
+}
+            </style>
+
+<div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+<button class="header-burger-btn burger" data-test="header-burger">
+<span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+<span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+<div class="burger-box">
+<div class="burger-inner header-menu-icon-doubleLineHamburger">
+<div class="top-bun"></div>
+<div class="patty"></div>
+<div class="bottom-bun"></div>
+</div>
+</div>
+</button>
+</div>
+
+<div class="header-title-nav-wrapper">
+
+<div class="header-nav">
+<div class="header-nav-wrapper">
+<nav class="header-nav-list">
+<div class="header-nav-item header-nav-item--collection header-nav-item--active">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element" aria-current="page">
+Store
+</a>
+</div>
+<div class="header-nav-item header-nav-item--collection">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element">
+All Prints
+</a>
+</div>
+<div class="header-nav-item header-nav-item--collection">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element">
+About
+</a>
+</div>
+</nav>
+</div>
+</div>
+
+<div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+<div class="header-title-logo">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element">
+<img elementtiming="nbf-header-logo-desktop" src="https://paimanis.wordpress.com/wp-content/uploads/2025/02/slotgacor.gif" alt="<?php echo $BRANDS ?>" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+</a>
+</div>
+</div>
+</div>
+
+<div class="header-actions header-actions--right">
+<div class="showOnMobile">
+<div class="header-actions-action header-actions-action--cart">
+<a href="<?php echo $urlPath ?>" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+<span class="Cart-inner">
+<svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+<path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+<path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+<path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+<div class="icon-cart-quantity">
+<span class="cart-quantity-container">
+<span class="sqs-cart-quantity">0</span>
+</span>
+</div>
+</span>
+</a>
+</div>
+</div>
+<div class="showOnDesktop">
+<div class="header-actions-action header-actions-action--cart">
+<a href="<?php echo $urlPath ?>" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+<span class="Cart-inner">
+<svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+<path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+<path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+<path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+<div class="icon-cart-quantity">
+<span class="cart-quantity-container">
+<span class="sqs-cart-quantity">0</span>
+</span>
+</div>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header-menu header-menu--folder-list
+      
+      
+      
+      
+      
+      " data-section-theme data-current-styles="{
+
+                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                            &quot;action&quot;: {
+                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                              &quot;newWindow&quot;: false
+                                                            },
+                                                            &quot;showSocial&quot;: false,
+                                                            &quot;socialOptions&quot;: {
+                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;socialBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                            &quot;cartText&quot;: &quot;Cart&quot;,
+                                                            &quot;showEmptyCartState&quot;: true,
+                                                            &quot;cartOptions&quot;: {
+                                                              &quot;iconType&quot;: &quot;solid-7&quot;,
+                                                              &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;cartBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;showButton&quot;: false,
+                                                            &quot;showCart&quot;: true,
+                                                            &quot;showAccountLogin&quot;: false,
+                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                            &quot;languagePicker&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            },
+                                                            &quot;mobileOptions&quot;: {
+                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                              &quot;menuIconOptions&quot;: {
+                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0}
+                                                              }
+                                                            },
+                                                            &quot;dynamicOptions&quot;: {
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,&quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;solidOptions&quot;: {
                                                               &quot;headerOpacity&quot;: {
                                                                 &quot;unit&quot;: &quot;%&quot;,
                                                                 &quot;value&quot;: 100.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
                                                               }
-                                                            }" data-section-id="overlay-nav" data-show-account-login="false" data-test="header-menu" style="padding-top: 104.281px;">
-          <div class="header-menu-bg theme-bg--primary"></div>
-          <div class="header-menu-nav">
-            <nav class="header-menu-nav-list">
-              
-            <div data-folder="root" class="header-menu-nav-folder header-menu-nav-folder--active">
-                <div class="header-menu-nav-folder-content">
-                  <!-- Menu Navigation -->
-                  <div class="header-menu-nav-wrapper">
-  
-  
-  
-  
-  
-                    <div
-                      class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
-                      <a href="/store" aria-current="page">
-                        <div class="header-menu-nav-item-content">
-                          Store
-                        </div>
-                      </a>
-                    </div>
-  
-  
-  
-  
-  
-  
-  
-                    <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                      <a href="/all-prints">
-                        <div class="header-menu-nav-item-content">All Prints
-                        </div>
-                      </a>
-                    </div>
-  
-  
-  
-  
-  
-  
-  
-                    <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                      <a href="/about">
-                        <div class="header-menu-nav-item-content">
-                          About
-                        </div>
-                      </a>
-                    </div>
-  
-  
-  
-  
-                  </div>
-  
-  
-                </div>
-  
-  
-  
-              </div></nav>
-          </div>
-        </div>
-      </header>
-        
-  
-  
-  
-  
-  
-      <main id="page" class="container" role="main">
-  
-  
-        <article class="sections" id="sections" data-page-sections="65fd0fc2aa1d0858f5af2fe5">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-          <section data-test="page-section" data-section-theme="" class="page-section 
+                                                            },
+                                                            &quot;gradientOptions&quot;: {
+                                                              &quot;gradientType&quot;: &quot;faded&quot;,
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 90.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,&quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0},
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &ququot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dropShadowOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blur&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              },
+                                                              &quot;spread&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 0.0
+                                                              },
+                                                              &quot;distance&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;borderOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;position&quot;: &quot;allSides&quot;,
+                                                              &quot;thickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 4.0
+                                                              },
+                                                              &quot;color&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;showPromotedElement&quot;: false,
+                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                            &quot;blurBackground&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blurRadius&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;headerOpacity&quot;: {
+                                                              &quot;unit&quot;: &quot;%&quot;,
+                                                              &quot;value&quot;: 100.0
+                                                            }
+                                                          }" data-section-id="overlay-nav" data-show-account-login="false" data-test="header-menu">
+<div class="header-menu-bg theme-bg--primary"></div>
+<div class="header-menu-nav">
+<nav class="header-menu-nav-list">
+<div data-folder="root" class="header-menu-nav-folder">
+<div class="header-menu-nav-folder-content">
+
+<div class="header-menu-nav-wrapper">
+<div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
+<a href="<?php echo $urlPath ?>/store" aria-current="page">
+<div class="header-menu-nav-item-content">
+Store
+</div>
+</a>
+</div>
+<div class="container header-menu-nav-item header-menu-nav-item--collection">
+<a href="<?php echo $urlPath ?>/all-prints">
+<div class="header-menu-nav-item-content">All Prints
+</div>
+</a>
+</div>
+<div class="container header-menu-nav-item header-menu-nav-item--collection">
+<a href="<?php echo $urlPath ?>/about">
+<div class="header-menu-nav-item-content">
+About
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<main id="page" class="container" role="main">
+<article class="sections" id="sections" data-page-sections="65fd0fc2aa1d0858f5af2fe5">
+<section data-test="page-section" data-section-theme class="page-section 
+    
+      content-collection
+      full-bleed-section
+      collection-type-products
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
       
-        content-collection
-        full-bleed-section
-        collection-type-products
+    
+    
+    " data-section-id="65fd10856774354aafe184c6" data-controller="SectionWrapperController" data-current-styles="{
+                                                            &quot;imageOverlayOpacity&quot;: 0.15,
+                                                            &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                                            &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                                                            &quot;customSectionHeight&quot;: 10,
+                                                            &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                                            &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                                            &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                                            &quot;customContentWidth&quot;: 50,
+                                                            &quot;backgroundColor&quot;: &quot;&quot;,
+                                                            &quot;sectionTheme&quot;: &quot;&quot;,
+                                                            &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                                            &quot;backgroundMode&quot;: &quot;image&quot;
+                                                          }" data-current-context="{
+                                                            &quot;video&quot;: null,
+                                                            &quot;backgroundImageId&quot;: null,
+                                                            &quot;backgroundMediaEffect&quot;: null,
+                                                            &quot;divider&quot;: null,
+                                                            &quot;typeName&quot;: &quot;products&quot;
+                                                          }" data-animation="none">
+<div class="section-border">
+<div class="section-background">
+</div>
+</div>
+<div class="content-wrapper" style="
       
-      background-width--full-bleed
       
-        section-height--medium
-      
-      
-        content-width--wide
-      
-      horizontal-alignment--center
-      vertical-alignment--middle
-      
-        
-      
-      
-      " data-section-id="65fd10856774354aafe184c6" data-controller="SectionWrapperController" data-current-styles="{
-                                                              &quot;imageOverlayOpacity&quot;: 0.15,
-                                                              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                              &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                                              &quot;customSectionHeight&quot;: 10,
-                                                              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                              &quot;customContentWidth&quot;: 50,
-                                                              &quot;backgroundColor&quot;: &quot;&quot;,
-                                                              &quot;sectionTheme&quot;: &quot;&quot;,
-                                                              &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                              &quot;backgroundMode&quot;: &quot;image&quot;
-                                                            }" data-current-context="{
-                                                              &quot;video&quot;: null,
-                                                              &quot;backgroundImageId&quot;: null,
-                                                              &quot;backgroundMediaEffect&quot;: null,
-                                                              &quot;divider&quot;: null,
-                                                              &quot;typeName&quot;: &quot;products&quot;
-                                                            }" data-animation="none" style="padding-top: 104.281px;" data-controllers-bound="SectionWrapperController" data-active="true">
-            <div class="section-border">
-              <div class="section-background">
-  
-  
-  
-              </div>
-            </div>
-            <div class='content-wrapper' style='
-        
-        
-      '>
-              <div class="content">
-  
-                <div class="n-columns-2">
-                  <a href="https://t.ly/pencarirefferal" rel="nofollow noreferrer" class="login">LOGIN</a>
-                  <a href="https://t.ly/pencarirefferal" rel="nofollow noreferrer" class="register">DAFTAR</a>
-                  </div>
-  
-  
-  
-  
-  
-                <section id="pdp" class="
-      products
-      collection-content-wrapper
-      product-layout-side-by-side
     ">
-  
-  
-  
-  
-  
-  
-  
-  
-                  <article
-                    class="ProductItem hentry tag-togel-online tag-situs-toto tag-toto-togel author-situs-toto-togel-4D post-type-store-item"
-                    data-item-id="65fd0fc7db01f63c712f258e">
-  
-                    <nav class="ProductItem-nav">
-                      <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-                        <a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a>
-                        <span class="ProductItem-nav-breadcrumb-separator"></span>
-                        <a href="/store/p/zeus" class="ProductItem-nav-breadcrumb-link">Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini</a>
-                      </div>
-  
-  
-  
-                    </nav><section class="ProductItem-summary" data-controller="ProductGallery" data-controllers-bound="ProductGallery">
-                      <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
-  
-  
-                        <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
-  
-  
-  
-                          <div class="ProductItem-gallery-slides-item selected going-next loaded next-loaded prev-loaded" data-slide-index="1" data-image-id="65fd0fd62438744c9a05c86b" data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide" data-slide-transition="0" data-landscape="true" tabindex="-1" data-controllers-bound="ImageZoom">
-                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://iili.io/3Harqut.jpg" data-image="https://iili.io/3Harqut.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="BERKATBET" elementtiming="nbf-products-gallery" style="width: 100%; height: 100%; object-position: 50% 50%; object-fit: cover;" data-parent-ratio="0.7" data-image-resolution="2500w" src="https://iili.io/3Harqut.jpg" />
-                            <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
-                              style="display: none;">
-                              Image 1 of
-                            </span>
-                            <div class="product-image-zoom-duplicate loaded" aria-hidden="true" data-slide-transition="2" data-landscape="true">
-                              <img data-load="false" data-src="https://iili.io/3Harqut.jpg" data-image="https://iili.io/3Harqut.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="BERKATBET" elementtiming="nbf-products-gallery-zoom" style="width: 100%; height: 100%; object-position: 50% 50%; object-fit: cover;" data-parent-ratio="0.7" class="" data-image-resolution="2500w" src="https://iili.io/3Harqut.jpg" />
-                            </div>
-                          </div>
-  
-  
-  
-                          
-                        </div>
-  
-                      </section>
-  
-                      <section class="
-      product-details
-      ProductItem-details
-    " data-test="pdp-details">
-                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title">
-                          Seminar Dokter Tirta <?php echo $BRANDS ?> Bagikan 3 Tips Kesehatan Jantung Hari Ini                        </h1><div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout" data-controllers-bound="ProductItemVariants,ProductCartButton">
-  
-                          <div class="ProductItem-product-price" data-animation-role="content">
-  
-  
-  
-                            <div class="product-price">
-                              IDR 20,000.00
-                            </div>
-  
-  
-  
-                            <div data-afterpay="true" data-current-context="{
-                                                              &quot;65fd0fc7db01f63c712f258e&quot;: {
-                                                                &quot;scarcityEnabled&quot;: false,
-                                                                &quot;scarcityShownByDefault&quot;: false,
-                                                                &quot;afterPayAvailable&quot;: false,
-                                                                &quot;klarnaAvailable&quot;: false,
-                                                                &quot;shopperLanguage&quot;: &quot;en&quot;,
-                                                                &quot;afterPayMin&quot;: 0,
-                                                                &quot;afterPayMax&quot;: 0,
-                                                                &quot;klarnaMin&quot;: 0,
-                                                                &quot;klarnaMax&quot;: 0,
-                                                                &quot;mailingListSignUpEnabled&quot;: false,
-                                                                &quot;mailingListOptInByDefault&quot;: false
-                                                              }
-                                                            }"></div>
-                            <div class="pdp-overlay"></div>
-  
-                          </div>
-  
-                          <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-  <p>Pelajari 3 tips kesehatan jantung terbaik <?php echo $BRANDS ?> langsung dari Dokter Tirta dalam seminar hari ini. Temukan cara menjaga jantung tetap sehat dan kuat dengan <?php echo $BRANDS ?>.</p> 
-                          </div>
-  
-                          <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e"
-                            data-animation-role="content">
-                            <div class="quantity-label">Quantity:</div>
-                            <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number"
-                              step="1">
-                          </div>
-  
-                          <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
-                            <a><div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-button-element--primary" role="button" tabindex="0" data-dynamic-strings="" data-collection-id="65fd0fc2aa1d0858f5af2fe4" data-item-id="65fd0fc7db01f63c712f258e" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
-                              <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
-                            </div></a>
-                          </div>
-  
-                        </div>
-                      </section>
-  
-                    </section>
-                  </article>
-                </section>
-              </div>
-  
-            </div>
-          </section>
-        </article>
-      </main>
-      <script type="text/javascript">
-        const firstSection = document.querySelector('.page-section');
-        const header = document.querySelector('.header');
-        const mobileOverlayNav = document.querySelector('.header-menu');
-        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
-        const headerHeight = header ? header.getBoundingClientRect().height : 0;
-        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
-        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
-        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
-  
-        if (firstSection) {
-          firstSection.style.paddingTop = headerHeight + 'px';
+<div class="content">
+<div class="n-columns-2">
+<a href="https://t.ly/pencarirefferal" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://t.ly/pencarirefferal" rel="nofollow noreferrer" class="register">DAFTAR</a>
+</div>
+<section id="pdp" class="
+    products
+    collection-content-wrapper
+    product-layout-side-by-side
+  ">
+<article class="ProductItem hentry tag-togel-online tag-situs-toto tag-toto-togel author-situs-toto-togel-4D post-type-store-item" data-item-id="65fd0fc7db01f63c712f258e">
+<nav class="ProductItem-nav">
+<div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+<a href="<?php echo $urlPath ?>/store" class="ProductItem-nav-breadcrumb-link">Store</a>
+<span class="ProductItem-nav-breadcrumb-separator"></span>
+<a href="<?php echo $urlPath ?>/store/p/zeus" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire</a>
+</div>
+</nav>
+<section class="ProductItem-summary" data-controller="ProductGallery">
+<section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
+<div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
+<div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id="65fd0fd62438744c9a05c86b" data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+<img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" data-image="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" elementtiming="nbf-products-gallery" />
+<span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" style="display: none;">
+Image 1 of
+</span>
+<div class="product-image-zoom-duplicate" aria-hidden="true">
+<img data-load="false" data-src="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" data-image="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" elementtiming="nbf-products-gallery-zoom" />
+</div>
+</div>
+<div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
+<div class="gallery-lightbox " data-section-theme>
+<div class="gallery-lightbox-background"></div>
+<div class="gallery-lightbox-header">
+<button class="gallery-lightbox-close-btn" aria-label="Close" data-close data-test="gallery-lightbox-close">
+<div class="gallery-lightbox-close-btn-icon">
+<svg viewBox="0 0 40 40">
+<path d="M4.3,35.7L35.7,4.3" />
+<path d="M4.3,4.3l31.4,31.4" />
+</svg>
+</div>
+</button>
+</div>
+<div class="gallery-lightbox-wrapper">
+<div class="gallery-lightbox-list">
+<figure class="gallery-lightbox-item" data-slide-url="zeus">
+<div class="gallery-lightbox-item-wrapper">
+<div class="gallery-lightbox-item-src">
+<div class="gallery-lightbox-item-img content-fit">
+<img data-src="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" data-image="https://i.postimg.cc/W1CdjRWV/Chat-GPT-Image-May-25-2025-04-27-11-PM.png" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+</div>
+</div>
+</figure>
+</div>
+<div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+<div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+<button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+<div class="gallery-lightbox-control-btn-icon">
+<svg class="caret-left-icon--small" viewBox="0 0 9 16">
+<polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 " />
+</svg>
+</div>
+</button>
+</div>
+<div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+<button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+<div class="gallery-lightbox-control-btn-icon">
+<svg class="caret-right-icon--small" viewBox="0 0 9 16">
+<polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 " />
+</svg>
+</div>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="
+    product-details
+    ProductItem-details
+  " data-test="pdp-details">
+<h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title">
+<?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire
+</h1>
+<div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
+<div class="ProductItem-product-price" data-animation-role="content">
+<div class="product-price">
+IDR 2500.00
+</div>
+<div data-afterpay="true" data-current-context="{
+                                                            &quot;65fd0fc7db01f63c712f258e&quot;: {
+                                                              &quot;scarcityEnabled&quot;: false,
+                                                              &quot;scarcityShownByDefault&quot;: false,
+                                                              &quot;afterPayAvailable&quot;: false,
+                                                              &quot;klarnaAvailable&quot;: false,
+                                                              &quot;shopperLanguage&quot;: &quot;en&quot;,
+                                                              &quot;afterPayMin&quot;: 0,
+                                                              &quot;afterPayMax&quot;: 0,
+                                                              &quot;klarnaMin&quot;: 0,
+                                                              &quot;klarnaMax&quot;: 0,
+                                                              &quot;mailingListSignUpEnabled&quot;: false,
+                                                              &quot;mailingListOptInByDefault&quot;: false
+                                                            }
+                                                          }"></div>
+<div class="pdp-overlay"></div>
+</div>
+<div class="ProductItem-details-excerpt" data-content-field="excerpt">
+<p><?php echo $BRANDS ?> Institut National de Santé Publique et Communautaire adalah lembaga yang berfokus pada pengembangan pengetahuan, riset, dan kebijakan di bidang kesehatan masyarakat dan komunitas, dengan tujuan meningkatkan kualitas hidup dan kesejahteraan masyarakat secara berkelanjutan.</p>
+</div>
+<div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e" data-animation-role="content">
+<div class="quantity-label">Quantity:</div>
+<input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
+</div>
+<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+<a><div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="65fd0fc2aa1d0858f5af2fe4" data-item-id="65fd0fc7db01f63c712f258e" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
+<div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+</div></a>
+</div>
+</div>
+</section>
+</section>
+</article>
+</section>
+</div>
+</div>
+</section>
+</article>
+</main>
+<script type="text/javascript">
+      const firstSection = document.querySelector('.page-section');
+      const header = document.querySelector('.header');
+      const mobileOverlayNav = document.querySelector('.header-menu');
+      const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+      const headerHeight = header ? header.getBoundingClientRect().height : 0;
+      const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+      const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+      const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+      if (firstSection) {
+        firstSection.style.paddingTop = headerHeight + 'px';
+      }
+      if (sectionBackground && isLayoutEngineSection) {
+        if (isFirstSectionInset) {
+          sectionBackground.style.top = headerHeight + 'px';
+        } else {
+          sectionBackground.style.top = '';
         }
-        if (sectionBackground && isLayoutEngineSection) {
-          if (isFirstSectionInset) {
-            sectionBackground.style.top = headerHeight + 'px';
-          } else {
-            sectionBackground.style.top = '';
-          }
-        }
-        //# sourceURL=headerPositioning.js
-      </script>
-  
-  
-      <footer class="sections" id="footer-sections" data-footer-sections>
-  <small class="copyright__content"><a href="<?php echo $urlPath ?>" title="Daftar Slot Online">Copyright ©2025 BERKATBET</a></small>
-      </footer>
-  
-  
-    </div>
-  
-    <script defer src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js" type="text/javascript"></script>
-    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
-      <symbol id="facebook-icon" viewBox="0 0 64 64">
-        <path
-          d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" /></path>
-      </symbol>
-      <symbol id="facebook-mask" viewBox="0 0 64 64">
-        <path
-          d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" /></path>
-      </symbol>
-      <symbol id="instagram-icon" viewBox="0 0 64 64">
-        <path
-          d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z" /></path>
-      </symbol>
-      <symbol id="instagram-mask" viewBox="0 0 64 64">
-        <path
-          d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" /></path>
-      </symbol>
-      <symbol id="twitter-icon" viewBox="0 0 64 64">
-        <path
-          d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" /></path>
-      </symbol>
-      <symbol id="twitter-mask" viewBox="0 0 64 64">
-        <path
-          d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" /></path>
-      </symbol>
-    </svg>
-  
-  
-  
-  <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox" data-controllers-bound="Lightbox">
-                            <div class="gallery-lightbox " data-section-theme="">
-                              <div class="gallery-lightbox-background"></div>
-  
-                              <div class="gallery-lightbox-header">
-                                <button class="gallery-lightbox-close-btn" aria-label="Close" data-close="" data-test="gallery-lightbox-close">
-                                  <div class="gallery-lightbox-close-btn-icon">
-                                    <svg viewBox="0 0 40 40">
-                                      <path d="M4.3,35.7L35.7,4.3"></path>
-                                      <path d="M4.3,4.3l31.4,31.4"></path>
-                                    </svg>
-                                  </div>
-                                </button>
-                              </div>
-  
-  
-                              <div class="gallery-lightbox-wrapper">
-                                <div class="gallery-lightbox-list">
-  
-                                  <figure class="gallery-lightbox-item" data-slide-url="zeus">
-                                    <div class="gallery-lightbox-item-wrapper">
-                                      <div class="gallery-lightbox-item-src">
-                                        <div class="gallery-lightbox-item-img content-fit" data-slide-transition="4" data-landscape="true">
-                                          <img data-src="https://iili.io/3Harqut.jpg" data-image="https://iili.io/3Harqut.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="BERKATBET" data-load="false" elementtiming="nbf-product-lightbox" /></div>
-                                      </div>
-                                    </div>
-                                  </figure>
-  
-                                </div>
-  
-                                <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
-                                  <div class="gallery-lightbox-control" data-previous="" data-test="gallery-lightbox-control-previous">
-                                    <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
-                                      <div class="gallery-lightbox-control-btn-icon">
-                                        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
-                                          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "></polyline>
-                                        </svg>
-                                      </div>
-                                    </button>
-                                  </div>
-                                  <div class="gallery-lightbox-control" data-next="" data-test="gallery-lightbox-control-next">
-                                    <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
-                                      <div class="gallery-lightbox-control-btn-icon">
-                                        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
-                                          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "></polyline>
-                                        </svg>
-                                      </div>
-                                    </button>
-                                  </div>
-                                </div>
-  
-                              </div>
-                            </div>
-                          </div></body></html>
+      }
+      //# sourceURL=headerPositioning.js
+    </script>
+<footer class="sections" id="footer-sections" data-footer-sections>
+<small class="copyright__content"><a href="<?php echo $urlPath ?>" title="Toto Slot Online">Copyright ©2025 <?php echo $BRANDS ?> All Rights Reserved</a></small>
+</footer>
+</div>
+<script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js" type="text/javascript"></script>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
+<symbol id="facebook-icon" viewBox="0 0 64 64">
+<path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" />
+</symbol>
+<symbol id="facebook-mask" viewBox="0 0 64 64">
+<path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" />
+</symbol>
+<symbol id="instagram-icon" viewBox="0 0 64 64">
+<path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z" />
+</symbol>
+<symbol id="instagram-mask" viewBox="0 0 64 64">
+<path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" />
+</symbol>
+<symbol id="twitter-icon" viewBox="0 0 64 64">
+<path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" />
+</symbol>
+<symbol id="twitter-mask" viewBox="0 0 64 64">
+<path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" />
+</symbol>
+</svg>
+</body>
+</html>                                                                   
